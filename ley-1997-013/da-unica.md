@@ -1,0 +1,4 @@
+Disposición adicional única. Obligaciones formales.
+El cumplimiento de las obligaciones formales de los Notarios, recogidas en los artículos 32.3 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones, y en el artículo 52 del texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre, se realizará en el formato que se determine por Orden del Conseller de Economía, Hacienda y Empleo.
+La remisión de la información podrá realizarse en soporte directamente legible por ordenador o mediante transmisión por vía telemática en las condiciones y diseño que se aprueben mediante Orden del Conseller de Economía, Hacienda y Empleo, quien, además, podrá establecer los supuestos y plazos en que dichas formas de remisión sean obligatorias.
+Se añade por el art. 39 de la Ley 11/2002, de 23 de diciembre. Ref. BOE-A-2003-2213.
