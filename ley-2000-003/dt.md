@@ -1,0 +1,2 @@
+Disposición transitoria.
+Las funciones previstas en el artículo 2 de esta Ley, sobre gestión y ejecución de las políticas activas de empleo, formación profesional y la intermediación laboral, se desarrollarán, por el Servicio Valenciano de Empleo y Formación, de manera gradual y de acuerdo con la dotación presupuestaria necesaria que garantice el cumplimiento de la presente Ley. En todo caso, el SERVEF desarrollará plenamente todas sus funciones en el plazo máximo de dos años desde la entrada en vigor de la Ley.
