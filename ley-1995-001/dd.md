@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogados el Decreto 7/1985, de 28 de enero, del Gobierno Valenciano, por el que se crea el Programa para la Animación y Promoción de la Educación Permanente de Adultos en la Comunidad Valenciana, la Orden de 30 de mayo de 1985, de la Consejería de Cultura, Educación y Ciencia que desarrolla el decreto citado anteriormente y todas las disposiciones de igual o inferior rango que se opongan a lo previsto en esta Ley.
