@@ -37,3 +37,6 @@ Partido Judicial número 14, Paterna.
 Partido Judicial número 15, Quart de Poblet.
 Partido Judicial número 16, Mislata.
 Partido Judicial número 17, Massamagrell.
+Partido judicial número 18, Picassent.
+Se establece la capitalidad del partido judicial nº 18 por el art. único de la Ley 6/1992, de 6 de noviembre. Ref. BOE-A-1992-26990
+Téngase en cuenta que el nuevo partdido judicial se creó por la Ley 3/1992, de 20 de marzo. Ref. BOE-A-1992-6576
