@@ -1,0 +1,3 @@
+Artículo octavo.
+Para su unión a los Presupuestos de la Generalidad, la tramitación de los Presupuestos de las Diputaciones Provinciales deberá tener en cuenta los plazos y disposiciones previstos en el artículo 55 del Estatuto de la Comunidad Valenciana.
+El incumplimiento por las Diputaciones Provinciales de los plazos establecido en el párrafo precedente no afectará a la normal tramitación de los Presupuestos de la Generalidad. El control del cumplimiento de las directrices de coordinación del Consejo se ejercerá en todo caso, sin perjuicio de las consecuencias que pudieran derivarse de aquel incumplimiento y de su no presentación a las Cortes unidos a los Presupuestos de la Generalidad.
