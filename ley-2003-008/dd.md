@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Queda derogado el Texto Refundido de la Ley de Cooperativas de la Comunidad Valenciana, aprobado por Decreto legislativo 1/1998, de 23 de junio, del Consell de la Generalitat, con las modificaciones introducidas por las leyes 10/1998, de 28 de diciembre y 9/2001, de 27 de diciembre, ambas de Medidas Fiscales, de Gestión Administrativa y Financiera, y de Organización de la Generalitat Valenciana.
