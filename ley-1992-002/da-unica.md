@@ -1,0 +1,3 @@
+Disposición adicional única.
+Los sujetos pasivos que dispongan de suministros propios de agua tienen un plazo de seis meses a contar desde la entrada en vigor de esta Ley para la instalación de contadores homologados del consumo de agua. Durante este periodo, y mientras no se produzca la instalación de contador, la base imponible del Canon de Saneamiento se determinará por el procedimiento vigente con anterioridad a aquella entrada en vigor.
+Se suprime la disposición adicional 1 pasando la actual disposición adicional segunda a ser la disposición adicional única por el art. 43 de la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433.

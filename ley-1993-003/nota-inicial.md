@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en BOE de 2 de marzo de 1994. Ref. BOE-A-1994-4737
+Téngase en cuenta que las referencias hechas al "Consejo Forestal de la Comunidad Valenciana" se entenderán hechas al "Consejo Asesor y de Participación de Medio Ambiente de la Comunidad Valenciana" según establece la disposición adicional tercera de esta ley, añadida por la Ley 16/2003, de 17 de diciembre. Ref. BOE-A-2004-2433
