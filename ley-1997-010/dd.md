@@ -1,0 +1,2 @@
+Disposición derogatoria.
+A partir de la entrada en vigor de esta Ley quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley y en particular el capítulo II «Tasa por los servicios de inspección y control sanitario de carnes frescas» del título V «Conselleria de Sanidad y Consumo» del Decreto Legislativo de 14 de noviembre de 1995, del Gobierno Valenciano, por el que se aprueba el texto Refundido de la Ley de Tasas de la Generalitat.
