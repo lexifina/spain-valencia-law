@@ -1,0 +1,2 @@
+Disposición derogatoria.
+En el momento en que se constituya el Consejo General del Instituto Valenciano de Seguridad y Salud en el Trabajo, y en todo caso en el plazo de un mes desde la publicación en el Diari Oficial de la Generalitat Valenciana de la presente ley, quedará disuelta la Comisión de Seguridad y Salud en el Trabajo de la Comunidad Valenciana, derogándose expresamente el Decreto 66/1996, de 25 de marzo, del Consell de la Generalitat, por el que se creó la Comisión de Seguridad y Salud en el Trabajo de la Comunidad Valenciana.
