@@ -1,0 +1,2 @@
+Disposición adicional única.
+En el marco de la legislación básica, las Leyes de Presupuestos de la Generalitat podrán elevar las alícuotas del recurso cameral permanente girado sobre las cuotas del Impuesto de Actividades Económicas por encima del tipo general. Asimismo podrán acordar la afectación de estos recursos a la realización de funciones de carácter público-administrativo de las Cámaras y a la financiación complementaria del Consejo de Cámaras Oficiales de Comercio, Industria y Navegación de la Comunidad Valenciana.
