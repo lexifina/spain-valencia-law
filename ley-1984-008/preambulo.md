@@ -1,0 +1,9 @@
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey promulgo la siguiente Ley:
+PREÁMBULO
+El artículo 5 del Estatuto de Autonomía de la Comunidad Valenciana establece que la bandera es la tradicional Senyera, compuesta por cuatro barras rojas sobre fondo amarillo, coronadas sobre franja azul junto al asta, y prevé que por Ley de las Cortes Valencianas se podrá determinar la simbología heráldica propia de la Comunidad Valenciana.
+La presente Ley desarrolla normativamente este precepto estatutario mediante el establecimiento de la simbología heráldica que identifica cultural e históricamente a la Comunidad Valenciana y a la Generalidad como conjunto de sus Instituciones.
+Los símbolos de la Comunidad Valenciana han de ser nexo de unión para todos cuantos gozamos de la condición de valencianos y para ello se ha recuperado institucionalmente la simbología que ha venido siendo el emblema representativo de nuestro territorio a lo largo de la historia.
+Esta Ley fija las características formales de dichos símbolos, su utilización por parte de las autoridades de la Comunidad Valenciana, su ubicación en los edificios públicos, así como cuantos documentos, situaciones o actos exijan su presencia, regulando a su vez la relación de preeminencia que con respecto a otros símbolos institucionales ha de guardarse.
+Esta norma pretende, pues, que los símbolos de la Comunidad Valenciana formen parte de la vida ciudadana y presidan con la bandera de España, de acuerdo con la Ley, todos los actos públicos y en especial aquellos que revistan especiales características de solemnidad.
+Atendiendo cuanto antecede, a propuesta del Consell y previa deliberación de las Cortes Valencianas, en nombre del Rey vengo a promulgar la siguiente
+LEY POR LA QUE SE REGULAN LOS SÍMBOLOS DE LA COMUNIDAD VALENCIANA Y SU UTILIZACIÓN
