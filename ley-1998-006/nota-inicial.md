@@ -1,0 +1,1 @@
+Téngase en cuenta que quedan derogados los preceptos de esta norma que se opongan a lo establecido en la Ley 4/2005, de 17 de junio, según determina su disposición derogatoria. Ref. BOE-A-2005-12101#dd
