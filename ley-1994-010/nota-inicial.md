@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 10/1994, de 19 de diciembre, de creación del Consell Jurídic Consultiu de la Comunitat Valenciana", según establece el art. 1 de la Ley 5/2005, de 4 de agosto. Ref. BOE-A-2005-16053
