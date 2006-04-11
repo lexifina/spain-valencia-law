@@ -1,3 +1,4 @@
-Artículo cuarto.
-Uno. A los efectos del presente Estatuto, tienen la condición política de valencianos todos los ciudadanos españoles que tengan o adquieran vecindad administrativa en cualquier municipio de la Comunidad Autónoma.
-Dos. Los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en la Comunidad Autónoma Valenciana, y acrediten dicha condición en el correspondiente Consulado de España, tendrán los derechos políticos definidos en el presente Estatuto. El mismo régimen se aplicará a sus descendientes inscritos como españoles, si así lo solicitan en la forma que lo determine la Ley del Estado.
+Artículo 4.
+1. La Bandera de la Comunitat Valenciana es la tradicional Senyera compuesta por cuatro barras rojas sobre fondo amarillo, coronadas sobre franja azul junto al asta.
+2. Una Ley de Les Corts determinará la simbología heráldica propia de la Comunitat Valenciana que integra las tres provincias de Castellón, Valencia y Alicante.
+Se modifica por el art. 5 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.

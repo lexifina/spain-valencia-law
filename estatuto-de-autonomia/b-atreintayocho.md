@@ -1,8 +1,9 @@
-Artículo treinta y ocho.
-Uno. Corresponde a la Generalidad Valenciana el desarrollo legislativo y la ejecución de la legislación básica del Estado en materia de sanidad interior.
-Dos. En materia de seguridad social, corresponderá a la Generalidad Valenciana:
-a) El desarrollo legislativo y la ejecución de la legislación básica del Estado, salvo las normas que configuran el régimen económico de la misma.
-b) La gestión del régimen económico de la Seguridad Social.
-Tres. Corresponderá también a la Generalidad Valenciana la ejecución de la legislación del Estado sobre productos farmacéuticos.
-Cuatro. La Generalidad Valenciana podrá organizar y administrar, a tales fines, y dentro de su territorio, todos los servicios relacionados con las materias antes expresadas, y ejercerá la tutela de las instituciones, entidades y funciones en materia de Sanidad y Seguridad Social, reservándose el Estado la alta inspección conducente al cumplimiento de las funciones y competencias contenidas en este artículo.
-Cinco. La Generalidad Valenciana ajustará el ejercicio de las competencias que asuma en materia de Sanidad y de la Seguridad Social a efectos de participación democrática de todos los interesados, así como de los Sindicatos de trabajadores y asociaciones empresariales en los términos que la Ley establezca.
+CAPÍTULO VI
+De las otras Instituciones de la Generalitat
+Se modifica por el art. 42 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
+Sección primera. De las instituciones comisionadas por les Corts
+Se añade por el art. 42 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
+Artículo 38. El Síndic de Greuges.
+El Síndic de Greuges es el Alto Comisionado de Les Corts, designado por éstas, que velará por la defensa de los derechos y libertades reconocidos en los Títulos I de la Constitución Española y II del presente Estatuto, en el ámbito competencial y territorial de la Comunitat Valenciana. Anualmente informará a Les Corts del resultado del ejercicio de sus funciones.
+En cuanto al procedimiento del nombramiento, funciones, facultades, estatuto y duración del mandato, habrá que ajustarse a lo que disponga la Ley de Les Corts que lo regule.
+Se modifica por el art. 43 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
