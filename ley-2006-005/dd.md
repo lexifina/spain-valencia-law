@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Queda derogado el capítulo II «La Comisión Valenciana de Acreditación y Evaluación de la Calidad» de la Ley 5/2002, de 19 de junio, de la Generalitat, de Creación del Consejo Valenciano de Universidades y de la Comisión Valenciana de Acreditación y Evaluación de la Calidad en el Sistema Universitario Valenciano, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley, sin perjuicio de lo previsto en la disposición transitoria primera.
