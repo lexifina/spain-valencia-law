@@ -1,0 +1,1 @@
+Téngase en cuenta que para aquellas instalaciones o actividades sujetas a autorización ambiental integrada quedan derogadas las disposiciones que para las autorizaciones de producción y gestión de residuos establece esta norma, de acuerdo con la disposición derogatoria única.3 de la Ley 2/2006, de 5 de mayo. Ref. BOE-A-2006-11579.
