@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta norma por providencia del TC de 17 de abril de 2008, que admite a trámite el recurso de inconstitucionalidad 9888/2007. Ref. BOE-A-2008-6998.
