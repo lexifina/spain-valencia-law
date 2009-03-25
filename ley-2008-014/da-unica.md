@@ -1,0 +1,2 @@
+Disposición adicional única. Exención de tasas.
+Las asociaciones y las uniones de asociaciones a las que se refiere el artículo 19 de la presente ley, inscritas en el Registro de Asociaciones de la Comunitat Valenciana, quedan exentas de las tasas por la prestación de servicios administrativos de la Generalitat de expedición de certificados, compulsa de documentos e inscripción en registros oficiales cuando estuviesen sujetas de conformidad con las disposiciones aplicables.
