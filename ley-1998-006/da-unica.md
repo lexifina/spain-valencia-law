@@ -1,2 +1,4 @@
 Disposición adicional única. Convenios de colaboración.
 A los efectos de instrumentar la colaboración entre las oficinas de farmacia y la Administración Sanitaria prevista en la presente Ley, la Consejería de Sanidad de la Generalidad Valenciana podrá suscribir los Convenios de colaboración que considere necesarios con las organizaciones profesionales representativas del sector.
+[Sic] En la atención farmacéutica domiciliaria se utilizarán preferentemente los envases clínicos de los medicamentos en aquellos casos en que existan, pudiendo suponer su fraccionamiento, respetando la integridad del acondicionamiento primario, y destinados a posibilitar una dispensación adaptada a la prescripción médica.
+Se añade el último párrafo por el art. 110 de la Ley 12/2009, de 23 de diciembre. Ref. BOE-A-2010-1279
