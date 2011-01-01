@@ -7,7 +7,7 @@ Proyectos sujetos. Evaluación de impacto ambiental
 1. Agricultura y Zoología.
 a) Proyecto de colonización rural.
 b) Proyecto de transformación a cultivo de terrenos seminaturales, naturales o incultos.
-c) Repoblaciones forestales, intervención sobre suelos y vegetación natural, y corrección hidrológico-forestal.
+c) Repoblaciones y plantaciones forestales de más de 25 ha, y en todo caso, cuando entrañen riesgos graves de transformaciones ecológicas negativas, así como intervención sobre suelos y vegetación natural, y corrección hidrológico-forestal.
 d) Núcleos zoológicos: Zoos y safaris.
 e) Piscifactorías.
 f) Proyectos de instalaciones ganaderas.
@@ -65,3 +65,4 @@ f) Obras de canalización y regularización de cursos de agua.
 g) Instrumentos de ordenación del territorio.
 h) Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se considere, con posterioridad a la aprobación de la presente Ley, que directa o indirectamente pueda tener efectos sobre la salud, el bienestar humano y el entorno.
 9. Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se considere, con posterioridad a la aprobación de la presente Ley, que directa o indirectamente pueda tener efectos sobre la salud, el bienestar humano o el entorno.
+Se modifica el apartado 1.c) por el art. 106 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.

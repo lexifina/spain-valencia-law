@@ -1,0 +1,3 @@
+Artículo 14 sexies. Coherencia y conectividad.
+Con el fin de mejorar la coherencia ecológica y la conectividad de la Red Natura 2000, la Generalitat Valenciana, en el marco de su política medioambiental y de ordenación territorial, fomentará la conservación de corredores ecológicos y la gestión de aquellos elementos del paisaje y áreas territoriales que resultan esenciales o revistan primordial importancia para la migración, la distribución geográfica y el intercambio genético entre poblaciones de especies de fauna y flora silvestres, en particular mediante la inclusión de previsiones sobre conectividad en las normas de gestión de los espacios protegidos Red Natura 2000.
+Se añade por el art. 60 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.
