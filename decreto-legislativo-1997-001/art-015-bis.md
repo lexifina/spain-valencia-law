@@ -1,0 +1,8 @@
+Artículo 15 bis.
+1. Las cajas de ahorros deberán acordar la segregación de sus actividades financiera y benéfico-social y su transformación en fundaciones de carácter especial en los casos siguientes:
+a) Cuando se reduzca la participación de las cajas de ahorros integrantes de un sistema institucional de protección, en la entidad bancaria que actúe como entidad central, de manera que no alcancen el 50% de los derechos de voto en esta. Del mismo modo, en el caso de ejercicio indirecto de la actividad financiera a través de una entidad bancaria, cuando no se alcance el 50% de los derechos de voto en esta.
+b) Como consecuencia de la renuncia a la autorización para actuar como entidad de crédito y en los demás supuestos de revocación.
+c) Como consecuencia de la intervención de la caja de ahorros en los supuestos previstos en la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito.
+2. A tal efecto, las cajas traspasarán todo el patrimonio afecto a su actividad financiera a otra entidad de crédito a cambio de acciones de esta última, y se transformarán en una fundación de carácter especial perdiendo su condición de entidad de crédito.
+3. La fundación centrará su actividad en la atención y desarrollo de su obra benéfico-social, para lo cual podrá llevar a cabo la gestión de su cartera de valores. La fundación deberá destinar a su finalidad benéfico-social el producto de los fondos, participaciones e inversiones que integren su patrimonio. Con carácter auxiliar, podrá llevar a cabo la actividad de fomento de la educación financiera.
+Se añade por el art. único.6 del Decreto-ley 4/2010, de 30 de diciembre. Ref. DOGV-r-2011-90008
