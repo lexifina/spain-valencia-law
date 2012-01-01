@@ -1,0 +1,3 @@
+Artículo 45 bis.
+La Generalitat, en el ámbito de sus competencias, podrá adoptar las medidas de prohibición, suspensión, clausura y las medidas de seguridad que se consideren necesarias referidas en el punto 3 del artículo 39 de esta ley. Será órgano competente para su adopción el titular de la conselleria con atribuciones en materia de espectáculos previo procedimiento incoado al efecto en el que se garantice la audiencia a los interesados. No obstante, se podrán adoptar tales medidas sin necesidad de audiencia cuando se aprecie peligro inminente para la seguridad de las personas.
+Se añade por el art. 106 de la Ley 9/2011, de 26 de diciembre. Ref. BOE-A-2012-1253.
