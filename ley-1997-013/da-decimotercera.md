@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Tipo general de gravamen de la modalidad de Actos Jurídicos Documentados del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+El tipo de gravamen de la modalidad de Actos Jurídicos Documentados del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados al que se refiere el apartado Tres del artículo Catorce de la Ley 13/1997, de 23 de diciembre, de la Generalitat, por la que se regula el tramo autonómico del Impuesto sobre la Renta de las Personas Físicas y restantes tributos cedidos, será, hasta el 31 de diciembre de 2013, el 1,2 por 100.
+Se añade por el art. 18 del Decreto-ley 1/2012, de 5 de enero. Ref. DOCV-r-2012-90000.

@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Tipo autonómico de devolución del gasóleo de uso profesional en el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+El tipo autonómico de devolución del gasóleo de uso profesional del Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, al que se refiere el apartado Seis bis del artículo 9 de la Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, será, hasta el 31 de diciembre de 2012, de 48 euros por 1.000 litros.
+Se añade por el art. 20 del Decreto-ley 1/2012, de 5 de enero. Ref. DOCV-r-2012-90000.
