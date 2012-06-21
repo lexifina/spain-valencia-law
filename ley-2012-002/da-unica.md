@@ -1,0 +1,2 @@
+Disposición adicional única. Referencias a la licencia urbanística.
+Las referencias contenidas en los capítulos II y III del título IV de la Ley 16/2005, de 30 de diciembre, de la Generalitat, Urbanística Valenciana, a la licencia urbanística se entienden hechas también a la declaración responsable cuando ésta sustituya a la primera en los casos dispuestos en la disposición adicional décima de esa ley.
