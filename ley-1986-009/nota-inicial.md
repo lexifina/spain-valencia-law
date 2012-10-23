@@ -1,1 +1,1 @@
-Téngase en cuenta que el Instituto Valenciano de Artes Escénicas, Cinematografía y Música pasa a denominarse «Teatres de la Generalidad Valenciana» según establece el art. 50.1 de la Ley 6/1993, de 31 de diciembre. Ref. BOE-A-1994-3456.
+Téngase en cuenta que el Instituto Valenciano de Artes Escénicas, Cinematografía y Música pasa a denominarse «CulturArts Generalitat» según establece el art. 50.1 de la Ley 6/1993, de 31 de diciembre. Ref. BOE-A-1994-3456. en la redacción dada al mismo por el art. 7 del Decreto-ley 7/2012, de 19 de octubre. Ref. DOCV-r-2012-90045.

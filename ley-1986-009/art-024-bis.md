@@ -1,0 +1,4 @@
+Artículo 24 bis.
+1. El Consejo Asesor es un órgano con funciones consultivas, le corresponderá informar sobre: la programación y adquisición de obras de arte, la propuesta de aceptación de donaciones o cesiones al Instituto Valenciano de Arte Moderno así como de todas aquellas cuestiones que le sean planteadas por el Consejo Rector o su director/a Gerente en relación con las cuestiones artísticas que puedan derivarse de la actividad principal del IVAM.
+2. Las decisiones del Consejo Asesor se adoptarán de acuerdo con la normas de funcionamiento interno que se aprueben y, en su defecto, por la regulación relativa a órganos colegiados que contempla la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Se añade por la disposición final 3.6 del Decreto-ley 7/2012, de 19 de octubre. Ref. DOCV-r-2012-90045.
