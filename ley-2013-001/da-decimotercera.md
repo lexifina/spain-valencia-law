@@ -1,0 +1,3 @@
+Disposición adicional decimotercera. Entes en liquidación.
+1. Los entes en liquidación deberán proceder a la conclusión ordenada de cuantas relaciones jurídicas estén pendientes en la fecha de entrar en estado de disolución, así como a la liquidación, enajenación y extinción, según proceda, de los bienes, derechos y obligaciones que integren el patrimonio de las entidades y en los que no se subroguen la Generalitat o los entes de su sector público.
+2. En todo caso, la Generalitat deberá proveer a los entes en liquidación de los fondos y recursos económicos necesarios para que se pueda desarrollar de manera ordenada el proceso de liquidación patrimonial y cumplir con todas las obligaciones contraídas exigibles.

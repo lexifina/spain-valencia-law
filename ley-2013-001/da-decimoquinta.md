@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Colaboración público-privada.
+En el plazo de nueve meses desde la entrada en vigor de la presente norma, la Corporación Pública Empresarial Valenciana presentará al Consell, a través de la persona titular de la conselleria de adscripción, una propuesta de plan de actuación tendente al desarrollo de mecanismos de colaboración público-privada en los ámbitos del sector público empresarial en los que ésta sea posible.
