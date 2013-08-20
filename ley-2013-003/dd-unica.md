@@ -1,0 +1,4 @@
+Disposición derogatoria única. Derogación normativa.
+1. Queda derogada la Ley 6/1986, de 15 de diciembre, de la Generalitat, de Arrendamientos Históricos Valencianos.
+Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
+2. Mantendrán su vigencia, en tanto no resulten contradichos por la presente ley, el Decreto 186/1991, de 15 de octubre, del Consell, por el que se crea el Registro Especial de Arrendamientos Rústicos de la Comunitat Valenciana; el Decreto 41/1996, de 5 de marzo, del Consell, por el que se desarrolla la Ley de Arrendamientos Históricos Valencianos, y la Orden de 13 de marzo de 1997, de la Conselleria de Agricultura, Pesca y Alimentación, para la constitución de la Junta Arbitral de Arrendamientos Rústicos de la Comunitat Valenciana.
