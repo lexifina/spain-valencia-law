@@ -1,0 +1,1 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de esta Ley desde el 18 de julio de 2013, para las partes en el proceso, y desde el 14 de septiembre de 2013, para los terceros, por providencia del TC de 10 de septiembre de 2013 que admite a trámite el recurso de inconstitucionalidad nº 4522-2013. Ref. BOE-A-2013-9562
