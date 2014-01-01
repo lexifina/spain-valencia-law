@@ -1,2 +1,3 @@
 Disposición adicional decimocuarta. Inventario de bienes y derechos.
-En un plazo de nueve meses desde la entrada en vigor de la presente norma, las empresas públicas que conforman la nueva configuración del sector público empresarial de la Generalitat elaborarán un Inventario de sus bienes y derechos y lo remitirán a la Corporación Pública Empresarial Valenciana y a la conselleria competente en materia de patrimonio para su constancia en el Inventario de la Generalitat. El Inventario deberá estar actualizado y cualquier variación deberá ser comunicada a la Corporación Pública Empresarial Valenciana y a la conselleria competente en materia de patrimonio.
+(Derogada)
+Se deroga por la disposición derogatoria única de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.

@@ -57,6 +57,12 @@ Requisitos: Título de graduado en ESO y carnet de conducir tipo B2.
 ADMINISTRACIÓN ESPECIAL
 Subgrupo A1
 Administración especial.
+Cuerpo: Superior Técnico de Inspectores de Tributos de la Administración de la Generalitat.
+A1-04.
+Requisitos: Licenciatura en Derecho, o en Economía o en Administración y Dirección de Empresas; o bien, título universitario oficial de grado en Derecho, o en Economía o en Administración y Dirección de Empresas más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, esté relacionado con las funciones asignadas al cuerpo.
+Grupo/Subgrupo profesional: A1.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas funciones de nivel superior comunes a la actividad administrativa-tributaria. En particular, las correspondientes a la aplicación de los tributos, a la potestad sancionadora en materia de tributos y la revisión en vía administrativa de las anteriores que competan a la Generalitat, salvo las propias del nivel directivo y órganos superiores mencionados en el artículo 67 de la Ley 5/1983, de 30 de diciembre, del Consell.
+Administración especial.
 Cuerpo: Superior técnico de comunicación y relaciones informativas de la administración de la Generalitat.
 A1-05.
 Requisitos: Licenciatura en Periodismo, licenciatura en Comunicación Audiovisual, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
@@ -189,11 +195,12 @@ Requisitos: Veterinaria, o bien, título universitario oficial de grado más tí
 Grupo/Subgrupo profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de veterinaria.
 Administración especial.
-Cuerpo: Superior técnico de la administración socio-sanitaria de la administración de la Generalitat.
-A1-24.
-Requisitos: Licenciatura en Medicina, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A1.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de la medicina.
+Cuerpo: Superior técnico de Medicina de la Administración de la Generalitat
+A1-24
+Requisitos:
+Licenciatura en Medicina, o bien título universitario oficial de grado en medicina más título oficial de máster universitario que, de acuerdo con los planes de estudio vigente, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al puestos.
+Grupo/Subgrupo profesional: A1
+Funciones: Dirigir, programas, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar, y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de medicina.
 Administración especial.
 Cuerpo: Superior técnico de prevención de riesgos laborales de la administración de la Generalitat.
 A1-25.
@@ -208,10 +215,7 @@ Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, control
 Requisitos: Licenciatura en Medicina, especialidad Medicina del Trabajo y técnico superior Prevención de Riegos Laborales. Título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo y técnico superior Prevención de Riesgos Laborales o especialidad Medicina del Trabajo.
 Administración especial.
 Cuerpo: Superior técnico de valoración tributaria de la administración de la Generalitat.
-A1-26.
-Requisitos: Título universitario de ingeniería, arquitectura, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A1.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de valoración tributaria.
+A1-26. (Suprimido).
 Administración especial.
 Cuerpo: Superior técnico de la administración del medio ambiente de la administración de la Generalitat.
 A1-27.
@@ -325,6 +329,20 @@ Licenciatura en Veterinaria.
 Licenciatura en Farmacia, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
 Grupo/Subgrupo profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de analítica agrícola.
+Administración especial.
+Cuerpo: Superior técnico de Gestión de Emergencias y Protección Civil de la Administración de la Generalitat
+A1-33
+Requisitos:
+Título universitario de licenciatura, ingeniería, arquitectura o equivalente, o bien título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigente, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al puestos.
+Grupo/Subgrupo profesional: A1
+Funciones: Dirigir, programas, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar, y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de emergencias y protección civil.
+Administración especial.
+Cuerpo: Superior técnico de facultativos de la Administración de justicia de la Administración de la Generalitat.
+A1-34
+Requisitos:
+Licenciatura en Medicina, Biología, Farmacia o Químicas, o bien título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigente, habiliten para ejercer las actividades de carácter profesional relacionadas con la funciones asignadas al puestos.
+Grupo/Subgrupo profesional: A1
+Funciones: Dirigir, programas, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar, y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de la analítica forense.
 Subgrupo A2
 Administración especial.
 Cuerpo: Superior de gestión en ingeniería técnica en informática de la administración de la Generalitat.
@@ -407,17 +425,14 @@ Requisitos: Ingeniería Técnica Forestal, o bien, título universitario oficial
 Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades técnicas de los recursos forestales.
 Administración especial.
-Cuerpo: Superior de gestión en ingeniería técnica agrícola de la administración de la Generalitat.
-A2-14.
-Requisitos: Ingeniería Técnica Agrícola, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A2.
-Escalas:
-– A2-14-01. Ingeniería técnica agrícola general.
+Cuerpo: Superior de gestión en Ingeniería Técnica Agrícola de la Administración de la Generalitat
+A2-14
+Requisitos: Ingeniería técnica agrícola, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/Subgrupo profesional: A2
+A2-14-01. Ingeniería técnica agrícola. (Suprimido).
+A2-14-02. Investigación y experimentación agraria. (Suprimido).
+Grupo/Subgrupo profesional: A2
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades propias de la ingeniería técnica agrícola.
-Requisitos: Ingeniería Técnica Agrícola, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
-– A2-14-02. Ingeniería técnica agroalimentaria.
-Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de ingeniería técnica agroalimentaria.
-Requisitos: Ingeniería Técnica Agrícola, especialidad Industrias Agrarias y Agroalimentación, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 Administración especial.
 Cuerpo: Superior de gestión en administración cultural de la administración de la Generalitat.
 A2-15.
@@ -425,33 +440,22 @@ Requisitos: Título universitario oficial de grado que, de acuerdo con los plane
 Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de la administración y la promoción cultural.
 Administración especial.
-Cuerpo: Superior de gestión en acción social de la administración de la Generalitat.
-A2-16.
-Requisitos:
-Diplomatura universitaria:
-Enfermería.
-Educación Social.
-Trabajo Social.
-Terapia Ocupacional.
-Logopedia.
-Fisioterapia.
-Título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A2.
-Escalas:
-– A2-16-01. Acción social y administración de los servicios sociales.
+Cuerpo: Superior de Gestión en Acción Social de la Generalitat
+A2-16
+Escala A2-16-01. Acción social y administración de servicios sociales.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de acción social y administración de los servicios sociales.
 Requisitos:
 Diplomatura universitaria:
 Enfermería.
-Educación Social.
-Terapia Ocupacional.
+Educación social.
+Terapia ocupacional.
 Logopedia.
 Fisioterapia.
+Trabajo social.
 Título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A2-16-02. Educación social.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de educación social.
-Requisitos:
-Diplomatura universitaria en Educación Social.
+Requisitos: Diplomatura universitaria en Educación Social.
 Título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A2-16-03. Trabajo social.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades del trabajo social.
@@ -532,10 +536,7 @@ Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades relacionadas con los espectáculos y establecimientos públicos.
 Administración especial.
 Cuerpo: Superior de gestión en valoración tributaria de la administración de la Generalitat.
-A2-26.
-Requisitos: Título universitario de ingeniería técnica, título de Arquitectura Técnica, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A2.
-Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de valoración tributaria.
+A2-26. (Suprimido).
 Administración especial.
 Cuerpo: Superior de gestión de gestión estadística de la administración de la Generalitat.
 A2-27.
@@ -544,16 +545,19 @@ Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de las ciencias y técnicas estadísticas.
 Administración especial.
 Cuerpo: Superior de gestión de investigación y experimentación agraria de la administración de la Generalitat.
-A2-28.
-Requisitos: Ingeniería Técnica Agrícola, o bien, título universitario oficial de grado o bien que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A2.
-Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior técnico de investigadores científicos y el cuerpo superior técnico de tecnología agroalimentaria y las propias de la profesión relacionadas con las actividades de investigación científica, experimentación, formación y transferencia tecnológica en el sistema agroalimentario.
+A2-28. (Suprimido).
 Administración especial.
 Cuerpo: Superior de gestión en actividades turísticas de la administración de la Generalitat.
 A2-29.
 Requisitos: Diplomatura en Turismo, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
 Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades turísticas.
+Administración especial.
+Cuerpo: Superior de gestión de Tributos de la Administración de la Generalitat.
+A2-30
+Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica, o bien, título universitario de grado.
+Grupo/Subgrupo profesional: A2.
+Funciones: Actividades de apoyo y colaboración técnica con el cuerpo superior en las tareas administrativas de programación, estudio, propuesta, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa-tributaria».
 Grupo B
 Administración especial.
 Cuerpo: Técnico de gestión de sistemas y tecnologías de la información de la administración de la Generalitat.
@@ -682,18 +686,21 @@ C1-12.
 Requisitos: Técnico en atención sociosanitaria (ciclo formativo de grado medio de Formación Profesional de la familia Servicios Socioculturales y a la Comunidad).
 Grupo/Subgrupo profesional: C1.
 Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de atención sociosanitaria.
-Administración especial.
-Cuerpo: Especialistas en la administración del medio ambiente de la administración de la Generalitat.
+Administración especial:
+Cuerpo: Especialistas en la administración del medio ambiente de la administración de la Generalitat
+C1-13
+Requisitos: Técnico en Aprovechamiento y Conservación del Medio Natural (ciclo formativo de grado medio de Formación Profesional de la familia Agraria)
+Grupo/subgrupo profesional: C1
 Escalas:
-C1-13-01: Administración del medio ambiente.
-Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones, y, en general, las propias de la profesión relacionadas con las actividades de la administración del medio ambiente.
-Requisitos: Técnico en Trabajos Forestales y Conservación del Medio Natural (Ciclo formativo de grado medio de Formación Profesional de la Familia Agraria).
-C1-13-02: Inspección del medio ambiente.
-Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones, y, en general, las propias de la profesión relacionadas con las actividades de inspección del medio ambiente.
-Requisitos: Técnico en Trabajos Forestales y Conservación del Medio Natural (Ciclo formativo de grado medio de Formación Profesional de la Familia Agraria).
-C1-13-03: Agentes medioambientales.
-Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones, y, en general, las propias de la profesión relacionadas con las actividades medioambientales.
-Requisitos: Técnico en Trabajos Forestales y Conservación del Medio Natural (Ciclo formativo de grado medio de Formación Profesional de la Familia Agraria).
+C1-13-01: administración del medio ambiente
+Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de la administración del medio ambiente
+Requisitos: Técnico en Aprovechamiento y Conservación del Medio Natural (ciclo formativo de grado medio de Formación Profesional de la familia Agraria)
+C1-13-02: inspección del medio ambiente
+Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de inspección del medio ambiente
+Requisitos: Técnico en Aprovechamiento y Conservación del Medio Natural (ciclo formativo de grado medio de Formación Profesional de la familia Agraria)
+C1-13-03: agentes medioambientales
+Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades medioambientales
+Requisitos: Técnico en Aprovechamiento y Conservación del Medio Natural (ciclo formativo de grado medio de Formación Profesional de la familia Agraria)
 Escalas:
 – C1-14-01. Administración del medio ambiente.
 Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de la Administración del medio ambiente.
@@ -845,7 +852,8 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
-Ss modifica por los arts. 122 y 123 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
+Se modifica por los arts. 88 a 90 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+Se modifica por los arts. 122 y 123 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
 ANEXO II
 Agrupaciones profesionales funcionariales que se crean mediante la ley
 Agrupación profesional funcionarial:
@@ -858,6 +866,8 @@ Funciones: Informar sobre la ubicación de locales controlando el acceso y abrie
 Funciones: Realizar tareas de limpieza y ordenación de enseres de las instalaciones del centro, utilizando, en su caso, maquinaria de limpieza.
 Agrupación profesional funcionarial.
 Agrupación profesional funcionarial: Servicios de apoyo en infraestructuras y Transporte de la administración de la Generalitat.
+– APF-01-03. Vigilante
+Funciones: Realizar tareas de vigilancia y control en las instalaciones y bienes muebles del centro, control de accesos, información, apertura y cierre así como cualquier otra «actividad relacionada con las funciones de vigilancia y control.
 APF-02.
 Escalas:
 – APF-02-01. Peón de infraestructuras.
@@ -930,6 +940,7 @@ Escalas:
 Funciones: Realizar actividades de apoyo, como la manipulación básica, y otras de colaboración y ejecución relacionadas con el almacenamiento y transporte de materias y muestras de laboratorio, así como limpiar y cuidar del material y las instalaciones del mismo.
 – APF-07-02. Asistencia a la investigación de campo/capataz agrícola.
 Funciones: Realizar actividades de apoyo, como la manipulación básica, y otras de colaboración y ejecución relacionadas con el cultivo en campo, entutorar, abonar, recoger fruta, escardar, plantar y sacar semillas, cultivos en macetas, mezclar sustratos, regar macetas con soluciones nutritivas, así como la limpieza general de las instalaciones, las parcelas y los invernaderos.
+Se añade la escala APF-01-03 por el art. 91 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
 ANEXO III
 Cuerpos, agrupaciones profesionales funcionariales y escalas gestionados por la consellería de sanidad y organismos o entidades dependientes
 Administración general.
@@ -1072,6 +1083,17 @@ Requisitos: Licenciado en Farmacia o el correspondiente título universitario of
 Grupo/Subgrupo Profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades básicas de salud pública para garantizar la protección de la salud, en el ámbito de la sanidad ambiental y la seguridad alimentaria.
 Administración especial.
+Cuerpo: Superior Técnico de Inspección de Servicios Sanitarios
+A1-S05.
+Requisitos: Licenciatura en Medicina o en Farmacia, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/Subgrupo Profesional: A1
+A1 - S05 - 01 Inspector médico de servicios sanitarios.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de inspección de servicios sanitarios.
+Requisitos: Licenciatura en Medicina, o bien, el correspondiente título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+A1 - S05 - 02 Inspector farmacéutico de servicios sanitarios
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con la inspección de servicios sanitarios.
+Requisitos: Licenciatura en Farmacia, o bien, el correspondiente título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Administración especial.
 Cuerpo: Superior de gestión administración sanitaria de la administración de la Generalitat.
 A2-S02.
 Requisitos: Enfermería, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
@@ -1092,6 +1114,12 @@ Requisitos: Enfermería, o bien, título universitario oficial de grado que se c
 – A2-S03-03. Sanidad ambiental.
 Funciones: Actividades de propuesta, gestión, ejecución control, tramitación, impulso, estudio e informe y, en general, las de colaboración con el cuerpo superior relativas al ámbito de la Sanidad ambiental.
 Requisitos: Enfermería, Ingeniería Técnica Agrícola, Ingeniería Técnica Industrial, Ingeniería Técnica en Telecomunicaciones o bien, título universitario oficial de grado que se corresponda con las titulaciones de las escala A1 de salud pública (sanidad ambiental), y que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Administración especial.
+Cuerpo: Enfermero subinspector de servicios sanitarios.
+A2-S04
+Requisitos: Diplomatura en Enfermería, o bien, el correspondiente título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/Subgrupo profesional: A2
+Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación, impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de la inspección de servicios sanitarios.
 Administración especial.
 Cuerpo: Técnico de gestión de salud pública de la administración de la Generalitat.
 B-S02.
@@ -1119,6 +1147,8 @@ C2-S02.
 Requisitos: Título de graduado en ESO.
 Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
+Se modifica por el art. 97 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
+Redactada conforme a la corrección de errores publicada en DOCV núm 7195, de 20 de enero de 2014. Ref. BOE-A-2014-2112
 ANEXO IV
 Agrupaciones profesionales funcionariales gestionadas por la consellería de sanidad y organismos o entidades dependientes
 Agrupación profesional funcionarial.
