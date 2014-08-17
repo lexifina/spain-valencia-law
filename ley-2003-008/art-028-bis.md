@@ -1,0 +1,3 @@
+Artículo 28 bis. Comunicación por medios electrónicos.
+Las comunicaciones entre la cooperativa y los socios que no tengan previsto otro medio específico en esta ley, incluida la remisión de documentos, solicitudes e información, podrán realizarse por medios electrónicos, siempre que dicho sistema hubiera sido aceptado por el socio. La cooperativa podrá habilitar, a través de la página web corporativa, si existe, el correspondiente dispositivo de contacto con la sociedad que permita acreditar la fecha indubitada de la recepción así como el contenido de los mensajes electrónicos intercambiados entre socios y cooperativa.
+Se añade por el anexo.4 de la Ley 4/2014, de 11 de julio. Ref. BOE-A-2014-8280.
