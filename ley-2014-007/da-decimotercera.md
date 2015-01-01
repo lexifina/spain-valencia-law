@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Integración en el régimen estatutario del personal funcionario de carrera de administración especial del área de sistemas e informática cuya gestión se halla conferida a la Conselleria de Sanidad.
+Se declaran a extinguir las siguientes categorías de personal funcionario de administración especial del área de sistemas e informática gestionadas por la Conselleria de Sanidad: analista de aplicaciones, A1; analista programador, A2; operador central, C1. Reglamentariamente se dispondrá la integración de este personal en el régimen estatutario.
