@@ -204,7 +204,9 @@ Funciones: Dirigir, programas, estudiar, proponer, coordinar, gestionar, control
 Administración especial.
 Cuerpo: Superior técnico de prevención de riesgos laborales de la administración de la Generalitat.
 A1-25.
-Requisitos: Título universitario de licenciatura, ingeniería, arquitectura o equivalente y técnico prevención de Riesgos Laborales, o bien, título universitario oficial de grado más título oficial de máster universitario y técnico superior Prevención de Riesgos Laborales.
+Requisito: Título universitario de licenciatura, ingeniería, arquitectura o equivalente y técnico superior prevención de Riesgos Laborales, o bien, título universitario oficial de grado más título oficial de máster universitario y técnico superior Prevención de Riesgos Laborales.
+Administración especial.
+Cuerpo: Superior técnico de estadística de la administración de la Generalitat.
 Grupo/Subgrupo profesional: A1.
 Escalas:
 – A1-25-01. Riesgos laborales.
@@ -228,6 +230,7 @@ Licenciatura en Químicas.
 Licenciatura en Ciencias Ambientales.
 Licenciatura en Física.
 Licenciatura en Ciencias del Mar.
+Licenciatura en Geografía.
 Ingeniería de Montes.
 Ingeniería Industrial.
 Ingeniería de Caminos, Canales y Puertos.
@@ -235,7 +238,7 @@ Ingeniería Geología.
 Ingeniería Agrónoma.
 Ingeniería Química.
 Título universitario oficial de grado más título oficial de master universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A1.
+Grupo/subgrupo profesional: A1.
 Escalas:
 – A1-27-01. Administración del medio ambiente.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de la Administración del medio ambiente.
@@ -276,12 +279,10 @@ Doctorado en Ciencias Experimentales.
 Doctorado en Ingeniería.
 Doctorado en Veterinaria.
 8 años de experiencia postdoctoral en investigación agroalimentaria.
-Administración especial.
-Cuerpo: Superior técnico de estadística de la administración de la Generalitat.
 A1-29.
-Requisitos: Licenciatura en Ciencias y Técnicas Estadísticas, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A1.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de la ciencia y la técnica estadísticas.
+Requisitos: licenciatura en Ciencias y Técnicas Estadísticas, Licenciatura en Matemáticas, o bien, título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/subgrupo profesional: A1.
+Funciones: dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de la ciencia y la técnica estadísticas.
 Administración especial.
 Cuerpo: Superior técnico de psicopedagogía de la administración de la Generalitat.
 A1-30.
@@ -337,11 +338,8 @@ Título universitario de licenciatura, ingeniería, arquitectura o equivalente, 
 Grupo/Subgrupo profesional: A1
 Funciones: Dirigir, programas, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar, y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de emergencias y protección civil.
 Administración especial.
-Cuerpo: Superior técnico de facultativos de la Administración de justicia de la Administración de la Generalitat.
-A1-34
-Requisitos: Licenciatura en Medicina, Biología, Farmacia o Químicas, o bien título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigente, habiliten para ejercer las actividades de carácter profesional relacionadas con la funciones asignadas al puestos.
-Grupo/Subgrupo profesional: A1
-Funciones: Dirigir, programas, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar, y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de la analítica forense.
+Cuerpo: Superior técnico de facultativos de la Administración de la Generalitat.
+A1-34. (Suprimido).
 Administración Especial.
 Cuerpo: Superior técnico de análisis, gestión y ordenación del territorio, urbanismo y paisaje
 A-35.
@@ -445,8 +443,11 @@ Requisitos: Título universitario oficial de grado que, de acuerdo con los plane
 Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de la administración y la promoción cultural.
 Administración especial.
-Cuerpo: Superior de Gestión en Acción Social de la Generalitat
-A2-16
+Cuerpo: superior de gestión en acción social de la Administración de la Generalitat.
+A2-16.
+Requisitos: diplomatura universitaria, Enfermería, Educación Social, Trabajo Social, Terapia Ocupacional, Logopedia, Fisioterapia.
+Título universitario del grado que, de acuerdo con los planes de estudios vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo /subgrupo profesional: A2.
 Escala A2-16-01. Acción social y administración de servicios sociales.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de acción social y administración de los servicios sociales.
 Requisitos:
@@ -496,9 +497,9 @@ Requisitos: Diplomatura en Fisioterapia, o bien, título universitario oficial d
 Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de la fisioterapia.
 Administración especial.
-Cuerpo: Superior de gestión en prevención de riesgos laborales de la administración de la Generalitat.
+Cuerpo: superior de gestión en prevención de riesgos laborales de la Administración de la Generalitat.
 A2-21.
-Requisito: Título universitario de ingeniería técnica, diplomatura universitaria, título de Arquitectura Técnica o equivalente y técnico superior Prevención Riesgos Laborales, o bien, título universitario oficial de grado y técnico Prevención de Riesgos Laborales.
+Requisito: título universitario de ingeniería técnica, diplomatura universitaria, título de Arquitectura Técnica o equivalente y técnico superior Prevención Riesgos Laborales, o bien Título universitario oficial de grado y técnico superior Prevención Riesgos Laborales.
 Grupo/Subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades de prevención de los riesgos laborales.
 Administración especial.
@@ -562,7 +563,13 @@ Cuerpo: Superior de gestión de Tributos de la Administración de la Generalitat
 A2-30
 Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica, o bien, título universitario de grado.
 Grupo/Subgrupo profesional: A2.
-Funciones: Actividades de apoyo y colaboración técnica con el cuerpo superior en las tareas administrativas de programación, estudio, propuesta, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa-tributaria».
+Funciones: Actividades de apoyo y colaboración técnica con el cuerpo superior en las tareas administrativas de programación, estudio, propuesta, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa-tributaria.
+Administración especial.
+Cuerpo: superior técnico de control analítico y seguridad agroalimentaria de la Administración de la Generalitat.
+A2-31.
+Requisitos: ingeniería técnica agrícola o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, se corresponda con las áreas profesionales y funcionales de la química, biología, ciencia y tecnología de los alimentos, veterinaria, farmacia, biotecnología y bioquímica y habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/subgrupo profesional: A2.
+Funciones: actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades relativas al ámbito de la seguridad agroalimentaria y control analítico agroalimentario.
 Grupo B
 Administración especial.
 Cuerpo: Técnico de gestión de sistemas y tecnologías de la información de la administración de la Generalitat.
@@ -857,6 +864,7 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
+Se modifica por el art. 113 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
 Se modifica por la disposición adicional 2 de la Ley 5/2014, de 25 de julio. Ref. BOE-A-2014-9625#dasegunda
 Se modifica por los arts. 88 a 90 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
 Se modifica por los arts. 122 y 123 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437
@@ -1111,17 +1119,17 @@ A2-S03.
 Requisitos: Enfermería, Ingeniería Técnica Agrícola, Ingeniería Técnica Industrial, Ingeniería Técnica en Telecomunicaciones, o bien, título universitario oficial de grado que se corresponda con las titulaciones de las escalas A1 de salud pública del mismo ámbito de actuación y que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
 Grupo/Subgrupo Profesional: A2.
 Escalas:
-– A2-S03-01. Vigilancia, prevención y promoción en salud pública.
+– A2-S03-01, Enfermeros/as de salud pública.
 Funciones: Actividades de propuesta, gestión, ejecución control, tramitación, impulso, estudio e informe y, en general, las de colaboración con el cuerpo superior relativas al ámbito de la prevención de la enfermedad, la promoción de la salud y vigilancia e información en salud pública.
 Requisitos: Enfermería, o bien, el correspondiente título universitario oficial de grado y que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A2-S03-02. Seguridad alimentaria y laboratorio.
 Funciones: Actividades de propuesta, gestión, ejecución control, tramitación, impulso, estudio e informe y, en general, las de colaboración con el cuerpo superior relativas al ámbito de la seguridad alimentaria y laboratorio de salud pública.
 Requisitos: Enfermería, o bien, título universitario oficial de grado que se corresponda con las titulaciones de las escala A1 de Salud Pública (seguridad alimentaria y laboratorio), y que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A2-S03-03. Sanidad ambiental.
-Funciones: Actividades de propuesta, gestión, ejecución control, tramitación, impulso, estudio e informe y, en general, las de colaboración con el cuerpo superior relativas al ámbito de la Sanidad ambiental.
+Funciones: Actividades de propuesta, de gestión, ejecución, control, inspección, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias relativas al ámbito de la sanidad ambiental.
 Requisitos: Enfermería, Ingeniería Técnica Agrícola, Ingeniería Técnica Industrial, Ingeniería Técnica en Telecomunicaciones o bien, título universitario oficial de grado que se corresponda con las titulaciones de las escala A1 de salud pública (sanidad ambiental), y que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 Administración especial.
-Cuerpo: Enfermero subinspector de servicios sanitarios.
+Cuerpo: Enfermero inspector de servicios sanitarios
 A2-S04
 Requisitos: Diplomatura en Enfermería, o bien, el correspondiente título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
 Grupo/Subgrupo profesional: A2
@@ -1146,13 +1154,14 @@ Cuerpo: Especialistas en salud pública de la administración de la Generalitat.
 C1-S02.
 Requisitos: Bachiller o ciclo formativo de grado medio de Formación Profesional.
 Grupo/Subgrupo Profesional: C1.
-Funciones: Colaboración, de acuerdo con su nivel de titulación, en todas aquellas actividades necesarias para garantizar la salud de la población, especialmente en el ámbito de la protección de la salud mediante el apoyo en la realización de actividades analíticas en el ámbito de la seguridad alimentaría y el control ambiental propios de los laboratorios de salud pública.
+Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentos, elaboración de datos inventariados y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades necesarias para garantizar la salud de la población especialmente en el ámbito de la seguridad alimentaria, sanidad ambiental y laboratorio de salud pública.
 Administración especial.
 Cuerpo: Auxiliares de salud pública de la administración de la Generalitat.
 C2-S02.
 Requisitos: Título de graduado en ESO.
 Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
+Se modifica por el art. 115 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
 Se modifica por el art. 97 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
 Redactada conforme a la corrección de errores publicada en DOCV núm 7195, de 20 de enero de 2014. Ref. BOE-A-2014-2112
 ANEXO IV

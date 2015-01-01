@@ -13,6 +13,7 @@ Sociedades con participación mayoritaria y directa de la Generalitat:
 – Circuito del Motor y Promoción Deportiva, SA.
 – Agencia Valenciana de Prestaciones Sociales, SA (AVAPSA).
 – Instituto Valenciano de la Exportación, SA (IVEX).
+– Radiotelevisión Valenciana, SAU (RTVV, SAU)
 Sociedades con participación mayoritaria e indirecta de la Generalitat:
 – Ivex USA, INC, a través del IVEX.
 – Aeropuerto de Castellón, SL, a través de SPTCV.
@@ -48,6 +49,7 @@ Entidades de derecho público de la Generalitat:
 – Teatres de la Generalitat.
 – Instituto del Paisaje de la Generalitat.
 – Patronat del Misteri d'Elx.
+– Ente público Radiotelevisión Valenciana
 Fundaciones del sector público de la Generalitat:
 – F. Centro de Estudios Ambientales del Mediterráneo.
 – F. CV para la Investigación Agroalimentaria.
@@ -62,3 +64,4 @@ Fundaciones del sector público de la Generalitat:
 – F. Instituto Portuario de Estudios y Cooperación de la CV.
 – F. de la CV Palau de les Arts Reina Sofía.
 – F. de la CV La Llum de les Imatges.
+Se modifica por el art. 130 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236.
