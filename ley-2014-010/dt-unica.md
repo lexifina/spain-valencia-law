@@ -1,0 +1,2 @@
+Disposición transitoria única. Procedimientos sancionadores y de adopción de medidas especiales.
+Los procedimientos sancionadores y de adopción de medidas especiales iniciados con anterioridad a la entrada en vigor de esta ley seguirán tramitándose conforme a la normativa anterior, sin perjuicio de la aplicación de la regulación más favorable en orden a la calificación de las infracciones y sanciones.
