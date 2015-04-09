@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio en materia de participación ciudadana.
+En tanto no se apruebe el desarrollo reglamentario previsto, permanecerán en vigor, en aquello en que no se oponga a esta ley, el Decreto 76/2009, de 5 de junio, del Consell, por el que se aprueba el reglamento de desarrollo y ejecución de la Ley 11/2008, de Participación Ciudadana de la Comunitat Valenciana; y el Decreto 53/2008, de 18 de abril, del Consell, por el que se aprueba el reglamento de desarrollo de la Ley 11/2007, de Comunidades de Valencianos en el Exterior.

@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa,
+A la entrada en vigor de esta ley quedan derogadas la Ley 11/2007, de 20 de marzo, de la Generalitat, de Comunidades de Valencianos en el Exterior; la Ley 11/2008, de 3 de julio, de la Generalitat, de Participación Ciudadana de la Comunitat Valenciana; la Ley 11/2009, de 20 de noviembre, de la Generalitat, de Ciudadanía Corporativa, y el Decreto 206/2007, de 19 de octubre, del Consell, por el que se crea la Comisión Interdepartamental para la Participación Ciudadana.
+Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
