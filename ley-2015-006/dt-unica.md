@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio del Observatorio de las Señas de Identidad del Pueblo Valenciano.
+Si se constituyera el Observatorio de las Señas de Identidad del Pueblo Valenciano antes de ser aprobado su Reglamento de Organización y Funcionamiento, las funciones asignadas por esta ley a sus comisiones de trabajo podrán ser ejercidas, provisionalmente, por el Pleno o por sus vocales, según decida el primero.
