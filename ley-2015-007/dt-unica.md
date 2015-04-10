@@ -1,0 +1,3 @@
+Disposición transitoria única. De la modificación y reordenación de la Ley de presupuestos de la Generalitat para el ejercicio 2015.
+Se modifican las consignaciones presupuestarias de la Ley de presupuestos de la Generalitat para el ejercicio 2015, cuyos beneficiarios son las organizaciones sindicales y empresariales más representativas de la Comunitat Valenciana, mediante la supresión, modificación y nueva creación de líneas presupuestarias en la forma que se contiene en el anexo de la presente ley.
+Con la entrada en vigor de esta ley se realizarán las operaciones presupuestarias y contables que procedan para garantizar la disponibilidad de los créditos en el ejercicio 2015.
