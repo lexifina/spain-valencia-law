@@ -1,0 +1,2 @@
+Disposición adicional única. Remisiones normativas.
+Las referencias normativas efectuadas en otras disposiciones a la Ley 8/1985, de 31 de mayo, de la Generalitat, de regulación de la actuación financiera de las cooperativas con sección de crédito en la Comunitat Valenciana, se entenderán efectuadas a los preceptos correspondientes del texto refundido que se aprueba por el presente decreto legislativo.

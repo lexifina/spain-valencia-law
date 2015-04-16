@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley 8/1985, de 31 de mayo, de la Generalitat, de regulación de la actuación financiera de las cooperativas con sección de crédito en la Comunitat Valenciana, y sus modificaciones posteriores, en virtud de su incorporación al texto refundido que se aprueba por el presente decreto legislativo. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente decreto legislativo.
