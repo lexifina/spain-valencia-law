@@ -1,0 +1,2 @@
+Disposición final única. Entrada en vigor.
+Este decreto ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Comunitat Valenciana».
