@@ -1,0 +1,5 @@
+Artículo 60 bis. Uso de detectores de metales y otros instrumentos de análoga naturaleza.
+1. El uso de detectores de metales u otras herramientas o técnicas análogas que permitan localizar restos de naturaleza arqueológica o paleontológica, aun sin ser ésta su finalidad, deberá ser autorizado por la conselleria competente en materia de cultura.
+2. Reglamentariamente se determinarán las condiciones de la autorización, que en todo caso requerirá la autorización del propietario del terreno, tendrá carácter personal e indicará su ámbito territorial y temporal. Asimismo se podrán determinar usos y ámbitos exentos de la necesidad de autorización administrativa.
+3. Los objetos y restos materiales hallados con la utilización de estos dispositivos que posean los valores que son propios del patrimonio arqueológico o paleontológico quedan sujetos a lo dispuesto en el artículo 64, y en ningún supuesto se entenderán hallados por azar.
+Se añade por el art. 72 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.

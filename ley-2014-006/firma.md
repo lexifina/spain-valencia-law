@@ -224,8 +224,6 @@ b) Tableros derivados de la madera: tableros de virutas de madera orientadas, ta
 6.10 Acabado de muebles y elementos de madera, junco, caña, corcho, cestería, brochas, cepillos, etc., a escala industrial (barnizado, tapizado, dorado, pintado, etc.).
 7. Industria textil.
 7.1 Tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras textiles o productos textiles cuando la capacidad de tratamiento sea superior a 2 y hasta 10 toneladas diarias.
-7.2 Fabricación de fibras y tejidos y/o confección a escala industrial.
-7.3 Acabados textiles a escala industrial.
 8. Industria del cuero.
 8.1 Curtido de cueros y pieles con capacidad de tratamiento de hasta 12 toneladas de productos acabados por día.
 8.2 Talleres de confección de artículos de cuero, piel y similares con una superficie superior a 1.000 m2.
@@ -287,7 +285,7 @@ En el caso de explotaciones mixtas, en las que coexistan animales de los apartad
 13.1.8 Cualquier otra que por la legislación estatal o autonómica exigiese autorización sectorial previa.
 No obstante, las actividades relacionadas anteriormente podrán tramitarse mediante el procedimiento de declaración responsable si junto a dicha declaración y la documentación exigible el interesado aportase la correspondiente autorización o instrumento de intervención sectorial previa.
 13.2 Por implicar cierto grado de riesgo, estarán también sometidas a licencia ambiental las siguientes:
-13.2.1 Actividades con carga térmica ponderada superior a 200 Mcal/m2 (800 Mcal/m2 según el CTE DB-SI i RSIEI 800 Mcal/m2).
+13.2.1 Actividades con carga térmica ponderada superior a 200 Mcal/m² (800 MJ/ m² según CTE DB-SI y RSIEI 800 MJ/m²).
 13.2.2 Comercios y grandes almacenes de superficie comercial superior a 2.500 m2
 13.2.3 Actividades de uso hospitalario (hospitales, clínicas, centros de asistencia primaria u otros establecimientos sanitarios) cuya altura de evacuación sea superior a 20 metros o la superficie total construida sea mayor de 2.000 m2
 13.2.4 Actividades de uso administrativo cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 5.000 m2
@@ -320,6 +318,7 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.21 Impresión gráfica y/o edición a escala industrial.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se suprime el apartado 7.2 y 7.3 y se modifica el 13.2.1 por los art. 98 y 99 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
 ANEXO III
 Condiciones para determinar la inclusión de actividades en el régimen de declaración responsable ambiental o de comunicación de actividades inocuas
 Aquellas actividades no contempladas en los anexos anteriores quedarán incluidas en los siguientes regímenes:
@@ -351,4 +350,5 @@ b) Comunicación de actividades inocuas: cuando cumplan todas las condiciones qu
 7.1 Aquellas actividades que no utilicen, manipulen, ni generen sustancias o residuos considerados como peligrosos de acuerdo con lo dispuesto en el anexo III de la Ley 22/2011, de 28 de julio, de Residuos y Suelos Contaminados o el anexo I del Reglamento (CE) 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, y por el se modifican y derogan las directivas 67/548/CEE y 1999/45/CE y se modifica el Reglamento (CE) 1907/2006.
 8. Explosión por sobre presión y /o deflagración.
 9. Riesgo de legionelosis.
-9.1 Aquellas actividades que no dispongan de instalaciones industriales sujetas a programas de mantenimiento incluidas en el artículo 2 del RD 865/2003, de 4 de julio, por el que se establecen los criterios higiénico-sanitarios para la prevención y control de la legionelosis.
+9.1 Aquellas actividades que no dispongan de actividades industriales sujetas a programas de mantenimiento incluidas en el artículo 2.2.1.º del Real Decreto 865/2003, de 4 de julio, por el que se establecen criterios higiénico-sanitarios para la prevención y control de la legionelosis.
+Se modifica el apartado 9.1 por el art. 100 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.

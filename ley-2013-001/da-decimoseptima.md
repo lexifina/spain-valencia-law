@@ -1,0 +1,3 @@
+Disposición adicional decimoséptima. Publicidad de estatutos.
+Los estatutos de las sociedades mercantiles de la Generalitat y de las fundaciones del sector público de la Generalitat a las se refieren los artículos 156 y 157 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones, y las modificaciones de los mismos, una vez aprobados e inscritos en los Registros correspondientes, se publicarán en el "Diari Oficial de la Comunitat Valenciana", todo ello sin perjuicio de lo previsto en la normativa en materia de transparencia.
+Se añade por el art. 65 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
