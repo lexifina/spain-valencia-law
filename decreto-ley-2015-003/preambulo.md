@@ -1,1 +1,1 @@
-Se suspende la vigencia y aplicación de esta norma desde el 28 de octubre de 2015 para las partes en el proceso y desde el 5 de noviembre de 2015 para los terceros, por providencia del TC de 3 de noviembre de 2015, que admite a trámite el recurso de inconstitucionalidad 6022/2015. Ref. BOE-A-2015-11930.
+Se levanta la suspensión de la vigencia y aplicación de esta norma, salvo lo dispuesto en relación con las prestaciones farmaceúticas en el art. 4.1, que se levantará en los términos expuestos en el fj 5 in fine, por auto del TC de 1 de marzo de 2016.Ref. BOE-A-2016-2340.
