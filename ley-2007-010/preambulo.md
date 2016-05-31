@@ -1,1 +1,1 @@
-Téngase en cuenta que se levanta la suspensión de la vigencia y aplicación de esta Ley por Auto del TC de 12 de junio de 2008. Ref. BOE-A-2008-11040; suspensión que se produjo por providencia del TC de 17 de abril de 2008, que admitió a trámite el recurso de inconstitucionalidad 9888/2007. Ref. BOE-A-2008-6998.
+Se declara la inconstitucionalidad y nulidad de la presente Ley, con los efectos previstos en los fj 7 y 8, por Sentencia del TC 82/2016, de 28 de abril. Ref. BOE-A-2016-5194.
