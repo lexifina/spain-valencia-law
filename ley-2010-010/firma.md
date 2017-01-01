@@ -11,12 +11,17 @@ A1-01.
 Requisitos: Título universitario de doctorado, licenciatura, ingeniería, arquitectura o equivalente, o bien, título universitario oficial de grado más título oficial de máster universitario.
 Grupo/Subgrupo profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas funciones de nivel superior comunes a la actividad administrativa.
-Administración general.
-Cuerpo: Superior de gestión de administración general de la administración de la Generalitat.
-A2-01.
-Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de Arquitectura Técnica o equivalente, o bien, título universitario oficial de grado.
-Grupo/Subgrupo profesional: A2.
-Funciones: Apoyar y colaborar en las tareas administrativas de programación estudio, propuesta, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa.
+Administración general:
+Cuerpo: Superior de gestión de Administración general de la Administración de la Generalitat.
+A2- 01.
+Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica o equivalente, o bien título universitario oficial de grado.
+Grupo/subgrupo profesional: A2.
+Escala: A2-01-01. Técnico superior de administración general de la Generalitat Valenciana.
+Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica o equivalente, o bien título universitario oficial de grado.
+Funciones: Apoyar y colaborar en las tareas administrativas de programación, estudio, propuesta, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa.
+Escala: A2-01-02. Orientación laboral para el empleo.
+Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica o equivalente, o bien título universitario oficial de grado.
+Funciones: Actividades de organización, tramitación e impulso de las actuaciones en materia de orientación laboral para el empleo.
 Administración general.
 Cuerpo: Técnico de gestión de administración general de la administración de la Generalitat.
 B-01.
@@ -864,6 +869,7 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
+Se modifica por el art. 93 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291
 Se modifica por el art. 113 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
 Se modifica por la disposición adicional 2 de la Ley 5/2014, de 25 de julio. Ref. BOE-A-2014-9625#dasegunda
 Se modifica por los arts. 88 a 90 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
