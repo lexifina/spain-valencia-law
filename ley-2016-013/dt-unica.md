@@ -1,0 +1,2 @@
+Disposición transitoria única. Régimen transitorio del procedimiento de autorización de centros sanitarios de la Comunitat Valenciana para la práctica de actividades de extracción y trasplante de órganos, tejidos y células.
+En los procedimientos iniciados antes de la entrada en vigor de lo dispuesto en el artículo 80 de esta ley, no les será de aplicación la misma, rigiéndose por la normativa anterior.
