@@ -1,0 +1,2 @@
+Disposición transitoria única. Ejercicio de las funciones de la AVSRE hasta su puesta en funcionamiento.
+Las funciones asignadas por la presente ley seguirán siendo desempeñadas por los órganos de la administración de la Generalitat que actualmente ostentan competencias inherentes a las mismas hasta la efectiva puesta en funcionamiento de la AVSRE, que, en todo caso, no podrá exceder del plazo de dos meses contados a partir de la publicación de su reglamento orgánico y funcional.
