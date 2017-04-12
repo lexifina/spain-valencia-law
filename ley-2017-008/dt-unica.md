@@ -1,0 +1,2 @@
+Disposición transitoria única. Garantía de funcionamiento de los servicios actuales.
+Se garantizará el funcionamiento de los actuales servicios que se prestan a las personas trans en la Comunitat Valenciana, en tanto no se desarrolle reglamentariamente esta ley o hasta que la nueva estructura coordinada por las Unidades de Referencia para la Identidad de Género no estén en funcionamiento, que en todo caso no podrá ser superior a seis meses desde la entrada en vigor de la ley.
