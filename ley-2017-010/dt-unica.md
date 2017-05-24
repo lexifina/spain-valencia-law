@@ -1,0 +1,2 @@
+Disposición transitoria única. Iniciativas en trámite.
+Las iniciativas legislativas populares presentadas en Les Corts con anterioridad a la entrada en vigor de esta ley se regirán por esta ley desde el momento de su vigencia y desde el momento de tramitación en que se encuentren. En todo caso, independientemente del momento de tramitación en que se encuentren, el número de firmas exigibles será el de 10.000 establecido por esta ley.
