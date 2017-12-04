@@ -23,6 +23,8 @@ a) Certificados de titularidades expedidos por el Registro de la Propiedad en re
 b) Escrituras de compraventa de la vivienda y de constitución de la garantía hipotecaria y otros documentos justificativos, en su caso, del resto de las garantías reales o personales constituidas, si las hubiere.
 5. Declaración responsable de la persona deudora o deudoras relativa al cumplimiento de los requisitos exigidos para considerarse situado en el ámbito de aplicación de este.
 6. Informe de los servicios sociales comunitarios del municipio sobre la situación de emergencia o exclusión social en que puede quedar el beneficiario en caso de lanzamiento, a partir de los criterios definidos en el artículo 2 de esta ley y analizando, en su caso, otras circunstancias que puedan concurrir.
+Téngase en cuenta que se suspende la vigencia y aplicación de este anexo desde el 8 de noviembre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5425/2017. Ref. BOE-A-2017-14166
+Se suspende la vigencia y aplicación de este anexo desde el 8 de noviembre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5425/2017. Ref. BOE-A-2017-14166
 ANEXO II
 Procedimiento para la declaración de vivienda deshabitada
 I. Acuerdo de inicio.
@@ -62,5 +64,7 @@ e) Cesión de las viviendas a la Generalitat por sus titulares, para su gestión
 VI. Propuesta de resolución.
 1. Transcurrido el plazo de alegaciones, y practicadas en su caso las pruebas que hubieran sido declaradas pertinentes, el instructor redactará la propuesta de resolución, que contendrá la valoración de las pruebas practicadas y se pronunciará expresamente acerca de la estimación o desestimación, total o parcial, de las alegaciones que se hubieren presentado.
 2. La propuesta habrá de ser notificada a los interesados cuando tenga en cuenta nuevos hechos, alegaciones, pruebas o documentos o que no sean conocidos por estos, en cuyo caso se conferirá un trámite adicional de alegaciones de diez días.
+Téngase en cuenta que se suspende la vigencia y aplicación de este anexo desde el 8 de noviembre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5425/2017. Ref. BOE-A-2017-14166
+Se suspende la vigencia y aplicación de este anexo desde el 8 de noviembre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5425/2017. Ref. BOE-A-2017-14166
 Información relacionada
 Téngase en cuenta que el contenido de los anexos de la ley, las cuantías de las sanciones y las referencias al indicador público de renta de efectos múltiples, que pasan a tener rango reglamentario, podrán ser modificados, revisados y actualizados mediante decreto del Consell, publicado únicamente en el "Diario Oficial de la Generalitat Valenciana", según establece su disposición final 2.
