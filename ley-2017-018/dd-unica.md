@@ -1,0 +1,4 @@
+Disposición derogatoria única. Normas que se derogan.
+Quedan derogadas la Ley 6/2007, de 9 de febrero, de la Generalitat, de cooperación al desarrollo de la Comunitat Valenciana, y la Ley 11/2010, 16 de julio, de la Generalitat, reguladora del Estatuto de las personas cooperantes valencianas.
+Quedan derogados el Decreto 18/2009, de 23 de enero, del Consell, por el que se regula la Comisión Interterritorial de Cooperación al Desarrollo; el Decreto 231/2007, de 30 de noviembre, del Consell, por el que regula la Comisión Interdepartamental de Cooperación al Desarrollo, y el Decreto 10/2011, de 4 de febrero, del Consell, por el que se regula el Registro Autonómico de las Personas Cooperantes Valencianas.
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en esta ley.

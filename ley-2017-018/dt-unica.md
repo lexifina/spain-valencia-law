@@ -1,0 +1,2 @@
+Disposición transitoria única. Del Registro de Agentes de la Cooperación Internacional al Desarrollo de la Comunitat Valenciana.
+En el plazo de un año a partir de la entrada en vigor de esta ley se procederá a la adecuación del Decreto 39/2009, de 6 de marzo, del Consell, por el que se regula el Registro de Agentes de la Cooperación Internacional al Desarrollo, permaneciendo vigentes las inscripciones del mismo hasta la publicación en el Diari Oficial de la Generalitat Valenciana de la disposición normativa que la derogue o modifique.
