@@ -3,14 +3,14 @@ Valencia, 10 de febrero de 2017.
 El President de la Generalitat,
 Ximo Puig i Ferrer.
 ANEXO I
-Especies sujetas a marcaje
+Especies sujetos a marcaje
 Nombre científico | Nombre común en valenciano | Nombre común en castellano
-Dentex dentex. | Déntol. | Dentón.
-Epinephelus sp Anfós. | Mero. | Mero.
-Sciaena umbra Corb. | Corball de roca/corball. | Corvallo/corvina negra.
-Scorpaena scrofa. | Cap-roig/escorpa roja. | Gallineta/cabracho.
-Seriola dumerili. | Verderol/cerviola. | Lechola/serviola.
-Umbrina cirrosa. | Reig. | Verrugato.
-Zeus faber. | Gall. | Gallo de San Pedro.
+Epinephelus marginatus. | Anfós. | Mero.
+Sciaena umbra. | Corball de roca. | Corvallo.
+Scorpaena scrofa. | Cap-roig. | Cabracho.
+Seriola dumerili. | Cèrvia/letxa. | Pez limón.
+Umbrina cirrosa. | Corball. | Verrugato.
+Zeus faber. | Gall. | Pez de San Pedro.
+Se modifica por el art. 35 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 ANEXO II
 Ejemplos de corte para marcaje de las especies del anexo 1

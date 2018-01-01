@@ -1,9 +1,4 @@
-Artículo 10 quáter.
-1. El Comité de Dirección se reunirá siempre que lo acuerde su presidente y como mínimo, dos veces al año, previa convocatoria que deberá ser acordada y notificada con una antelación mínima de cuarenta y ocho horas, salvo en caso de convocatoria urgente, acompañándose el orden del día.
-2. El Comité de Dirección podrá, asimismo, convocarse por su presidente, previa solicitud por escrito y motivada de, al menos, la mayoría absoluta de sus miembros.
-3. El orden del día se fijará por su presidente teniendo en cuenta, en su caso las peticiones de los demás miembros formuladas con antelación suficiente.
-4. Para la válida constitución del Comité de Dirección se requerirá la presencia de su Presidente y Secretario, o de quienes les sustituyan. El quórum será el de mayoría absoluta de sus componentes en primera convocatoria, y de un mínimo de tres miembros en segunda convocatoria. Entre la primera y segunda convocatoria deberá mediar al menos treinta minutos. No obstante, quedará válidamente constituido, aún cuando no se hubiesen cumplido los requisitos de convocatoria, cuando se hallen presentes todos sus miembros y así lo acordaren por unanimidad.
-5. Los acuerdos será adoptados por mayoría de los asistentes, decidiendo los empates el voto de su presidente.
-6. De los acuerdos que se adopten por el Comité de Dirección se levantará la correspondiente acta, que será firmada por el Secretario, con el visto bueno del presidente, y se aprobará en la misma o posterior sesión, debiendo registrarse en el libro de actas.
-7. En lo no previsto en este artículo se estará a lo dispuesto en el capítulo II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Artículo 10 quater.
+(Derogado)
+Se deroga por la disposición derogatoria única de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 Se añade por el art. 64 de la Ley 14/2005, de 23 de diciembre. Ref. BOE-A-2006-2973

@@ -1,2 +1,3 @@
-Disposición adicional.
-En lo no previsto expresamente en esta ley, será de aplicación supletoria la Ley 5/1997, de 25 de junio, de la Generalidad Valenciana, por la que se regula el Sistema de Servicios Sociales en el Ámbito de la Comunidad Valenciana y la Ley 1/98 y sus normas de desarrollo.
+Disposición adicional única. Terminología.
+Las referencias que en la presente ley y los textos normativos y disposiciones generales de la Generalitat se efectúan a "personas con discapacidad", se entenderán realizadas de forma indistinta a "personas con discapacidad o diversidad funcional".
+Se modifica por el art. 14 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871

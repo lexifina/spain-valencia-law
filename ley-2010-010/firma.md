@@ -12,16 +12,12 @@ Requisitos: Título universitario de doctorado, licenciatura, ingeniería, arqui
 Grupo/Subgrupo profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas funciones de nivel superior comunes a la actividad administrativa.
 Administración general:
-Cuerpo: Superior de gestión de Administración general de la Administración de la Generalitat.
-A2- 01.
-Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica o equivalente, o bien título universitario oficial de grado.
-Grupo/subgrupo profesional: A2.
-Escala: A2-01-01. Técnico superior de administración general de la Generalitat Valenciana.
-Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica o equivalente, o bien título universitario oficial de grado.
-Funciones: Apoyar y colaborar en las tareas administrativas de programación, estudio, propuesta, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa.
-Escala: A2-01-02. Orientación laboral para el empleo.
-Requisitos: Título universitario de ingeniería técnica, diplomatura universitaria, título de arquitectura técnica o equivalente, o bien título universitario oficial de grado.
+Cuerpo superior de gestión de administración general de la administración de la Generalitat A2-01.
+Funciones: Apoyar y colaborar en las funciones administrativas de programación, estudio, propuestas, coordinación, gestión, control, inspección y asesoramiento, comunes a la actividad administrativa.
+Requisitos: Título universitario de ingeniería técnica. Diplomatura universitaria, título de arquitectura técnica o equivalente o bien título universitario de oficial de grado.
+Escala A2-01-01 Orientador laboral de empleo.
 Funciones: Actividades de organización, tramitación e impulso de las actuaciones en materia de orientación laboral para el empleo.
+Requisitos: Título universitario de ingeniería técnica. Diplomatura universitaria, título de arquitectura técnica o equivalente o bien título universitario de oficial de grado.
 Administración general.
 Cuerpo: Técnico de gestión de administración general de la administración de la Generalitat.
 B-01.
@@ -218,8 +214,8 @@ Escalas:
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de prevención de riesgos laborales.
 Requisitos: Título universitario de licenciatura, ingeniería, arquitectura o equivalente y técnico superior Prevención de Riesgos Laborales, o bien, título universitario oficial de grado más título oficial de máster universitario y técnico superior Prevención de Riesgos Laborales.
 – A1-25-02. Medicina del trabajo.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de medicina del trabajo.
-Requisitos: Licenciatura en Medicina, especialidad Medicina del Trabajo y técnico superior Prevención de Riegos Laborales. Título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo y técnico superior Prevención de Riesgos Laborales o especialidad Medicina del Trabajo.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de medicina del trabajo.
+Requisitos: Licenciatura en medicina, especialidad medicina del trabajo o título universitario oficial de grado, mas máster universitario que, de acuerdo con los planes de estudios vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 Administración especial.
 Cuerpo: Superior técnico de valoración tributaria de la administración de la Generalitat.
 A1-26. (Suprimido).
@@ -235,24 +231,26 @@ Licenciatura en Químicas.
 Licenciatura en Ciencias Ambientales.
 Licenciatura en Física.
 Licenciatura en Ciencias del Mar.
+Licenciatura en Geología.
 Licenciatura en Geografía.
+Licenciatura en Sociología.
 Ingeniería de Montes.
 Ingeniería Industrial.
 Ingeniería de Caminos, Canales y Puertos.
-Ingeniería Geología.
+Ingeniería Geológica.
 Ingeniería Agrónoma.
 Ingeniería Química.
-Título universitario oficial de grado más título oficial de master universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
 Grupo/subgrupo profesional: A1.
 Escalas:
 – A1-27-01. Administración del medio ambiente.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de la Administración del medio ambiente.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de la administración del medio ambiente.
 – A1-27-02. Educación ambiental.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de educación ambiental.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de educación ambiental.
 – A1-27-03. Evaluación del medio ambiente.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de evaluación del impacto ambiental.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de evaluación del impacto ambiental.
 – A1-27-04. Inspección del medio ambiente.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de inspección del medio ambiente.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de inspección del medio ambiente.
 Administración especial.
 Cuerpo: Superior técnico de investigadores científicos de la administración de la Generalitat.
 A1-28.
@@ -423,8 +421,8 @@ Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación
 Administración especial.
 Cuerpo: Superior de gestión en geodesia y cartografía de la administración de la Generalitat.
 A2-12.
-Requisitos: Ingeniería Técnica en Geodesia y Cartografía, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A2.
+Requisitos: Ingeniería técnica topográfica, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/subgrupo profesional: A2.
 Funciones: Actividades de propuesta, gestión, ejecución, control, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias de la profesión relacionadas con las actividades técnicas de geodesia y cartografía.
 Administración especial.
 Cuerpo: Superior de gestión en ingeniería técnica forestal de la administración de la Generalitat.
@@ -704,10 +702,11 @@ Requisitos: Técnico en atención sociosanitaria (ciclo formativo de grado medio
 Grupo/Subgrupo profesional: C1.
 Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de atención sociosanitaria.
 Administración especial:
-Cuerpo: Especialistas en la administración del medio ambiente de la administración de la Generalitat
-C1-13
-Requisitos: Técnico en Aprovechamiento y Conservación del Medio Natural (ciclo formativo de grado medio de Formación Profesional de la familia Agraria)
-Grupo/subgrupo profesional: C1
+Cuerpo: Especialistas en la administración del medio ambiente de la administración de la Generalitat.
+Cuerpo de agentes medioambientales.
+C1-13.
+Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades medioambientales.
+Requisitos: Título de bachiller o superior (sin que dicha titulación superior constituya requisito ni, en los procesos selectivos, suponga mérito alguno), técnico en trabajos forestales y conservación del medio natural (ciclo formativo de grado medio de formación profesional de la familia agraria) o módulo profesional equivalente o de la familia agraria o de la familia de seguridad y medio ambiente que habilite para el ejercicio de las funciones. Permiso de conducir tipo B.
 Escalas:
 C1-13-01: administración del medio ambiente
 Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de la administración del medio ambiente
@@ -869,6 +868,7 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
+Se modifica por el art. 24 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 Se modifica por el art. 93 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291
 Se modifica por el art. 113 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
 Se modifica por la disposición adicional 2 de la Ley 5/2014, de 25 de julio. Ref. BOE-A-2014-9625#dasegunda

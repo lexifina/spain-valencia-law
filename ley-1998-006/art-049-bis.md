@@ -1,0 +1,30 @@
+Artículo 49 bis. Funciones de las estructuras para la prestación farmacéutica en los centros sociosanitarios.
+Las estructuras para la prestación farmacéutica, realizarán las funciones establecidas por la legislación vigente en la materia asumiendo como propias las siguientes:
+1. Las unidades de farmacotecnia sociosanitaria de los servicios de farmacia hospitalaria, bajo la responsabilidad de un/a farmacéutico/a especialista en farmacia hospitalaria, asumirá como propias las siguientes funciones:
+a) Garantizar y asumir la responsabilidad técnica de la adquisición, del suministro, de la calidad, correcta conservación, cobertura de las necesidades, custodia, reenvasado/fraccionamiento de los medicamentos, productos dietoterápicos y productos sanitarios precisos para atender los tratamientos de las personas usuarias de los centros sociosanitarios.
+b) Elaborar las dosis unitarias individualizadas para las personas residentes en los centros sociosanitarios.
+c) Participar a través de la Comisión de Farmacia y Terapéutica Sociosanitaria en el diseño de la Guía farmacoterapéutica sociosanitaria.
+d) Definir el proceso de reposición y suministrar los medicamentos, productos dietoterápicos y productos sanitarios necesarios para la reposición de los depósitos de medicamentos de los centros sociosanitarios.
+e) Realizar cuantas funciones puedan redundar en un mejor uso y control de los medicamentos, productos dietoterápicos y productos sanitarios.
+2. Las unidades funcionales de atención farmacéutica sociosanitaria de los servicios de farmacia hospitalaria del departamento de salud, bajo la responsabilidad de un farmacéutico o farmacéutica especialista en farmacia hospitalaria, asumirá como propias las siguientes funciones:
+a) Dispensar los medicamentos, productos dietoterápicos y productos sanitarios precisos para atender los tratamientos de las personas usuarias de los centros sociosanitarios, en aquellos casos en que no sea posible el suministro por las unidades de farmacotécnia sociosanitaria de los servicios de farmacia hospitalaria.
+b) Participar a través de la Comisión de Farmacia y Terapéutica Sociosanitaria en el diseño la Guía farmacoterapeutica sociosanitaria.
+c) Prestar atención farmacéutica y realizar seguimiento farmacoterapéutico validando las prescripciones médicas a las personas usuarias de los centros sociosanitarios con derecho a la prestación farmacéutica del Sistema Sanitario Público Valenciano, realizando las intervenciones dirigidas al uso racional, seguro y eficiente de los medicamentos.
+d) Lograr una atención integral, dirigida a mejorar la calidad de vida del y de la paciente y a garantizar la continuidad asistencial, a través de la integración y colaboración en el equipo multidisciplinar de los centros sociosanitarios y los equipos de los diferentes ámbitos asistenciales.
+e) Establecer las necesidades de los depósitos de medicamentos que tienen vinculados en los centros sociosanitarios de su departamento de salud, en colaboración con las unidades de farmacotecnia sociosanitaria para el ámbito sociosanitario y con los profesionales sanitarios de los centros sociosanitarios, participando en la definición del proceso de reposición de los depósitos de medicamentos de los centros sociosanitarios.
+f) Garantizar y asumir la responsabilidad técnica de la calidad, correcta conservación y supervisar el funcionamiento adecuado de los depósitos de medicamentos en los sociosanitarios que tiene vinculados.
+g) Establecer un servicio de información de medicamentos y productos sanitarios para todo el personal y para los y las pacientes residentes de los centros sociosanitarios y colaborar con los sistemas de farmacovigilancia.
+h) Llevar a cabo actividades de promoción, prevención de la salud y educación sanitaria sobre cuestiones de su competencia dirigidas al personal y a los y las pacientes de los centros sociosanitarios.
+i) Colaborar e implementar las intervenciones y programas que se implementen por la administración sanitaria para garantizar el uso racional y seguro de los medicamentos, productos dietoterápicos y productos sanitarios.
+j) Realizar cuantas funciones puedan redundar en un mejor uso y control de los medicamentos, productos dietoterápicos y productos sanitarios.
+3. Las oficinas de farmacia que participen en la prestación farmacéutica en los centros sociosanitarios realizarán las siguientes funciones:
+a) Dispensar los medicamentos prescritos mediante receta médica oficial en cumplimiento de lo establecido en la normativa estatal y autonómica.
+b) Colaborar con las estructuras del sistema sanitario público valenciano en las condiciones y los términos de colaboración que se establezcan reglamentariamente.
+4. Los depósitos de medicamentos de los centros sociosanitarios son las unidades asistenciales en las que se conservan y dispensan medicamentos a las personas usuarias de dichos centros y en los que bajo la responsabilidad de un farmacéutico o farmacéutica especialista en farmacia hospitalaria de la unidad funcional de atención farmacéutica sociosanitaria, realizarán las siguientes funciones:
+a) Conservar y dispensar los medicamentos y productos sanitarios a los y las pacientes residentes en dichos centros.
+b) Establecer un sistema que garantice el acceso del personal sanitario a los medicamentos durante las 24 horas del día.
+c) Colaborar con los sistemas de farmacovigilancia.
+d) Facilitar a los farmacéuticos o farmacéuticas responsables de las unidades funcionales de atención farmacéutica sociosanitaria, el cumplimiento de aquellas funciones que necesariamente deban llevar a cabo en las instalaciones del depósito de medicamentos.
+e) Colaborar con los farmacéuticos o farmacéuticas responsables de las unidades funcionales de atención farmacéutica sociosanitaria en el establecimiento de las necesidades de medicamentos, productos dietoterápicos y productos sanitarios del depósito.
+f) Realizar cuantas funciones puedan redundar en un mejor uso y control de los medicamentos, productos dietoterápicos y productos sanitarios.
+Se añade por el art. 27 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
