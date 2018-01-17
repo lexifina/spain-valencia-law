@@ -1,1 +1,1 @@
-Se levanta la suspensión de la vigencia y aplicación de esta norma, salvo lo dispuesto en relación con las prestaciones farmaceúticas en el art. 4.1, que se levantará en los términos expuestos en el fj 5 in fine, por auto del TC de 1 de marzo de 2016.Ref. BOE-A-2016-2340.
+Se declara inconstitucional y nula la presente disposición por Sentencia 145/2017, de 14 de diciembre. Ref. BOE-A-2018-607
