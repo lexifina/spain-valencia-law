@@ -1,2 +1,0 @@
-Disposición adicional.
-Tanto el patrimonio del Instituto Valenciano de Artes Escénicas, Cinematografía y Música como el del Instituto Valenciano de Arte Moderno tendrán la consideración de dominio público de la Generalitat Valenciana, como patrimonio afecto a un servicio público, y estará exento de toda clase de tributos o gravámenes. Dicho patrimonio quedará sujeto a las normas que rijan respecto del patrimonio de la Generalitat Valenciana.
