@@ -1,0 +1,5 @@
+Por tanto, ordeno que todos los ciudadanos y todas las ciudadanas, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+València, 6 de marzo de 2018.–El President de la Generalitat, Ximo Puig i Ferrer.
+ANEXO
+Delimitación del ámbito de aplicación de la Ley de la Huerta de València
+Las disposiciones de esta ley se aplicarán a los suelos en situación básica rural del ámbito de la Huerta de València y de acuerdo con el artículo 21 del texto refundido de la Ley de suelo y rehabilitación urbana, que fue aprobado mediante el Real decreto ley de 30 de octubre de 2015. Este ámbito, que geográficamente corresponde con la línea occidental grafiada en el plano adjunto y la línea de costa del mar Mediterráneo, comprende, entre otros, al espacio dominio de los regadíos históricos de las acequias del Tribunal de las Aguas de la Vega de València; la Real Acequia de Moncada; el canal del Turia; Francos, Marjales y Extremales, y las huertas de elevado valor patrimonial de las poblaciones de Picanya, Paiporta, Torrent y Catarroja.
