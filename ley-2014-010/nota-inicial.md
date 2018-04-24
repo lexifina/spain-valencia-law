@@ -1,0 +1,1 @@
+Téngase en cuenta que se sustituyen los siguientes términos: "profesionales sanitarios" por "personal sanitario", "pacientes" por "pacientes y personas usuarias" y "los menores" por "las personas menores de edad", por el art. único.1 de la Ley 8/2018, de 20 de abril. Ref. BOE-A-2018-6402

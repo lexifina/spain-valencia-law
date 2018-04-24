@@ -1,0 +1,3 @@
+Artículo 35 bis. Vigilancia y control de sustancias químicas.
+La conselleria competente en materia de sanidad ejercerá las competencias relativas a la vigilancia, inspección y control de los aspectos sanitarios de las sustancias químicas, así como el ejercicio de la correspondiente potestad sancionadora, de conformidad con lo previsto en los reglamentos aprobados por la Unión Europea y en la legislación básica estatal sobre la materia, que incorporan el principio de precaución para evitar perjuicios a la salud humana y al medio ambiente. Se activarán cauces para la formación/información de las personas respecto a los riesgos que estas sustancias suponen para la salud.
+Se añade por el art. único.34 de la Ley 8/2018, de 20 de abril. Ref. BOE-A-2018-6402
