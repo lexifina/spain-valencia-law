@@ -30,6 +30,8 @@ d) Quedan expresamente excluidas de la aplicación de esta bonificación:
 – Las adjudicaciones de inmuebles en subasta pública.
 – Las transmisiones de valores que incurran en los supuestos a que se refiere el artículo 17.2 del texto refundido de la Ley del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, aprobado por el Real decreto legislativo 1/1993, de 24 de septiembre.
 6. Mediante orden de la persona titular de la Conselleria competente en materia de hacienda, se establecerán los supuestos, condiciones y medios de justificación de las obras tendentes a conservar o mejorar el rendimiento energético de la vivienda que dan lugar a la aplicación de la bonificación regulada en este artículo.
+Cuatro. Se aplicará una bonificación del 30% de la cuota gradual de documentos notariales de la modalidad actos jurídicos documentados del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, en las escrituras públicas por las que se formalicen las adquisiciones de bienes inmuebles situados en una zona declarada como área industrial avanzada.
+Se añade el apartado 4 por la disposición adicional 4.2 de la Ley 14/2018, de 5 de junio. Ref. BOE-A-2018-8949
 Se añade el apartado 3 por el art. 4 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 Se modifica por el art. 17 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
 Se modifica por el art. 63.1 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970.
