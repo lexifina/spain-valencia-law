@@ -1,0 +1,6 @@
+Disposición transitoria única. Clasificación sin entidad de gestión.
+Excepcionalmente y durante los cuatro años siguientes a la entrada en vigor de esta ley, podrán clasificarse como área industrial consolidada o avanzada aquellas áreas industriales que, respectivamente, reúnan los requisitos establecidos en los artículos 32 y 33 de esta ley, pero no hayan constituido una entidad de gestión y modernización ni tengan una entidad de conservación urbanística, siempre que el municipio solicitante acredite en su solicitud que:
+a) Dispone de una entidad pública dedicada específicamente a la gestión del área industrial, la cual cuenta con un órgano específico para la participación consultiva efectiva de los propietarios del área industrial.
+b) Cumple uno de los dos condicionantes siguientes:
+1. Que en el plazo de seis meses desde la entrada en vigor de esta ley no se haya constituido ninguna comisión promotora de entidad de gestión y modernización.
+2. Que, habiéndose constituido, no se haya acordado la aprobación provisional de un convenio de constitución de una entidad de gestión y modernización de las áreas, conforme al artículo 10 de esta ley, o que en la asamblea de ratificación convocada posteriormente, conforme al artículo 11 de esta ley, no se han conseguido las mayorías previstas para la constitución de una entidad de gestión y modernización.
