@@ -4,25 +4,8 @@ El President de la Generalitat,
 Ximo Puig i Ferrer.
 ANEXO I
 Requisitos para la justificación de la situación de riesgo de exclusión social a los efectos del procedimiento de expropiación forzosa del usufructo a que se refiere el artículo 13 de la Ley
-Justificación de la situación de riesgo de exclusión social a los efectos del procedimiento de expropiación forzosa del usufructo a que se refiere el artículo 13 de la ley.
-La persona beneficiaria del usufructo, para justificar su situación de riesgo de exclusión social, deberá acompañar a la solicitud la siguiente documentación:
-1. Acreditativa de la situación económica de la persona interesada:
-a) Certificado de rentas, y en su caso, certificado relativo a la presentación del impuesto de patrimonio, expedido por la Agencia Estatal de la Administración Tributaria, con relación a los últimos cuatro ejercicios tributarios.
-b) Últimas tres nóminas percibidas.
-c) Certificado expedido por la entidad gestora de las prestaciones, en el que figure la cuantía mensual percibida en concepto de prestaciones o subsidios por desempleo.
-d) Certificado acreditativo de los salarios sociales, rentas mínimas de inserción o ayudas análogas de asistencia social concedidas por las comunidades autónomas y las entidades locales.
-e) En caso de trabajador por cuenta propia, se aportará el certificado expedido por la Agencia Estatal de Administración Tributaria o, si estuviera percibiendo la prestación por cese de actividad, el certificado expedido por el órgano gestor en el que figure la cuantía mensual percibida.
-f) Autorización a la administración actuante para la consulta de los datos fiscales y de seguridad social ante los registros y administraciones competentes.
-g) Alternativamente a la presentación del conjunto de documentación citada en los números anteriores, la persona interesada podrá limitarse a presentar una autorización a la administración actuante para la consulta de los datos fiscales y de seguridad social ante los registros y administraciones competentes.
-2. Acreditativa de los ingresos por los miembros de la unidad de convivencia, en los términos establecidos para la persona beneficiaria.
-3. Acreditativa del número de personas que habitan la vivienda:
-a) Libro de familia o documento acreditativo de la inscripción como pareja de hecho.
-b) Certificado de empadronamiento relativo a las personas empadronadas en la vivienda, con referencia al momento de la presentación de los documentos acreditativos y a los seis meses anteriores.
-4. Titularidad de los bienes:
-a) Certificados de titularidades expedidos por el Registro de la Propiedad en relación con cada uno de los miembros de la unidad de convivencia o, alternativamente, declaración responsable y autorización de consulta a la administración actuante para solicitar los datos catastrales y del registro de la propiedad.
-b) Escrituras de compraventa de la vivienda y de constitución de la garantía hipotecaria y otros documentos justificativos, en su caso, del resto de las garantías reales o personales constituidas, si las hubiere.
-5. Declaración responsable de la persona deudora o deudoras relativa al cumplimiento de los requisitos exigidos para considerarse situado en el ámbito de aplicación de este.
-6. Informe de los servicios sociales comunitarios del municipio sobre la situación de emergencia o exclusión social en que puede quedar el beneficiario en caso de lanzamiento, a partir de los criterios definidos en el artículo 2 de esta ley y analizando, en su caso, otras circunstancias que puedan concurrir.
+(Anulado).
+Se declara la inconstitucionalidad y nulidad del anexo por Sentencia 80/2018, de 5 de julio. Ref. BOE-A-2018-11278
 Se levanta la suspensión de la vigencia y aplicación de este anexo por Auto del TC de 20 de marzo de 2018. Ref. BOE-A-2018-4316
 Se suspende la vigencia y aplicación de este anexo desde el 8 de noviembre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5425/2017. Ref. BOE-A-2017-14166
 ANEXO II
