@@ -1,0 +1,2 @@
+Disposición transitoria única. Curso específico de formación.
+El personal que ocupe puestos de inspector o inspectora de servicios, o sea designado temporalmente para esta función, deberá acreditar contar con formación adecuada mediante un curso de perfeccionamiento para la inspección de servicios homologable por el Instituto Valenciano de Administración Pública (IVAP). En caso de que este personal no haya realizado este curso, deberá realizarlo en el plazo de seis meses a contar desde la entrada en vigor de esta ley.
