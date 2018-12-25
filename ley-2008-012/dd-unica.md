@@ -1,8 +1,0 @@
-Disposición derogatoria única. Cláusula derogatoria.
-1. Quedan derogadas todas las disposiciones de igual o inferior rango que contradigan lo dispuesto en la presente Ley, y de forma especial:
-a) La Ley 7/1994, de 5 de diciembre, de La Generalitat, de la Infancia.
-b) El Decreto 99/1998, de 14 de julio, del Consell, de creación del Observatorio Permanente de la Familia de la Comunitat Valenciana, y el Decreto 194/2002, de 26 de noviembre, del Consell, por el que se modifica el Decreto 99/1998, de 14 de julio, del Consell, que seguirán en vigor hasta la publicación del reglamento que ordene el Observatorio Permanente de la Familia e Infancia de la Comunitat Valenciana.
-c) El artículo 19 de la Ley 5/1997, de 25 de junio, de La Generalitat, por la que se regula el Sistema de Servicios Sociales en el Ámbito de la Comunitat Valenciana.
-d) El Decreto 181/2000, de 5 de diciembre, del Consell, por el que se regula la Comisión Interdepartamental de la Familia en la Comunitat Valenciana.
-e) El Decreto 74/2005, de 8 de abril, del Consell, por el que se crea el Observatorio de la Comunidad Valenciana de Inserción Sociolaboral de Menores y Jóvenes de los Sistemas de Protección y de Reeducación de Menores, que seguirá en vigor hasta la publicación del reglamento que ordene el Observatorio Permanente de la Familia e Infancia de la Comunitat Valenciana.
-2. El Decreto 93/2001, de 22 de mayo, del Consell, por el que se aprobó el Reglamento de Medidas de Protección Jurídica del Menor en la Comunitat Valenciana, se entenderá vigente en todo aquello que no se oponga a lo previsto en la presente Ley.
