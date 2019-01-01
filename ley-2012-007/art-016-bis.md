@@ -1,0 +1,3 @@
+Artículo 16 bis. Derecho a indemnización por causa de gran invalidez o de incapacidad permanente absoluta.
+1. Las víctimas de violencia de género: mujeres, sus hijas e hijos o persona tutelada o en acogida permanente, así como personas ascendentes en primer grado en línea recta, pareja, en los términos del artículo 16.1 c, o personas en segundo grado de línea colateral de la mujer víctima que como consecuencia de la violencia de género sufran daños personales que provoquen una gran invalidez o una incapacidad permanente absoluta tendrán derecho a la percepción de una cuantía económica de pago único, en las condiciones y los requisitos que se establezca reglamentariamente.
+Se añade por el art. 49 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987

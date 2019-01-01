@@ -705,7 +705,7 @@ Administración especial:
 Cuerpo: Especialistas en la administración del medio ambiente de la administración de la Generalitat.
 Cuerpo de agentes medioambientales.
 C1-13.
-Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades medioambientales.
+Funciones: Velar por el cumplimiento de la legislación medioambiental vigente, participación en emergencias medioambientales, conducción especial de vehículos oficiales adscritos al servicio, actividades de gestión de la biodiversidad, investigación de causas de incendios forestales, colaboración con las distintas administraciones en materia de medio ambiente, inspección y control de actividades, y cualquier otra tarea accesoria de éstas, que implique niveles de conocimiento, habilidad y esfuerzo similares, en relación con el contenido del puesto.
 Requisitos: Título de bachiller o superior (sin que dicha titulación superior constituya requisito ni, en los procesos selectivos, suponga mérito alguno), técnico en trabajos forestales y conservación del medio natural (ciclo formativo de grado medio de formación profesional de la familia agraria) o módulo profesional equivalente o de la familia agraria o de la familia de seguridad y medio ambiente que habilite para el ejercicio de las funciones. Permiso de conducir tipo B.
 Escalas:
 C1-13-01: administración del medio ambiente
@@ -763,6 +763,18 @@ C1-19.
 Requisitos: Técnico en Cocina y Gastronomía (ciclo formativo de grado medio de Formación Profesional de la familia Hostelería y Turismo).
 Grupo/Subgrupo profesional: C1.
 Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentación, elaboración y administración de datos, inventariado y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades de la cocina y gastronomía.
+Administración especial.
+Cuerpo: Agentes tributarios de la Generalitat.
+C1-20.
+Requisitos: Título de bachiller o título de grado medio de ciclo formativo de formación profesional.
+Funciones:
+a) Recabar datos con transcendencia tributaria a efectos de la aplicación de los tributos de todo tipo de registros públicos o bases de datos, así como su actualización y depuración permanente una vez integrados dichos datos en los ficheros fiscales.
+b) Captar información tendente a la confección y actualización de censos fiscales o preparatoria de posteriores actuaciones de aplicación de los tributos, incluso mediante visitas y gestiones relacionadas con las actuaciones materiales en los procedimientos de comprobación de valores.
+c) Localizar obligados tributarios mediante consulta de fuentes de datos disponibles o indagación en los últimos domicilios conocidos.
+d) Entrega de notificaciones, comunicaciones y demás documentos administrativos.
+e) Realizar la práctica material de los documentos que recojan las actuaciones de la administración tributaria, los actos de trámite o las resoluciones de los procedimientos de aplicación de los tributos.
+f) Atender y facilitar información al obligado tributario, tanto personal, telefónica o por medios informáticos, sobre cuestiones relacionadas con el desempeño de sus funciones.
+g) Cualquier otra actuación material para la que la normativa tributaria prevea la consideración de agente de la autoridad en el ámbito de los procedimientos de aplicación de los tributos.
 Subgrupo C2
 Administración especial.
 Cuerpo: Servicios auxiliares de mantenimiento de la administración de la Generalitat.
@@ -868,6 +880,7 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
+Se modifica por el art. 65 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
 Se modifica por el art. 24 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 Se modifica por el art. 93 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291
 Se modifica por el art. 113 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236

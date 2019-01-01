@@ -1,5 +1,6 @@
 Disposición adicional decimocuarta. Tipo autonómico de devolución del gasóleo de uso profesional del Impuesto sobre Hidrocarburos.
-El tipo autonómico de devolución del gasóleo de uso profesional del impuesto sobre hidrocarburos, al que se refiere el apartado 6 del artículo 52 bis de la Ley 38/1992, de 28 de diciembre, de impuestos especiales, será, hasta el 31 de diciembre de 2018, de 48 euros por 1.000 litros.
+(Sin contenido).
+Se deja sin contenido por el art. 36 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
 Se modifica por el art. 6 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 Se modifica por el art. 19 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
 Se modifica por el art. 48 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.

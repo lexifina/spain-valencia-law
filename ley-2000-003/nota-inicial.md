@@ -1,0 +1,1 @@
+Téngase en cuenta que la nomenclatura del Servicio Valenciano de Empleo y Formación (LABORA), según establece el artículo 1.1 de esta norma, en la redacción dada por Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
