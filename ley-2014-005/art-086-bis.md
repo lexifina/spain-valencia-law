@@ -1,0 +1,7 @@
+Artículo 86 bis. Reglas especiales en la gestión directa.
+1. En la gestión directa, el proyecto de reparcelación identificará las parcelas resultantes pertenecientes inicialmente a los propietarios que se hayan abstenido de participar. Estas parcelas se adjudicarán provisionalmente a la administración, fijándose la indemnización que corresponda percibir a los propietarios por el valor del suelo según la situación básica del suelo de acuerdo con la legislación de suelo del Estado. En el trámite de información al público de la reparcelación estas parcelas se podrán adjudicar a terceros mediante subasta. El precio de partida será el importe de la indemnización, y la adjudicación se efectuará a quien en ese trámite ofrezca el mayor precio.
+2. Quien resulte seleccionado, efectuado el pago, figurará en la reparcelación como adjudicatario de las parcelas, y serán a su cargo los costes de urbanización que correspondan.
+3. Antes de aprobar la reparcelación, la administración abonará al propietario a que se refiere el apartado 1 de este artículo el importe de la indemnización, según el precio resultante de la subasta.
+4. En caso de quedar desierta la subasta, el ayuntamiento, como propietario de los terrenos, asumirá las obligaciones, cargas y derechos que correspondan por dicha titularidad.
+Se añade por el art. único y el anexo.60 de la Ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-2784
+Téngase en cuenta para su aplicación, la disposición transitoria 5 de la citada ley.

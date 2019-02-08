@@ -1,0 +1,3 @@
+Disposición transitoria decimotercera. Aplicación de esta ley a los catálogos de protección.
+Las determinaciones contenidas en el anexo VI de esta ley relativo a las fichas del catálogo de protecciones resultarán de obligado cumplimiento para los nuevos catálogos que se tramiten a partir de la entrada en vigor de esta ley y para la revisión global de catálogos que cuenten con aprobación definitiva anterior. La modificación puntual de un catálogo deberá realizarse atendiendo a la ficha correspondiente contenida en el anexo VI de esta ley, la parte del catálogo que no es objeto de la modificación podrá mantenerse en los términos en que se aprobó.
+Se añade por el art. único y el anexo.154 de la Ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-2784

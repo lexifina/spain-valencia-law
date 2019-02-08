@@ -344,11 +344,11 @@ Administración especial.
 Cuerpo: Superior técnico de facultativos de la Administración de la Generalitat.
 A1-34. (Suprimido).
 Administración Especial.
-Cuerpo: Superior técnico de análisis, gestión y ordenación del territorio, urbanismo y paisaje
-A-35.
-Requisitos: Título universitario de licenciatura, ingeniería, arquitectura o equivalente, o bien título universitario oficial de grado más título oficial de master universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a los puestos.
+Cuerpo: Superior técnico de análisis, gestión y ordenación del territorio, urbanismo y paisaje A-35.
+Requisitos:
+Título universitario de licenciatura, ingeniería, arquitectura o equivalente, o bien título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a los puestos.
 Grupo/subgrupo profesional: A1.
-Funciones: Dirigir, gestionar, proponer, informar, controlar, estudiar, programar y asesorar las actuaciones y actividades relacionadas con el análisis territorial, la evaluación, ordenación y gestión del territorio, la ejecución y planificación de los instrumentos de planeamiento y la implantación de las actuaciones territoriales estratégicas.
+Funciones: Dirigir, gestionar, proponer, informar, controlar, estudiar, programar y asesorar las actuaciones y actividades relacionadas con el análisis territorial, la evaluación, ordenación y gestión del territorio, la ejecución y planificación de los instrumentos de planeamiento y la implantación de los proyectos de inversiones estratégicas sostenibles.
 Subgrupo A2
 Administración especial.
 Cuerpo: Superior de gestión en ingeniería técnica en informática de la administración de la Generalitat.
@@ -880,6 +880,7 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
+Se modifica por la disposición adicional 2 de la Ley 5/2014, de 25 de julio en la redacción dada por el art. único y el anexo.145 de la Ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-2784#an
 Se modifica por el art. 65 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
 Se modifica por el art. 24 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871
 Se modifica por el art. 93 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291
