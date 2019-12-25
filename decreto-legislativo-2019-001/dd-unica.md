@@ -1,0 +1,8 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas todas las disposiciones de igual o inferior rango que se oponen a lo dispuesto en este decreto legislativo y al texto refundido que por él se aprueba, y en particular, las siguientes:
+– Ley 1/2011, de 22 de marzo, de la Generalitat, por la que se aprueba el Estatuto de los Consumidores y Usuarios de la Comunitat Valenciana, a excepción de la disposición adicional primera, por la que se modifican los párrafos 1 y 4 del artículo 15 de la Ley 8/2004, de 20 de octubre, de la Generalitat, de la Vivienda de la Comunitat Valenciana, «Pagos anticipados del precio de la vivienda».
+– Artículo 107 de la Ley 9/2011, de 26 de diciembre, de Medidas Fiscales, de Gestión Administrativa y Financiera, y de Organización de la Generalitat.
+– Artículos 79, 80 y 81 de la Ley 10/2015, de 29 de diciembre, de medidas fiscales, de gestión administrativa y financiera, y de organización de la Generalitat.
+– Decreto ley 1/2018, de 2 de febrero, del Consell, por el que se deroga la disposición adicional segunda, sobre el personal en los establecimientos de distribución al por menor y venta al público de carburantes y combustibles, de la Ley 1/2011, de 22 de marzo.
+– Artículo 87 de la Ley 27/2018, de 27 de diciembre, de Medidas Fiscales, de Gestión Administrativa y Financiera, y de Organización de la Generalitat.
+– Ley 6/2019, de 15 de marzo, de la Generalitat, de modificación de la Ley 1/2011, de 22 de marzo, por la que se aprueba el Estatuto de las personas consumidoras y usuarias de la Comunitat Valenciana, en garantía del derecho de información de las personas consumidoras en materia de titulización hipotecaria y otros créditos y ante ciertas prácticas comerciales.
