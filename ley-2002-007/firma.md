@@ -51,37 +51,34 @@ Sonómetro: instrumento provisto de un micrófono amplificador, detector de RMS,
 Vibraciones: perturbación que provoca la oscilación de los cuerpos sobre su posición de equilibrio.
 ANEXO II
 Niveles sonoros
-TABLA 1
+Tabla 1
 Niveles de recepción externos
 Uso dominante | Nivel sonoro dB(A)
 Día | Noche
-Sanitario y docente | 45 | 35
-Residencial | 55 | 45
-Terciario | 65 | 55
-Industrial | 70 | 60
-TABLA 2
+Sanitario y docente. | 45 | 35
+Residencial. | 55 | 45
+Terciario. | 65 | 55
+Industrial. | 70 | 60
+Tabla 2
 Niveles de recepción internos
 Uso | Locales | Nivel sonoro dB(A)
 Día | Noche
-Sanitario. | Zonas comunes. | 50 | 40
- | Estancias. | 45 | 30
- | Dormitorios. | 30 | 25
-Residencial. | Piezas habitables (excepto cocinas). | 40 | 30
- | Pasillos, aseos, cocina. | 45 | 35
- | Zonas comunes edificio. | 50 | 40
-Docente. | Aulas. | 40 | 30
- | Salas de lectura. | 35 | 30
-Cultural. | Salas de concierto. | 30 | 30
- | Bibliotecas. | 35 | 35
- | Museos. | 40 | 40
- | Exposiciones. | 40 | 40
-Recreativo. | Cines. | 30 | 30
- | Teatros. | 30 | 30
- | Bingos y salas de juego. | 40 | 40
- | Hostelería. | 45 | 45
+Sanitario. | Zonas comunes. Estancias. Dormitorios. | 50 45 30 | 40 30 25
+Residencial. | Piezas habitables (excepto cocinas). Pasillos, aseo, cocina. Zonas comunes edificio. | 40 45 50 | 30 35 40
+Docente. | Aulas. Salas de lectura. | 40 35 | 30 30
+Cultural. | Salas de concierto. Bibliotecas. Museos. Exposiciones. | 30 35 40 40 | 30 35 40 40
+Recreativo. | Cines. Teatros. Bingos y salas de juego. Hostelería. | 30 30 40 45 | 30 30 40 45
 Comercial. | Bares y establecimientos comerciales. | 45 | 45
-Administrativo y oficinas. | Despachos profesionales. | 40 | 40
- | Oficinas. | 45 | 45
+Administrativo y oficinas. | Despachos profesionales. Oficinas. | 40 45 | 40 45
+Tabla 3
+Niveles de recepción externos para infraestructuras
+Uso dominante | Nivel sonoro dB(A)
+Día (Ld) | Tarde (Le) | Noche (Ln)
+Sanitario y docente. | 45 | 45 | 35
+Residencial. | 55 | 55 | 45
+Terciario. | 65 | 65 | 55
+Industrial. | 70 | 70 | 60
+Se modifica por el art. 82 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
 ANEXO III
 Niveles de vibraciones
 TABLA 1

@@ -1181,6 +1181,8 @@ C2-S02.
 Requisitos: Título de graduado en ESO.
 Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
+Téngase en cuenta que la exigencia de estar en posesión del master universitario previsto en este Anexo III para el acceso a los cuerpos y escalas del subgrupo A1, no será de aplicación en los procesos selectivos que se convoque a partir de 1 de enero de 2020, según establece la disposición adicional segundo.1, salvo lo indicado en los apartados 2 y 3, de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
+Se suspende la exigencia de estar en posesión del master universitario previsto en este Anexo III para el acceso a los cuerpos y escalass del subgrupo A y no será de aplicación en los procesos selectivos que se convoque a partir de 1 de enero de 2020, según establece la disposición adicional segundo.1, salvo lo indicado en los apartados 2 y 3, de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
 Se modifica por el art. 115 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236
 Se modifica por el art. 97 de la Ley 5/2013, de 23 de diciembre. Ref. BOE-A-2014-970
 Redactada conforme a la corrección de errores publicada en DOCV núm 7195, de 20 de enero de 2014. Ref. BOE-A-2014-2112

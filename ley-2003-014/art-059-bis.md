@@ -1,0 +1,4 @@
+Artículo 59 bis. Autorizaciones especiales de uso sobre bienes de dominio público
+1. El departamento u organismo público vinculado o dependiente de la Generalitat que tenga adscrito el bien de que se trate, podrá autorizar su uso por personas físicas o jurídicas, públicas o privadas para el cumplimiento esporádico o temporal de fines o funciones públicas, previo informe favorable de la Dirección General de Patrimonio, por cuatro años, prorrogables por igual plazo.
+2. Dichas autorizaciones se otorgarán por el Consell, a propuesta del titular de la Conselleria competente en materia de patrimonio, cuando se trate de fundaciones de ámbito estatal y autonómico y organismos internacionales, sin sujeción a las limitaciones de plazo y destino expresados en el apartado anterior.
+Se añade por el art. 64 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
