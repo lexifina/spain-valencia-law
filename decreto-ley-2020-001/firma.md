@@ -1,0 +1,1 @@
+València, 27 de marzo de 2020.–El President de la Generalitat, Ximo Puig i Ferrer.–El Conseller de Hacienda y Modelo Económico, Vicent Soler i Marco.–El Conseller de Economía Sostenible, Sectores Productivos, Comercio y Trabajo, Rafael Climent González.
