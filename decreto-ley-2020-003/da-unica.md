@@ -1,0 +1,2 @@
+Disposición adicional única. Tramitación y disponibilidades presupuestarias.
+Las ayudas previstas en este decreto ley se tramitarán de conformidad con lo previsto en el artículo 168.1.C de la Ley 1/2015 y serán atendidas con cargo a las disponibilidades presupuestarias existentes, incluyendo al efecto las de los proyectos relativos a aportaciones de capital a entidades del sector público instrumental. Para ello, la conselleria competente en materia de hacienda impulsará las modificaciones presupuestarias correspondientes.

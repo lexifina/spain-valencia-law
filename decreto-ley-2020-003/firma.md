@@ -1,0 +1,1 @@
+València, 10 de abril de 2020.‒El president de la Generalitat, Ximo Puig i Ferrer.‒El conseller de Hacienda y Modelo Económico, Vicent Soler i Marco.‒El conseller de Economía Sostenible, Sectores Productivos, Comercio y Trabajo, Rafael Climent González.
