@@ -1,0 +1,4 @@
+Artículo único. Régimen excepcional de ejecución de subvenciones en el ámbito de los servicios sociales.
+En relación con las líneas de subvención identificadas en el anexo, y de aquellas otras que se aprueben en 2020 para entidades sin ánimo de lucro en el ámbito de los servicios sociales para paliar las consecuencias sociales y económicas de la COVID-19:
+1. Se amplía hasta el 31 de marzo de 2021 el plazo de realización de actuaciones subvencionables de los proyectos vinculados a las líneas de subvención referidas.
+2. Se anticipará el 100% del importe de la ayuda concedida, sin que sean de aplicación ni la limitación del artículo 171 de la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones; ni las excepciones del artículo 44 de la Ley 10/2019, de 27 de diciembre, de presupuestos de la Generalitat para el ejercicio 2020.
