@@ -1,0 +1,5 @@
+Disposición derogatoria única. Derogaciones normativas.
+1. Queda derogada la Ley 4/1988, de 3 de junio, del Juego de la Comunitat Valenciana y el artículo 15 de la Ley 13/1997, de 23 de diciembre, por la que se regula el tramo autonómico del Impuesto sobre la Renta de las Personas Físicas y restantes tributos cedidos y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Ley.
+2. Se deroga la disposición adicional cuarta del Decreto 56/2015, de 30 de abril, del Consell, por el que se aprueba el Reglamento de Casinos de Juego de la Comunitat Valenciana.
+3. Queda derogado el apartado 8, del artículo 26, del Decreto 115/2006, de 28 de julio, del Consell, por el que se aprueba el Reglamento de Máquinas Recreativas y de Azar, en lo que afecta a la suspensión de las autorizaciones de explotación.
+4. Queda derogada la disposición adicional segunda del Decreto 42/2011, de 15 de abril, del Consell por el que se aprueba el reglamento de apuestas de la Comunitat Valenciana.
