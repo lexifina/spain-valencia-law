@@ -1,0 +1,1 @@
+València, 3 de julio de 2020.–El President de la Generalitat, Ximo Puig i Ferrer.–El Conseller, Hacienda y Modelo Económico, Vicent Soler i Marco.–El Conseller de Política Territorial, Obras Públicas y Movilidad, Arcadi España García.
