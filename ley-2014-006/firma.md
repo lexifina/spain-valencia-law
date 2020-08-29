@@ -140,10 +140,9 @@ b) Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cual
 1.4 Instalaciones industriales, y de otros tipos, para la producción de energía eléctrica, vapor y agua caliente con una potencia térmica superior a 0,5 MW y hasta 50 MW.
 1.5 Secado con lecho fluido, horno rotatorio y otros. Instalaciones con una potencia superior a 1.000 termias por hora.
 1.6 Instalaciones cuya actividad principal sea el almacenamiento de productos petrolíferos o combustibles con una capacidad superior a 100 toneladas.
-1.7 Parques eólicos.
-1.8 Instalaciones en las que exista almacenamiento a la intemperie de combustibles sólidos con una capacidad entre 50 y 1.000 toneladas.
-1.9 Fabricación a escala industrial de briquetas de hulla y de lignito.
-1.10 Producción de carbón vegetal cuando se trate de una actividad fija.
+1.7 Instalaciones en las que exista almacenamiento a la intemperie de combustibles sólidos con una capacidad entre 50 y 1.000 toneladas.
+1.8. Fabricación a escala industrial de briquetas de hulla y de lignito.
+1.9. Producción de carbón vegetal cuando se trate de una actividad fija.
 2. Producción y transformación de metales.
 2.1 Producción de fundición o de aceros brutos (fusión primaria o secundaria), incluidas las correspondientes instalaciones de fusión continua de una capacidad de hasta 2,5 toneladas por hora.
 2.2 Transformación de metales ferrosos:
@@ -318,6 +317,7 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.21 Impresión gráfica y/o edición a escala industrial.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se suprime el apartado 1.7 y se renumeran los siguientes por el art. 4.2 del Decreto-ley 14/2020, de 7 de agosto. Ref. DOGV-r-2020-90356#a4
 Se suprime el apartado 7.2 y 7.3 y se modifica el 13.2.1 por los art. 98 y 99 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
 ANEXO III
 Condiciones para determinar la inclusión de actividades en el régimen de declaración responsable ambiental o de comunicación de actividades inocuas
