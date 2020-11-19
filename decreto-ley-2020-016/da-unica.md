@@ -1,0 +1,3 @@
+Disposición adicional única. Supresión de la habilitación.
+Corresponderá al Consell a propuesta del conseller de Hacienda y Modelo Económico adoptar la decisión de suprimir la habilitación que concede este Decreto Ley a Fininval para establecer medidas específicas de refuerzo de la solvencia empresarial, cuando juzgue que las circunstancias excepcionales que las justifican han desaparecido, siempre que ello aconseje dejar esta habilitación sin efecto.
+En el momento en que ello se produzca el saldo que en ese momen to exista podrá ser asignado a cualquier otro instrumento financiero vigente en el Fondo o ingresado a favor de la Generalitat, previo acuerdo del Consejo Ejecutivo de Fininval.
