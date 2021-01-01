@@ -1,0 +1,10 @@
+Artículo 5 bis. Programa de optimización e integración terapéutica en el ámbito de la prestación farmacéutica y ortoprotésica.
+1. Se crea el Programa de optimización e integración terapéutica en el ámbito de la prestación farmacéutica y ortoprotésica del Sistema Sanitario Público. Cuyos objetivos son:
+a) La optimización de la terapéutica, basada en la evidencia científica y en los resultados en salud, para lograr mayor eficiencia y mayor seguridad en el uso de medicamentos y productos sanitarios.
+b) La integración funcional de los órganos y estructuras del Sistema Sanitario Público Valenciano, basada en la transversalidad asistencial, la continuidad asistencial, el trabajo en red y colaborativo y la equidad.
+2. Los principios troncales, en que se basa la estrategia del Programa, son:
+a) La política farmacéutica orientada al paciente y a la ciudadanía.
+b) La optimización, que engloba e incluye eficiencia, sostenibilidad, seguridad y orientación a resultados en salud.
+c) La coordinación e integración de los órganos y las estructuras del sistema sanitario público de la Comunitat Valenciana.
+3. La Conselleria competente en materia de sanidad establecerá reglamentariamente las funciones y estructura del Programa.
+Se añade por el art. 85 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a8-7

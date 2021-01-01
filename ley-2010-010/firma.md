@@ -177,12 +177,10 @@ Requisitos: Licenciatura en Psicología, o bien, título universitario oficial d
 Grupo/Subgrupo profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión relacionadas con las actividades de la psicología.
 Administración especial.
-Cuerpo: Superior técnico de administración cultural de la administración de la Generalitat.
-A1-21.
-Requisitos: Licenciatura universitaria en: Bellas Artes, Geografía, Historia, Humanidades, Sociología, Antropología Social y Cultural.
-Título universitario oficial de grado más título oficial de máster universitario que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
-Grupo/Subgrupo profesional: A1.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar y, en general, aquéllas de nivel superior propias de la profesión, relacionadas con las actividades culturales.
+Cuerpo: Superior técnico de administración cultural de la administración de la Generalitat. A1-21.
+Requisitos: Licenciatura universitaria en Bellas Artes, Geografía, Historia, Humanidades, Sociología, Antropología Social y Cultural e Historia del Arte. Título oficial de grado que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas al cuerpo.
+Grupo/subgrupo profesional: A1.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, controlar, inspeccionar, asesorar, y en general, aquellas de nivel superior propias de la profesión, relacionadas con las actividades culturales.
 Administración especial.
 Cuerpo: Superior técnico de actividad física y deporte de la administración de la Generalitat.
 A1-22.
@@ -880,6 +878,7 @@ Grupo/Subgrupo profesional: C2.
 Escalas:
 – C2-10-01. Auxiliares de autopsia.
 Funciones: Recibir el cadáver y sus efectos personales preparándolo para la autopsia junto con el instrumental necesario; auxiliar, bajo la dependencia facultativa, en las técnicas de apertura y extracción de órganos así como pesar, medir y tomar muestras; manipulación y traslado posterior del cadáver y puesta a disposición de los familiares; limpieza del instrumental y la mesa de autopsias.
+Se modifica por el art. 83 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a8-5
 Se modifica por la disposición adicional 2 de la Ley 5/2014, de 25 de julio en la redacción dada por el art. único y el anexo.145 de la Ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-2784#an
 Se modifica por el art. 65 de la Ley 27/2018, de 27 de diciembre. Ref. BOE-A-2019-1987
 Se modifica por el art. 24 de la Ley 21/2017, de 28 de diciembre. Ref. BOE-A-2018-1871

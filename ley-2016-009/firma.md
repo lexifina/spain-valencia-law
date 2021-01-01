@@ -22,3 +22,9 @@ Punto 2.
 Renta garantizada de ciudadanía, respetando los plazos y en los términos de la Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunitat Valenciana.
 Punto 3.
 Ayudas económicas a la dependencia, respetando los plazos y en los términos de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
+Punto 4.
+a) Contratos de servicios de gestión integral y contratos de servicios específicos tales como lavandería, transporte, limpieza y otros vinculados al normal desarrollo de la atención social en centros del sistema público valenciano de servicios sociales.
+b) Contratos de obras de construcción, ampliación, reforma y mejora de centros del sistema público valenciano de servicios sociales licitados por la Generalitat o cualquier otra administración pública, siempre que cuenten con financiación de la Generalitat o alguna diputación provincial.
+c) Contratos de servicios vinculados a la redacción de proyectos, estudios de seguridad, direcciones de obra y otros servicios profesionales relacionados con la ejecución de obras en el ámbito de los servicios sociales.
+Se añade el punto 4 por el art. 65 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-7
+Redactado el punto 4.b) conforme al art. 66 de la citada Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-8

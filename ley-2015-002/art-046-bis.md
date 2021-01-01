@@ -1,0 +1,4 @@
+Artículo 46 bis. Órganos de participación ciudadana.
+1. La Generalitat y su sector público promoverán la participación de la ciudadanía a través de los órganos de participación ciudadana, que son los foros creados para la consulta o cogestión de políticas públicas. En su creación garantizarán una presencia mínima del 40 % de mujeres, así como una representación de la ciudadanía no inferior a un 60 % de la composición total del órgano en cuestión. La elección de las personas representantes se realizará mediante sistemas de elección democráticos y transparentes.
+2. Se creará un registro electrónico de órganos de participación ciudadana, gestionado por la dirección general competente en materia de participación ciudadana. El registro de órganos de participación se desarrollará reglamentariamente.
+Se añade por el art. 101 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-13

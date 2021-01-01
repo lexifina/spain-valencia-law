@@ -1,0 +1,4 @@
+Disposición adicional única. Integración de personal en el IVE.
+El personal que ocupe puestos de trabajo adscritos al ámbito competencial que resulte coincidente con el organismo autónomo que se crea por la presente ley pasará a integrarse en el Instituto Valenciano de Estadística, mantendrá su relación jurídica con la administración de la Generalitat y la misma situación administrativa en la que se encuentre en el momento del cambio de adscripción, sin mengua de sus derechos.
+Así mismo, los puestos de trabajo adscritos a la Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo cuyas funciones se correspondan con el ámbito competencial del IVE pasarán a estar adscritos a este organismo autónomo.
+Se añade por el art. 114 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a1-26

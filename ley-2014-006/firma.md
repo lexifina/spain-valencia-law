@@ -204,8 +204,9 @@ b) Explotaciones que se hallen ubicadas en terreno de dominio público hidráuli
 4.8 Tratamiento químico de aceites y grasas.
 4.9 Fabricación, extracción y/o preparación de otros productos químicos no incluidos en otros epígrafes de este anexo ni en el anexo I.
 5. Gestión de residuos.
-5.1 Instalaciones de valorización y/o eliminación de residuos peligrosos y/o no peligrosos no incluidas en el anexo I.
-5.2 Instalaciones para el almacenamiento de residuos, peligrosos y/o no peligrosos, no incluidas en el anexo I, excluido el almacenamiento temporal en espera de recogida en el lugar en que el residuos es generado (almacenamiento en el ámbito de la producción).
+5.1 Instalaciones de valorización y/o eliminación de residuos peligrosos y/o no peligrosos no incluidos en el anexo I, excluyendo las incluidas en el Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.
+5.2 Instalaciones para el almacenamiento de residuos, peligrosos y/o no peligrosos, no incluidas en el anexo I, excluido el almacenamiento temporal en espera de recogida en el lugar en que el residuo es generado (almacenamiento en el ámbito de la producción).
+Se excepcionan de lo anterior las instalaciones denominadas «áreas de aportación» previstas en la normativa sectorial de residuos para el almacenamiento temporal de residuos no peligrosos en espera de recogida, con una capacidad máxima de almacenamiento de 60 m3, que se sujetan a declaración responsable ambiental.
 5.3 Instalaciones de tratamiento de deyecciones ganaderas líquidas (purines) por incineración o coincineración, compostaje, eliminación en vertedero o utilización en planta de biogás.
 5.4 Cualesquiera otras instalaciones de tratamiento de residuos no incluidas en los epígrafes anteriores ni en el anexo I.
 6. Industria del papel, cartón, corcho, madera y muebles.
@@ -240,20 +241,21 @@ La presente subsección no será de aplicación cuando la materia prima sea solo
 9.4 Eliminación o aprovechamiento de canales o desechos de animales con una capacidad de tratamiento igual o inferior a 10 toneladas por día.
 9.5 Instalaciones para la cría intensiva de aves de corral o de cerdos que dispongan:
 a) entre 2.000 y hasta 40.000 plazas para aves de corral si se trata de gallinas ponedoras o del número equivalente para otras orientaciones productivas de aves;
-b) de más de 200 y hasta 2.000 plazas para cerdos de cría de más de 30 kg;
-c) de más de 250 y hasta 2.500 plazas para cerdos de cría de más de 20 kg;
-d) de más de 100 y hasta 750 plazas para cerdas;
-e) de más de 30 y hasta 530 plazas para cerdas en ciclo cerrado (530 cerdas en ciclo cerrado equivalen a las 750 reproductoras);
-f) de más de 30 UGM (1 UGM = 1 plaza de vacuno de leche).
+b) de más de 800 y hasta 2.000 plazas para cerdos de cría de más de 30 kg;
+c) de más de 800 y hasta 2.500 plazas para cerdos de cría de más de 20 kg;
+d) de más de 280 y hasta 750 plazas para cerdas;
+e) de más de 200 y hasta 530 plazas para cerdas en ciclo cerrado (530 cerdas en ciclo cerrado equivalen a las 750 reproductoras);
+f) de más de 75 UGM
+(1 UGM = 1 plaza de vacuno de leche).
 En el caso de explotaciones mixtas, en las que coexistan animales de los apartados b) a e) de este epígrafe, el número de animales para considerar la inclusión de la instalación en este anexo se determinará de acuerdo con las equivalencias en Unidad Ganadera Mayor (UGM) de los distintos tipos de ganado porcino, recogidas en el anexo I del Real Decreto 324/2000, de 3 de marzo, por el que se establecen normas básicas de ordenación de las explotaciones porcinas, o norma que le sustituya.
 9.6 Instalaciones para la cría intensiva de otros animales que alberguen:
 – Plazas de lechones a partir de 1.500 plazas inclusive.
-– Plazas de vacuno de engorde por encima de 50 plazas.
-– Plazas de vacuno de leche por encima de 30 plazas.
-– Plazas de ovino y/o caprino por encima de 200 plazas.
-– Plazas de equino por encima de 30 plazas.
-– Plazas de conejos por encima de 2.000 plazas.
-– Plazas de cualquier otra especie animal, incluso instalaciones mixtas de la misma o diferente especie, no especificadas en los anteriores epígrafes, a partir de 30 unidades ganaderas mayores (UGM)
+– Plazas de vacuno de engorde por encima de 100 plazas.
+– Plazas de vacuno de leche por encima de 75 plazas.
+– Plazas de ovino y/o caprino por encima de 500 plazas.
+– Plazas de equino por encima de 75 plazas.
+– Plazas de conejos por encima de 10.000 plazas.
+– Plazas de cualquier otra especie animal, incluso instalaciones mixtas de la misma o diferente especie, no especificadas en los anteriores epígrafes, a partir de 75 unidades ganaderas mayores (UGM)
 (1 UGM = 1 plaza de vacuno de leche).
 9.7 Instalaciones para la acuicultura intensiva (excluidas las instalaciones de mar abierto) que tenga una capacidad de producción superior a 25 toneladas año.
 9.8 Instalaciones para el almacenamiento o acondicionamiento de materias fecales y otras enmiendas orgánicas independientes de la actividad principal, con superficie superior a 100 m2.
@@ -271,10 +273,10 @@ En el caso de explotaciones mixtas, en las que coexistan animales de los apartad
 11. Conservación de maderas y productos derivados.
 11.1 Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción igual o inferior a 75 m3 diarios, distinta del tratamiento para combatir la albura exclusivamente.
 12. Proyectos de gestión del agua.
-12.1 Instalaciones de desalación o desalobración de agua.
+12.1 Instalaciones de desalación o desalobración de agua excluyendo las de interés comunitario.
 13. Otras actividades.
 13.1 Aquellas actividades que requieran autorización sectorial, de cualquier otra administración, previa a la apertura, como las siguientes:
-13.1.1 Las actividades sujetas a previa evaluación de impacto ambiental de acuerdo con lo dispuesto en la normativa estatal y autonómica.
+13.1.1 Las actividades sujetas a previa evaluación de impacto ambiental de acuerdo con los dispuesto en la normativa estatal y autonómica, a excepción de las infraestructuras hidráulicas de interés comunitario.
 13.1.2 Actividades sujetas a la aplicación del real Decreto 1254/1999, de 16 de julio, por el que se establecen medidas de control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas.
 13.1.3 Actividades e instalaciones que se pretendan implantar en la zona de servidumbre de protección que requieran autorización de acuerdo con la legislación estatal de costas.
 13.1.4 Las actividades que se pretendan implantar en edificios que estén catalogados o en trámite de catalogación como bien de interés cultural e impliquen cambio de uso.
@@ -311,12 +313,13 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.15 Instalaciones y actividades para la limpieza de vehículos utilitarios.
 13.4.16 Pistas permanentes de carreras y de pruebas, para vehículos motorizados.
 13.4.17 Depuración de gas natural.
-13.4.18 Depuradoras de aguas residuales no incluidas en el anexo I.
+13.4.18 Depuradoras de aguas residuales no incluidas en el anexo I, excluidas las estaciones depuradoras de aguas residuales de interés comunitario.
 13.4.19 Fabricación a escala industrial de lámparas y material de alumbrado.
 13.4.20 Plantas embotelladoras, envasadoras, y/o dosificadoras, a escala industrial.
 13.4.21 Impresión gráfica y/o edición a escala industrial.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se modifican los epígrafes 5.1, 5.2, 9.5, 9.6, 12.1, 13.1.1 y 13.4.18 por el art. 89 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a8-11
 Se suprime el apartado 1.7 y se renumeran los siguientes por el art. 4.2 del Decreto-ley 14/2020, de 7 de agosto. Ref. DOGV-r-2020-90356#a4
 Se suprime el apartado 7.2 y 7.3 y se modifica el 13.2.1 por los art. 98 y 99 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
 ANEXO III
