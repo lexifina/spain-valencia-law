@@ -1,0 +1,2 @@
+Décimotercera. Normativa aplicable.
+Estas ayudas tienen la consideración de subvenciones públicas y se rigen por la Ley 38/2003, de 17 de noviembre, general de subvenciones; el Real Decreto 887/2006, de 21 de julio, por el cual se aprueba su reglamento, y demás normativa concordante, y por la Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones.

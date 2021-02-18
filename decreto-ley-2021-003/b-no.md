@@ -1,0 +1,7 @@
+Novena. Obligaciones de las personas beneficiarias.
+Además de lo dispuesto en el artículo 14 de la Ley general de subvenciones, son obligaciones de las personas beneficiarias:
+a) Mantener la actividad artesana durante, al menos, doce meses, a contar desde el día de la concesión de la subvención.
+b) Facilitar todos los datos y la información, en cuestiones relacionadas con las subvenciones concedidas, que les sean requeridas.
+c) Comunicar la obtención otras subvenciones o ayudas para la misma finalidad, así como cualquier incidencia o variación que se produzca en relación con la subvención concedida.
+d) Cumplir las obligaciones de transparencia establecidas en la legislación básica, de conformidad con lo dispuesto en el artículo 3 de la Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana, en caso de haber percibido ayudas o subvenciones públicas en una cuantía superior a 10.000,00 euros. En concreto, tendrán que dar publicidad en su página web, en su caso, de la obtención de esta subvención.
+e) Someterse a las actuaciones de comprobación, seguimiento e inspección que la Dirección General de Comercio, Artesanía y Consumo considere necesarias, así como al control financiero previsto en los artículos 113 y siguientes de la Ley 1/2015, y en los artículos 44 y siguientes de la Ley 38/2003, y también a las que puedan llevar a cabo la Generalitat y otros órganos de control.

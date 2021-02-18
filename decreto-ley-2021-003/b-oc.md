@@ -1,0 +1,3 @@
+Octava. Justificación y forma de pago.
+1. De conformidad con el artículo 30.7 de la Ley general de subvenciones, la concesión de estas subvenciones no requerirá otra justificación que la indicada en la base tercera, sin perjuicio de los controles que se efectúen con posterioridad, que se extenderán a la totalidad de las beneficiarias.
+2. La liquidación y el pago de las ayudas se efectuarán una vez justificado el cumplimiento de los requisitos con la documentación presentada junto con la solicitud. El importe de la ayuda se entregará de una sola vez después de que se dicte la resolución de concesión.
