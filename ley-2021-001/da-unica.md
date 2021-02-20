@@ -1,0 +1,2 @@
+Disposición adicional única. Proceso de liquidación.
+De conformidad con lo dispuesto en el artículo 50 de los actuales estatutos del Colegio Profesional de Delineantes y Diseñadores Técnicos de Castellón, las personas liquidadoras nombradas por la Junta de Gobierno deberán destinar el patrimonio social, primer lugar a cubrir el pasivo, a las instituciones de previsión social de delineantes que existan a la provincia. Si no las hubiera, se repartirá a partes iguales entre las personas colegiadas en alta en el momento de la disolución.
