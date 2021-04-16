@@ -47,10 +47,10 @@ c) Las vocalías, que serán:
 – Cuatro en representación de la Generalitat.
 – Una representante por cada una de las tres diputaciones provinciales.
 d) La secretaría, funcionario o funcionaria del grupo A1 de la Generalitat.
-2. Todas las personas vocales deberán estar en posesión de titulación universitaria y tener experiencia en la gestión en materia de urbanismo.
-3. Las vocalías de representación municipal serán elegidas por los alcaldes o alcaldesas de los ayuntamientos adheridos a la Agencia, reunidos en asamblea convocada al efecto por la Federación Valenciana de Municipios y Provincias, cada cuatro años, después de la celebración de las elecciones municipales.
-Cada municipio adherido propondrá una candidatura y resultarán elegidas las cuatro personas más votadas.
-En el supuesto de que uno de los ayuntamientos deje de estar adherido a la Agencia, de acuerdo con el procedimiento establecido en esta disposición adicional, quien lo represente perderá automáticamente la condición de vocal de la Agencia y será sustituido por otra persona elegida en una asamblea extraordinaria convocada al efecto.
+2. Los Estatutos de la Agencia podrán establecer determinados requisitos de titulación o de experiencia para poder ser designada persona vocal del Consejo de Dirección..
+3. Las cuatro vocalías de representación municipal serán designadas entre los alcaldes o alcaldesas de los ayuntamientos adheridos a la Agencia, por la Federación Valenciana de Municipios y Provincias cada cuatro años, después de la celebración de las elecciones municipales.
+Sin embargo, a efectos de la primera constitución del Consejo de Dirección, la Federación Valenciana de Municipios y Provincias, antes de la celebración de las próximas elecciones municipales, designará a las personas vocales de representación municipal entre los alcaldes y alcaldesas de aquellos municipios que hayan remitido a la conselleria competente en materia de urbanismo, dentro del plazo que se determine por la Presidencia de la Agencia, el Acuerdo del Pleno solicitando la adhesión a esta.
+En el supuesto de que uno de los ayuntamientos deje de estar adherido a la Agencia, de acuerdo con el procedimiento establecido en esta disposición adicional, la persona que lo represente perderá automáticamente la condición de vocal de la Agencia y será sustituida por otra persona designada por la Federación Valenciana de Municipios y Provincias, entre alcaldes o alcaldesas de los ayuntamientos adheridos a la Agencia.
 4. Las vocalías de representación autonómica serán nombradas: tres por el conseller o consellera competente en materia de urbanismo, y uno por el conseller o consellera competente en materia de medio ambiente.
 5. A la vicepresidencia le corresponderá sustituir a la presidencia en caso de vacante, ausencia o imposibilidad física.
 6. A la secretaría le corresponderá dar fe de los acuerdos adoptados y levantar acta de las reuniones que se lleven a cabo.
@@ -129,6 +129,7 @@ b) La resolución de los expedientes sancionadores, en los casos en los que sea 
 Vigesimoprimera. Transparencia y reutilización de datos.
 1. Como organismo autónomo de la Generalitat, la Agencia Valenciana de Protección del Territorio estará sometida a las obligaciones de publicidad activa y derecho de acceso a la información pública establecidas a la normativa vigente en la materia. Para el cumplimiento de estas obligaciones, deberá contar con un portal de transparencia que enlazará con el Portal de Transparencia de la Generalitat.
 2. La reutilización de la información pública se adaptará a la normativa específica vigente en la materia.
+Se modifican los apartados 2 y 3 de la norma décima por la disposición final 4 del Decreto-ley 6/2021, de 1 de abril. Ref. DOGV-r-2021-90145#df-4
 Se modifica el epígrafe quinta por el art. 97 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a9-9
 Redactado conforme a la corrección de errores publicada en el DOGV núm. 9002, de 21 de enero de 2021. Ref. BOE-A-2021-5951
 Se modifica por el art. 104 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
