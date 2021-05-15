@@ -1,0 +1,5 @@
+Decimoquinta. Verificación de datos.
+De acuerdo con lo establecido en la disposición adicional octava de la Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, y en el artículo 4 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, el órgano gestor podrá verificar aquellos datos manifestados por las personas interesadas con el fin de comprobar su exactitud.
+La potestad de verificación incluye verificar la identidad de la persona solicitante o, si procede, de su representante legal, y consultar los siguientes datos que constan en la Base de datos nacional de subvenciones (BDNS): las subvenciones y ayudas que le han sido concedidas, incluidas aquellas a las que se aplica la regla de minimis, y que la persona solicitante no está inhabilitada para percibir subvenciones.
+Información relacionada
+El Decreto-ley 8/2021, de 7 de mayo, ha sido convalidado por Acuerdo de las Corts Valencianes, publicado por Resolución 359/X, de 10 de junio de 2021. Ref. DOGV-r-2021-90240

@@ -1,0 +1,6 @@
+Sexta. Procedimiento de concesión.
+1. Estas subvenciones se concederán según se establece en los artículos 22.2.c y 28, apartados 2 y 3 de la Ley 38/2003, de 17 de noviembre, general de subvenciones, y el artículo 168.1.c de la Ley 1/2015, de 6 de febrero, de la Generalitat, por concurrir razones de interés público, económico y social. En concreto, el carácter singular de estas subvenciones deriva de la naturaleza excepcional, única e imprevisible de los acontecimientos que las motivan. Dado el objeto específico de la subvención, se sigue el procedimiento de concurrencia no competitiva.
+2. De conformidad con el artículo 30.7 de la Ley 38/2003, de 17 de noviembre, la concesión de estas subvenciones no requerirá otros requisitos que los indicados en la base tercera, sin perjuicio de los controles que se efectúen con posterioridad.
+3. Al procedimiento de concesión de estas ayudas le será de aplicación la tramitación de urgencia, conforme establece el artículo 33 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas.
+4. La tramitación y gestión de estas ayudas se realizará por la Dirección General de Obras Públicas, Transportes y Movilidad Sostenible.
+5. La concesión de las ayudas tiene carácter temporal, por lo que deberán concederse antes del 31 de diciembre de 2021.

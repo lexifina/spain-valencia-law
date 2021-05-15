@@ -1,0 +1,4 @@
+Decimocuarta. Minoración y reintegro de las subvenciones.
+1. El incumplimiento de los requisitos establecidos en este decreto ley, dará lugar, previo el oportuno procedimiento, a la obligación de reintegrar, total o parcialmente, las subvenciones y los intereses de demora correspondientes, conforme a lo dispuesto en el artículo 172 de la Ley 1/2015.
+2. El falseamiento o la ocultación de datos y documentos que afecten sustancialmente a la concesión y entrega de fondos públicos, dará lugar a la exigencia de responsabilidades tanto en el orden administrativo como en el jurisdiccional competente, así como a lo dimanante en los artículos 173 a 177 de la Ley 1/2015.
+3. La Conselleria de Política Territorial, Obras Públicas y Movilidad, realizará cuantos controles técnicos y administrativos considere necesarios con objeto de conformar el correcto cumplimiento de los requisitos exigidos en este decreto ley.
