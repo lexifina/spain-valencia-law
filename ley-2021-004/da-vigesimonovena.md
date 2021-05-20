@@ -1,0 +1,2 @@
+Disposición adicional vigesimonovena. Régimen aplicable a la promoción interna al subgrupo C1.
+El acceso a cuerpos o escalas del subgrupo C1 podrá llevarse a cabo a través de la promoción interna desde cuerpos o escalas del subgrupo C2. A estos efectos se requerirá la titulación establecida en el artículo 31 de la presente ley o una antigüedad de diez años en un cuerpo o escala del subgrupo C2, o de cinco años y la superación de un curso específico de formación al que se accederá por criterios objetivos.

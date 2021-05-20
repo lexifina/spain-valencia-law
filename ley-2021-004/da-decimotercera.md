@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Planes de Igualdad.
+Los planes de igualdad efectiva contendrán un conjunto ordenado de medidas evaluables dirigidas a remover los obstáculos que impiden o dificultan la igualdad efectiva de mujeres y hombres en el acceso al empleo público, la clasificación profesional, la formación, la promoción, las condiciones de trabajo, incluidas las retributivas, el ejercicio corresponsable de los derechos de conciliación de la vida personal, familiar y laboral y la prevención del acoso sexual y del acoso por razón de sexo, entre otras materias.

@@ -1,0 +1,2 @@
+Disposición adicional decimosexta. Procedimientos de cambio de puesto por motivos de salud o rehabilitación de la misma y/o discapacidad o diversidad funcional.
+Los procedimientos de cambio de puesto por motivos de salud o rehabilitación de la misma y/o discapacidad o diversidad funcional deberán tramitarse de manera preferente y a través de procedimientos especialmente ágiles que garanticen la eficacia de los mismos.

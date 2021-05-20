@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Supuestos especiales de movilidad entre escalas de un mismo cuerpo.
+El personal funcionario podrá acceder a otras escalas de su mismo cuerpo mediante los procedimientos de provisión de puestos de trabajo previstos en la presente ley, siempre que la titulación que le sirvió de acceso a la escala a la que pertenece figure como requisito de acceso de aquella. En ningún caso, el desempeño provisional de puestos de trabajo de otras escalas por este procedimiento implicará la integración del personal funcionario en las mismas.

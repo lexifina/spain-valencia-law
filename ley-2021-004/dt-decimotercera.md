@@ -1,0 +1,2 @@
+Disposición transitoria decimotercera. Régimen transitorio para la incorporación del personal temporal a las bolsas de trabajo vinculadas al desarrollo de las ofertas de empleo público.
+Durante el periodo de dos años desde la entrada en vigor de esta ley, podrán inscribirse en las bolsas de trabajo vinculadas al desarrollo de las ofertas de empleo público previstas en el artículo 18.6 de la presente ley quienes hayan aprobado al menos alguna de las pruebas en el último proceso selectivo o el inmediatamente anterior.

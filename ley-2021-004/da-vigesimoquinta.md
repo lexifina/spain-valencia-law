@@ -1,0 +1,8 @@
+Disposición adicional vigesimoquinta. Unidades administrativas de apoyo temporal de la Administración de la Generalitat.
+1. Las comisiones de servicio previstas en el artículo 118 de la presente ley, podrán ser aplicables para la constitución de las unidades administrativas de apoyo temporal de la Administración de la Generalitat. La constitución de estas Unidades deberá estar prevista en un plan estratégico de recursos humanos.
+2. Se entiende por unidad de apoyo temporal de la Administración de la Generalitat, aquella integrada por personal funcionario de la misma y, si resulta necesario, de la administración educativa, sanitaria y de justicia, que se caracteriza por:
+a) Agrupar personal funcionario que aporte el conocimiento pluridisciplinar necesario para la atención de los objetivos específicos que se le asignen.
+b) Mantener su existencia durante el plazo exclusivamente necesario para la consecución de sus objetivos, no pudiendo exceder en ningún caso de dos años.
+c) Disponer, en su caso, de instalaciones propias para el desarrollo en equipos de su labor, con plena o mayoritaria dedicación a la misma por parte de sus integrantes.
+3. Las unidades administrativas de apoyo temporal de la Administración de la Generalitat se crearán por acuerdo del Consell. El Acuerdo contemplará los objetivos que se le asignen, su vigencia, la cobertura financiera de sus necesidades, su dependencia, estructura y características.
+4. La duración temporal de las unidades administrativas de Apoyo Temporal de la Administración de la Generalitat se extenderá por el término estrictamente necesario para el cumplimiento de sus objetivos, con el límite previsto en la letra b, del apartado 2, de esta disposición.
