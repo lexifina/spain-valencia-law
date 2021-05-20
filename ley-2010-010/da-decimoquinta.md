@@ -1,3 +1,0 @@
-Disposición adicional decimoquinta. Ordenación del personal funcionario de las universidades públicas de la Comunitat Valenciana.
-De acuerdo con la Ley Orgánica 6/2001, de 21 diciembre, las universidades públicas de la Comunitat Valenciana podrán crear escalas de personal propio, de acuerdo con los grupos de clasificación profesional previstos en la presente ley y la normativa básica estatal.
-Asimismo, a los efectos del establecimiento de itinerarios profesionales a los que se refiere el artículo 116 de esta ley, podrán establecer las agrupaciones por sectores funcionariales de administración general y especial.
