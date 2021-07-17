@@ -1,3 +1,0 @@
-Disposición transitoria decimosexta. De los viales en suelos urbanos o urbanizables, de uso industrial o terciario.
-En los suelos urbanos o urbanizables, de uso industrial o terciario, a la entrada en vigor de esta ley y para adaptar el tamaño de las parcelas a las necesidades logísticas o industriales actuales, todos los viales tendrán la consideración de ordenación detallada y se podrá modificar por el ayuntamiento correspondiente con informe favorable de las consellerias competentes en materia de industria y urbanismo.
-Se añade por el art. único y el anexo.157 de la Ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-2784

@@ -1,6 +1,0 @@
-Disposición transitoria decimocuarta.
-1. La Agencia Valenciana de Protección del Territorio estará en pleno funcionamiento el 31 de diciembre del 2021.
-2. A partir de la entrada en vigor de esta disposición transitoria no se puede aprobar ningún procedimiento de minimización de impactos ambientales en suelo no urbanizable, de los regulados en los artículos 210 y siguientes de esta ley, hasta el inicio del funcionamiento efectivo de la Agencia Valenciana de Protección del Territorio.
-3. Una vez haya entrado en vigor la presente disposición transitoria, la administración con competencia en materia de disciplina urbanística no impondrá ninguna multa coercitiva ni sanción a infractor alguno, cuyo expediente corresponda a una de las edificaciones que puedan incluirse en los procedimientos de minimización de impactos ambientales en suelo no urbanizable, de los regulados en los artículos 210 y siguientes de esta ley, hasta el momento en que, efectivamente, la Agencia Valenciana de Protección del Territorio empiece a ejercer sus funciones.
-Se modifica por el art. 105 de la Ley 9/2019, de 23 de diciembre. Ref. BOE-A-2020-1010
-Se añade por el art. único y el anexo.155 de la Ley 1/2019, de 5 de febrero. Ref. BOE-A-2019-2784
