@@ -1,0 +1,6 @@
+Disposición transitoria vigesimosegunda. Regla transitoria durante la emergencia sanitaria por la COVID-19.
+1. Con motivo de la emergencia sanitaria derivada de la pandemia de la COVID-19, las administraciones públicas, durante los ejercicios 2021, 2022 y 2023, vendrán facultadas a la ejecución directa de obras de mejora y ampliación en las infraestructuras de servicio esencial, existentes o en proceso de construcción, en los siguientes supuestos:
+a. En las instalaciones de gestión de residuos domésticos e industriales declaradas servicio esencial.
+b. Para la mejora de los servicios de valorización de residuos domésticos o residuos asimilables cuando se dispongan de financiación europea para la reconstrucción por la crisis sanitaria de la COVID-19.
+2. La ejecución de las obras e instalación de ampliación y mejora dentro de la superficie ya autorizada del complejo de valorización, una vez aprobado el proyecto de ejecución de obras, podrá tramitarse mediante una declaración responsable, conforme a lo establecido en el artículo 233 de este texto refundido, debiendo autoliquidar en el ayuntamiento el correspondiente impuesto de construcción y obras antes de iniciar las obras.
+3. La ejecución de las obras e instalaciones de nueva construcción se tramitarán conforme a lo establecido en el artículo 243 de este texto refundido.
