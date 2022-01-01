@@ -354,4 +354,15 @@ b) Comunicación de actividades inocuas: cuando cumplan todas las condiciones qu
 8. Explosión por sobre presión y /o deflagración.
 9. Riesgo de legionelosis.
 9.1 Aquellas actividades que no dispongan de actividades industriales sujetas a programas de mantenimiento incluidas en el artículo 2.2.1.º del Real Decreto 865/2003, de 4 de julio, por el que se establecen criterios higiénico-sanitarios para la prevención y control de la legionelosis.
+c) También es de aplicación lo dispuesto en los apartados a y b de este anexo a aquellos establecimientos agroalimentarios que se encuentren en territorio Leader según el Programa de desarrollo rural de la Comunitat Valenciana, sean microempresa según lo establecido en el Reglamento (UE) 651/2014, de la Comisión, de 17 de junio de 2014, y que según el Registro de Establecimientos Agroalimentarios de la Comunitat Valenciana estén clasificadas como actividades de transformación dentro de uno de los epígrafes siguientes:
+Actividades de transformación
+División 15. Productos alimenticios y bebidas
+15.3 Frutas y hortalizas preparadas y en conserva
+15.4 Aceites y grasas animales y vegetales
+15.5 Productos lácteos y helados (quesos)
+15.81 Pan, pasteles y productos de pastelería
+15.82 Bizcochos y galletas; pasteles y productos de pastelería de larga duración
+15.84 Cacao, chocolate y artículos de confitería preparados con azúcar
+15.9 Bebidas.
+Se añade la letra c) por el art. 162 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 Se modifica el apartado 9.1 por el art. 100 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.

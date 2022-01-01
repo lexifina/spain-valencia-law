@@ -10,8 +10,8 @@ d) C2-01. Cuerpo auxiliar.
 2. Cuerpos especiales del subgrupo A1
 a) A1-02. Cuerpo de la abogacía de la Generalitat.
 Requisito: Título de licenciatura en Derecho o grado en Derecho.
-b) A1-03. Cuerpo superior de Intervención y Auditoria de la Generalitat.
-Requisito: Título de licenciatura en Derecho, en Economía, en Administración y Dirección de Empresas o grado en Derecho, en Economía o Administración y Dirección de Empresas.
+b) A1-03. Cuerpo Superior de Intervención y Auditoría de la Generalitat
+Requisito: Título de licenciatura en derecho, economía, administración y dirección de empresas o grado en derecho, economía, administración y dirección de empresas o gestión y administración pública.
 c) A1-04. Cuerpo Superior Facultativo.
 Escalas:
 1.ª A1-04-01. Superior de traducción e interpretación lingüística.
@@ -151,11 +151,12 @@ Requisito. Título Técnico de la familia de sanidad o Servicios Socioculturales
 2.ª C1-04-02. Cuidados auxiliares de enfermería.
 Requisito. Título Técnico en Cuidados Auxiliares de Enfermería (Ciclo formativo de grado medio de Formación Profesional de la familia Sanidad).
 3.ª C1-04-03. Educación especial.
-d) C1-05. Cuerpo Especialistas en la administración del medio ambiente.
+d) C1-05. Cuerpo Especialistas en la administración del medio ambiente
+Requisito. Permiso de conducir tipo B.
 e) C1-06 Cuerpo Especialistas de mantenimiento, mecánica y obras públicas.
 6. Cuerpos especiales del Subgrupo C2
 a) C2-02. Cuerpo de Servicios auxiliares de conducción de vehículos.
-Requisitos: Los previstos en el artículo 31.3.b) de la presente ley y Carnet de conducir tipo B2.
+Requisitos: Los previstos en el artículo 31.3.b) de la presente ley y Permiso de conducir tipo B.
 b) C2-03. Cuerpo de Servicios auxiliares.
 Escalas:
 1.ª C2-03-01 servicios auxiliares generales.
@@ -163,6 +164,7 @@ Escalas:
 3.ª C2-03-03 Auxiliares de enfermería.
 7. Agrupación Profesional Funcionarial
 La agrupación profesional funcionarial de la Administración de la Generalitat, para cuyo acceso no se exige estar en posesión de ninguna de las titulaciones previstas en el sistema educativo.
+Se modifican los apartados 2.b), 5.d) y 6.a) por los arts. 108 y 109 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 ANEXO II
 Tabla de correspondencia entre los cuerpos, escalas y la agrupación profesional funcionarial previstos en esta ley, con los vigentes a su entrada en vigor
 El personal funcionario perteneciente a los cuerpos, escalas o agrupación profesionales funcionariales vigentes a la entrada en vigor de la presente ley se integrarán en la agrupación profesional funcionarial, cuerpos o escalas siguientes:
@@ -351,13 +353,13 @@ Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecuta
 Requisitos: Licenciado en Farmacia, Licenciado en Veterinaria, Licenciado en Biología, Licenciado en Biotecnología Licenciado en Ciencias Ambientales, Licenciado en Química, Licenciado en Bioquímica, Licenciado en Ciencia y Tecnología de los Alimentos, Grado en Nutrición Humana y Dietética, o bien título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A1-S03-04. Sanidad ambiental.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar todas aquellas actividades básicas de salud pública para garantizar la vigilancia y la protección de la salud, en el ámbito de la sanidad ambiental.
-Requisitos: Licenciado en Farmacia, Licenciado en Medicina, Licenciado en Veterinaria, Licenciado en Biología, Licenciado en Ciencias Ambientales, Licenciado en Química, Licenciado en Física, Licenciado en Bioquímica, Ingeniería Agrónoma, Ingeniería Industrial, Ingeniería Química, Ingeniería en Telecomunicaciones o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Requisitos: Licenciado en Farmacia, Licenciado en Medicina, Licenciado en Veterinaria, licenciatura en Biología, licenciado en Biotecnología, licenciatura en Ciencias Ambientales, Licenciado en Química, Licenciado en Física, Licenciado en Bioquímica, Ingeniería Agrónoma, Ingeniería Industrial, Ingeniería Química, Ingeniería en Telecomunicaciones o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A1-S03-05. Laboratorio de análisis microbiológico.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar en todas aquellas actividades básicas de salud pública para garantizar la protección de la salud, mediante el desarrollo de las actividades analíticas de carácter microbiológico en el ámbito de Salud Pública.
-Requisitos: Licenciado en Medicina, Licenciado en Farmacia, Licenciado en Veterinaria, Licenciado en Biología, Licenciado en Ciencias Ambientales, Licenciado en Bioquímica, Licenciado en Química, Licenciado en Ciencia y Tecnología de los Alimentos, o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Requisitos: Licenciado en Medicina, Licenciado en Farmacia, Licenciado en Veterinaria, Licenciado en Biología, Licenciado en Ciencias Ambientales, Licenciado en Bioquímica, Licenciado en Química, licenciatura en Ciencia y Tecnología de los Alimentos, licenciatura en Biotecnología, Grado en Microbiología o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A1-S03-06. Laboratorio de análisis químico.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar en todas aquellas actividades básicas de salud pública para garantizar la protección de la salud, mediante el desarrollo de las actividades analíticas de carácter químico en el ámbito de Salud Pública.
-Requisitos: Licenciado en Farmacia, Licenciado en Veterinaria, Licenciado en Biología, Licenciado en Ciencias Ambientales, Licenciado en Bioquímica, Licenciado en Química, Licenciado en Ciencia y Tecnología de los Alimentos, o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Requisitos: Licenciado en Farmacia, Licenciado en Veterinaria, Licenciado en Biología, Licenciado en Ciencias Ambientales, Licenciado en Bioquímica, Licenciado en Química, Licenciado en Ciencia y Tecnología de los Alimentos, licenciatura en Biotecnología, o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A1-S03-07. Veterinarios de salud pública.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades básicas de salud pública para garantizar la vigilancia, la protección, la prevención y la promoción de la salud, especialmente en el campo de la seguridad alimentaria y el control oficial de alimentos, y de manera especial en mataderos y establecimientos de carne fresca, así como aquéllas asignadas por el ordenamiento jurídico. También podrán realizar actividades de salud pública en el ámbito de la sanidad ambiental cuando se requiera.
 Requisitos: Licenciado en Veterinaria o grado en veterinaria.
@@ -406,6 +408,7 @@ Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
 APF-S01 Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.
 Funciones: Informar sobre la ubicación de locales y controlar los accesos a los mismos; custodiar, controlar y realizar el mantenimiento básico de material, mobiliario e instalaciones; transportar objetos no pesados; utilizar máquinas reproductoras y fotocopiadoras; clasificar y el repartir la correspondencia; trasladar documentos y material y entregar las notificaciones.
+Se modifica por el art. 111 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 ANEXO V
 Tabla de correspondencia entre los cuerpos, las escalas y la agrupación profesional funcionarial gestionados por la conselleria con competencias en materia de sanidad y organismos o entidades dependientes previstos en esta Ley, con los vigentes a su entrada en vigor
 Los funcionarios pertenecientes a los cuerpos, escalas o agrupación profesionales funcionariales vigentes a la entrada en vigor de la presente ley se integrarán en los cuerpos, escalas o agrupación profesional funcionarial siguientes:

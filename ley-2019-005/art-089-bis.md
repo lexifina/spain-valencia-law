@@ -1,0 +1,5 @@
+Artículo 89 bis. Estrategias o planes directores de regadíos de la Comunitat Valenciana.
+1. La conselleria competente en materia de regadíos elaborará las sucesivas Estrategias o planes directores de regadíos de la Comunidad Valenciana, que serán el instrumento para la planificación global de las actuaciones directas a realizar para la consolidación y sostenibilidad de los regadíos valencianos.
+2. En cada estrategia o plan director se fijarán los horizontes temporales de las actuaciones previstas, sus características principales, los objetivos específicos que se pretenden alcanzar, los criterios de prioridad para la selección de actuaciones, las inversiones estimadas, así como los indicadores y variables de seguimiento de su cumplimiento.
+3. Las Estrategias de regadíos o planes directores de regadíos se aprobarán mediante decreto del Consell, a propuesta de la conselleria con competencias en materia de regadíos.
+Se añade por el art. 159 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018

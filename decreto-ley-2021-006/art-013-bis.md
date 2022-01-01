@@ -1,0 +1,3 @@
+Artículo 13 bis. Proyectos de interés prioritario.
+A los efectos de su agilización administrativa de acuerdo con lo dispuesto en el artículo anterior, y con la finalidad de facilitar la óptima absorción de los fondos vinculados al Plan de Recuperación, Transformación y Resiliencia del Gobierno de España, aquellas iniciativas y proyectos de inversión localizados en el territorio de la Comunitat Valenciana, financiados total o parcialmente mediante el Mecanismo de Recuperación y Resiliencia, aprobado por el Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo de 12 de febrero de 2021, podrán tener la consideración de «proyectos de interés prioritario.
+Se añade por el art. 33 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
