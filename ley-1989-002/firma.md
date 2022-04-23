@@ -47,13 +47,14 @@ d) Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se cons
 5. Otras industrias manufactureras.
 a) Fabricación de pasta papelera.
 b) Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se considere, con posterioridad a la aprobación de la presente Ley, que directa o indirectamente pueda tener efectos sobre la salud, el bienestar humano o el entorno.
-6. Recuperación y/o eliminación de productos y su almacenamiento.
-a) Planta de almacenamiento y/o tratamiento de basura doméstica.
-b) Colectores, depuración de aguas y emisarios.
-c) Desguace y/o almacenamiento de chatarra.
-d) Instalaciones de eliminación de residuos tóxicos y peligrosos por incineración, tratamiento químico o almacenamiento en tierra.
-e) Planta de almacenamiento y/o tratamiento de residuos radiactivos.
-f) Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se considere, con posterioridad a la aprobación de la presente Ley, que directa o indirectamente pueda tener efectos sobre la salud, el bienestar humano o el entorno.
+6. Gestión de residuos y depuración de aguas residuales.
+6.1. Las siguientes instalaciones de gestión de residuos, cuando no se desarrollan en el interior de nave cerrada situada en polígono industrial:
+a) Instalaciones de valorización de residuos.
+b) Desguace o almacenamiento de chatarra, inclusivamente centros de tratamiento de vehículos al final de su vida útil, así como instalaciones de tratamiento de RAEE.
+6.2. Instalaciones de eliminación de residuos peligrosos.
+6.3. Instalaciones de eliminación de residuos no peligrosos con capacidad superior a 100 t/día diferentes del depósito en vertedero.
+6.4. Vertederos de residuos, excepto residuos inertes.
+6.5. Plantas de tratamiento de aguas residuales cuya capacidad sea superior a 100.000 habitantes equivalentes, incluyendo el sistema de colectores correspondiente, cuando este discurra por terreno natural.
 7. Transporte por tubería (acueductos, oleoductos y gasoductos), cuyo itinerario transcurra en todo o en parte, en territorio de la Comunidad Valenciana.
 8. Proyectos de infraestructura.
 a) Construcción de autopistas, autovías, carreteras, vías públicas y privadas de comunicación y líneas de ferrocarril cuyo itinerario discurra, en todo o en parte, en territorio y se desarrolle íntegramente en el territorio de la Comunidad Valenciana.
@@ -65,4 +66,5 @@ f) Obras de canalización y regularización de cursos de agua.
 g) Instrumentos de ordenación del territorio.
 h) Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se considere, con posterioridad a la aprobación de la presente Ley, que directa o indirectamente pueda tener efectos sobre la salud, el bienestar humano y el entorno.
 9. Cualquier otro proyecto o actividad que mediante Decreto del Consejo, se considere, con posterioridad a la aprobación de la presente Ley, que directa o indirectamente pueda tener efectos sobre la salud, el bienestar humano o el entorno.
+Se modifica el apartado 6 por el art. 8.3 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a8
 Se modifica el apartado 1.c) por el art. 106 de la Ley 16/2010, de 27 de diciembre. Ref. BOE-A-2011-1437.

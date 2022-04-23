@@ -1,0 +1,7 @@
+Artículo 7 bis. Certificación de verificación documental.
+1. Con el fin de agilizar la emisión de los informes preceptivos de suelo no urbanizable, previamente a la presentación de la solicitud podrá obtenerse certificación acreditativa de la verificación de la documentación, emitida por los colegios profesionales u otras corporaciones de derecho público con las cuales la conselleria competente en agricultura subscriba el correspondiente convenio.
+2. La verificación, consistirá en:
+a) La revisión técnica y validación de la documentación aportada junto con la solicitud de informe de actuación en suelo no urbanizable, incluyendo así mismo la suficiencia y la idoneidad de la documentación, para los fines de la actuación y su adecuación a toda la normativa aplicable a la actividad a desarrollar.
+b) La posterior emisión del correspondiente informe, que cumplirá lo dispuesto en la legislación de aplicación, instrucciones de la conselleria competente en agricultura, así como lo que pudiera establecerse en el convenio citado en el apartado 1.
+3. La solicitud de informe de suelo no urbanizable que se acompañe de la certificación regulada en el presente artículo, junto con el resto de documentación exigida, será admitida a trámite, lo cual no impedirá al órgano competente para su tramitación efectuar los requerimientos de enmienda que procedan si con posterioridad se detectaron insuficiencias o deficiencias que sean corregibles.
+Se añade por el art. 7.2 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a7

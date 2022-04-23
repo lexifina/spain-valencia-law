@@ -1,4 +1,4 @@
-Disposición adicional quinta [sic]. Implantación de aparcamientos y usos complementarios vinculados en suelo urbanizable de uso industrial o terciario.
+Disposición adicional sexta [sic]. Implantación de aparcamientos y usos complementarios vinculados en suelo urbanizable de uso industrial o terciario.
 1. En los sectores logísticos coherentes con las estrategias y planes aprobados por el Consell destinados a la implantación de centros de transporte cuya actividad principal sea el aparcamiento de camiones y usos complementarios vinculados, en suelos urbanizables de uso industrial o terciario, se podrán flexibilizar los parámetros urbanísticos establecidos con carácter general para suelos industriales o terciarios, previo informe donde se fijen los criterios en materia de infraestructura verde y de desarrollo logístico por los departamentos correspondientes de las consellerias competentes en dichas materias, en los siguientes términos:
 a) La participación de la administración en las plusvalías generadas podrá reducirse hasta el mínimo legal del 5 % en función del resultado de la memoria de viabilidad económica de la actuación.
 b) La reserva de suelo dotacional destinada a equipamientos públicos podrá reducirse en un 50 %.
@@ -10,4 +10,5 @@ a) Minimizar la ocupación del suelo empleando las alternativas más eficientes 
 b) Garantizar su autoabastecimiento energético mediante fuentes de energías renovables
 c) Procurar la circularidad del ciclo del agua
 d) Conseguir un balance neutro de emisiones de gases de efecto invernadero o contaminantes.
+Se modifica, en la redacción dada al art. 181 de la Ley 7/2021, de 29 de diciembre, por la disposición final 1.2 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121
 Se añade por el art. 181 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
