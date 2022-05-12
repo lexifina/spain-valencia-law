@@ -1,0 +1,1 @@
+Sea notorio y manifiesto a todos los ciudadanos y todas las ciudadanas que Les Corts han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del rey, promulgo la siguiente Ley:
