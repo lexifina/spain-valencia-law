@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 2/2015, de 2 de abril, de participación ciudadana de la Comunitat Valenciana", según establece la disposición final 1 de la Ley 1/2022, de 13 de abril de 2022. Ref. BOE-A-2022-8187#df
