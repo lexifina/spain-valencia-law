@@ -1,4 +1,5 @@
 Disposición derogatoria Única. Derogación normativa.
 1. Queda derogada la Ley 10/2010, de 9 de julio, de Ordenación y Gestión de la Función Pública Valenciana con los efectos y alcance establecidos en la disposición final cuarta de esta ley, así como cuantas normas de igual o inferior rango se opongan, contradigan o resulten incompatibles con esta ley.
-2. En tanto no finalicen los procedimientos selectivos previstos en la misma, se mantiene vigente la Disposición transitoria decimoquinta de la Ley 10/2010, de 9 de julio, de Ordenación y Gestión de la Función Pública Valenciana.
+2. En tanto no finalicen los procedimientos selectivos previstos en la misma, se mantiene vigente la disposición transitoria decimoquinta de la Ley 10/2010, de 9 de julio, de ordenación y gestión de la función pública valenciana, extendiéndose la excepción prevista en ella a los procedimientos selectivos correspondientes a las ofertas de empleo público de los ejercicios 2017-2021 y los procesos de estabilización de empleo temporal regulados en la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad.
+Se modifica el apartado 2 por el anexo.15 del Decreto-ley 12/2022, de 23 de septiembre. Ref. DOGV-r-2022-90294
 Se modifica el apartado 2 por el art. 107 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018

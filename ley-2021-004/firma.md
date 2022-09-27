@@ -172,7 +172,7 @@ NUEVA LEY | LEY 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gest
 CUERPOS GENERALES
 A1-01. Cuerpo Superior de Administración. | A1-01: Cuerpo Superior técnico de administración general de la Administración de la Generalitat. A1-10. Cuerpo Superior técnico en relaciones laborales de la Administración de la Generalitat. A1-05. Cuerpo Superior técnico de comunicación y relaciones informativas de la Administración de la Generalitat.
 A2-01. Cuerpo de Gestión. | A2-01. Cuerpo Superior de gestión de administración general de la Administración de la Generalitat. A2-06. Cuerpo Superior de gestión en relaciones laborales de la Administración de la Generalitat. A2-07. Cuerpo Superior de gestión en formación e inserción profesional de la Administración de la Generalitat. A2-29: Cuerpo Superior de gestión en actividades turísticas de la Administración de la Generalitat.
-C1-01. Cuerpo Administrativo. | C1-01: Cuerpo Administrativo de la Administración de la Generalitat.
+C1-01. Cuerpo Administrativo. | C1-01. Cuerpo Administrativo de la Administración de la Generalitat C1-20. Agentes Tributarios de la Generalitat
 C2-01. Cuerpo Auxiliar. | C2-01: Cuerpo Auxiliar de la Administración de la Generalitat.
 CUERPOS ESPECIALES
 SUBGRUPO A1
@@ -264,6 +264,7 @@ C2-03-02 Auxiliar Cocina. | Escala C2-05-02. Auxiliares de cocina.
 C2-03-03 Auxiliares de enfermería. | EscalaC2-05-01. Auxiliares de enfermería.
 AGRUPACIÓN PROFESIONAL FUNCIONARIAL
 Agrupación profesional funcionarial. | Todas las Agrupaciones profesionales funcionariales existentes.
+Se modifica por el anexo.16 del Decreto-ley 12/2022, de 23 de septiembre. Ref. DOGV-r-2022-90294
 ANEXO III
 Agrupaciones de puestos de trabajo de la administración de la Generalitat
 Sin perjuicio de la competencia que para su creación el artículo 8 de la presente ley atribuye a la persona titular de la conselleria con competencias en materia de función pública, se crean las siguientes agrupaciones de puestos de trabajo:
