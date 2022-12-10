@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Condiciones urbanísticas aplicables a la rehabilitación de edificios con el fin de mejorar la eficiencia energética.
+Las administraciones competentes en materia urbanística deberán establecer y aplicar condiciones urbanísticas en sus planeamientos en relación con los efectos de ocupación del suelo y volumen edificable u otros que se consideren oportunas para hacer viables y favorecer estas rehabilitaciones de edificios con el fin de mejorar la eficiencia energética.
