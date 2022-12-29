@@ -3,7 +3,7 @@ Artículo 73.
 a) Impuesto sobre la Renta de las Personas Físicas, con carácter parcial, en el porcentaje del 50 por ciento.
 b) Impuesto sobre el Patrimonio.
 c) Impuesto sobre Sucesiones y Donaciones.
-d. Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+d) Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 e) Los Tributos sobre el Juego.
 f) El Impuesto sobre el Valor Añadido, con carácter parcial, en el porcentaje del 50 por ciento.
 g) El Impuesto Especial sobre la Cerveza, con carácter parcial, en el porcentaje del 58 por ciento.
@@ -15,9 +15,12 @@ l) El Impuesto Especial sobre las Labores del Tabaco, con carácter parcial, en 
 m) El Impuesto Especial sobre la Electricidad.
 n) El Impuesto Especial sobre Determinados Medios de Transporte.
 ñ) El Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+o) El Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos.
 La eventual supresión o modificación de alguno de estos tributos implicará la extinción o modificación de la cesión.
 2. El contenido de este artículo se podrá modificar mediante acuerdo del Gobierno de España con el Consell de la Generalitat, que será tramitado por el Gobierno como Proyecto de Ley. A estos efectos, la modificación del presente artículo no se considerará reforma del Estatuto.
 3. El alcance y condiciones de la cesión se establecerán por la Comisión Mixta mencionada en la disposición transitoria segunda, que, en todo caso, lo referirá a rendimientos de la Comunitat Valenciana.
+Se modifica el apartado 1, en la redacción dada por el art. 1 de la Ley 23/2010, de 16 de julio, por el art. único de la Ley 35/2022, de 27 de diciembre. Ref. BOE-A-2022-22681#au
+Esta modificación surte efectos desde el 1 de enero de 2023, según establece la disposición final única de la citada ley.
 Se modifica el apartado 1 por el art. 1 de la Ley 23/2010, de 16 de julio. Ref. BOE-A-2010-11417.
 Esta modificación surte efectos desde el 1 de enero de 2009, según establece la disposición final única de la citada ley.
 Se añade por el art. 79 de la Ley Orgánica 1/2006, de 10 de abril. Ref. BOE-A-2006-6472.
