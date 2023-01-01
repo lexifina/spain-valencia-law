@@ -1,0 +1,5 @@
+Disposición adicional.
+De acuerdo a las previsiones de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, durante el periodo máximo transitorio de tres años para revisar las ordenanzas fiscales de las administraciones locales en materia de gestión de residuos, el contribuyente del impuesto deberá trasladar la carga tributaria del importe del impuesto estatal al vertido y la incineración de residuos domésticos y municipales en las entidades locales responsables de los servicios de recogida, por alguno de los mecanismos presupuestarios, financieros, jurídicos o contractuales que se habiliten entre las partes.
+En los flujos de residuos cuya recogida haya sido considerada de competencia autonómica, como por ejemplo los residuos sanitarios de las instalaciones públicas, será la conselleria competente en la materia la que deberá recibir la carga tributaria del contribuyente del impuesto.
+Esta previsión estará en vigor solo hasta que una norma de ámbito estatal regule de manera específica este precepto.
+Se añade por el art. 187 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482

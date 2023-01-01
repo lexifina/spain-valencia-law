@@ -1,0 +1,6 @@
+Disposición adicional vigesimocuarta. Protección de Datos.
+1. El tratamiento de datos personales que se realice en cumplimiento de esta norma se ajustará a lo que se dispone en el régimen jurídico europeo y estatal en materia de protección de datos de carácter personal.
+2. Los datos personales que las personas proporcionen a la administración en el ejercicio de los derechos garantizados en esta norma serán utilizados con las finalidades y los límites previstos.
+3. El tratamiento de datos de categorías especiales o de personas en situación de especial vulnerabilidad preverá que, en su caso, el régimen de publicidad y de notificación de las personas afectadas garantice que no se lesionan sus derechos o intereses legítimos.
+4. Con el fin de garantizar un nivel adecuado de protección de los derechos y libertades de las personas interesadas, el departamento competente en materia de servicios sociales tendrá que determinar las medidas de seguridad, técnicas y organizativas apropiadas en función de los riesgos que supone el tratamiento de datos personales teniendo que realizar, cuando proceda conforme al régimen jurídico en materia de protección de datos, la oportuna evaluación de impacto.
+Se añade por el art. 79 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482

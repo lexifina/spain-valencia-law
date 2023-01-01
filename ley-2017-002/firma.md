@@ -36,7 +36,7 @@ IV. Prueba.
 4. La carga de la prueba corresponderá siempre a quien alegue el correspondiente hecho y se practicará por él mismo o a su costa, realizándose de acuerdo con lo previsto para el procedimiento administrativo común de las administraciones públicas.
 V. Trámite de audiencia con ofrecimiento de medidas de fomento.
 1. Concluida, en su caso, la prueba, el órgano instructor pondrá de manifiesto las actuaciones a los interesados, acompañando una relación de los documentos y testimonios obrantes en el procedimiento, a fin de que los interesados puedan obtener las copias de los que estimen convenientes, confiriéndoles un plazo de audiencia de quince días para formular alegaciones y presentar los documentos e informaciones que estimen pertinentes.
-2. Este trámite se acompañará del ofrecimiento de las medidas de fomento de habitación de viviendas desocupadas, que podrán consistir, entre otras, en las siguientes actuaciones:
+2. Este trámite se acompañará de una información sobre medidas de fomento de habitación de viviendas desocupadas, y que tengan relación con:
 a) Intermediación en el mercado del arrendamiento de viviendas para propiciar su efectiva ocupación.
 b) Aseguramiento de los riesgos que garanticen el cobro de rentas y cantidades asimiladas de arrendamientos urbanos, desperfectos causados por ocupantes distintos de sus propietarios y la defensa jurídica para la resolución de conflictos arrendaticios.
 c) Medidas fiscales que determinen la Generalitat y las entidades locales, en el ejercicio de sus respectivas competencias.
@@ -47,6 +47,7 @@ e) Cesión de las viviendas a la Generalitat por sus titulares, para su gestión
 VI. Propuesta de resolución.
 1. Transcurrido el plazo de alegaciones, y practicadas en su caso las pruebas que hubieran sido declaradas pertinentes, el instructor redactará la propuesta de resolución, que contendrá la valoración de las pruebas practicadas y se pronunciará expresamente acerca de la estimación o desestimación, total o parcial, de las alegaciones que se hubieren presentado.
 2. La propuesta habrá de ser notificada a los interesados cuando tenga en cuenta nuevos hechos, alegaciones, pruebas o documentos o que no sean conocidos por estos, en cuyo caso se conferirá un trámite adicional de alegaciones de diez días.
+Se modifica el punto 2 del apartado V por el art. 86 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se levanta la suspensión de la vigencia y aplicación de este anexo por Auto del TC de 20 de marzo de 2018. Ref. BOE-A-2018-4316
 Téngase en cuenta que se declara, en el recurso 5425/2017, su desestimación en relación a este anexo, por Sentencia 80/2018, de 5 de julio. Ref. BOE-A-2018-11278
 Se suspende la vigencia y aplicación de este anexo desde el 8 de noviembre de 2017 para las partes en el proceso y desde el 4 de diciembre de 2017 para los terceros, por providencia del TC de 28 de noviembre de 2017 que admite a trámite el recurso de inconstitucionalidad 5425/2017. Ref. BOE-A-2017-14166

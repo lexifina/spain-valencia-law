@@ -1,0 +1,3 @@
+Disposición adicional cuarta [sic].
+Para realizar las gestiones encomendadas en régimen de descentralización funcional, se podrá crear una entidad de derecho público del Museo de Bellas Artes de València, que dispondrá de personalidad jurídica propia, autonomía funcional y de gestión, plena capacidad de obrar para el cumplimiento de sus finalidades y estará facultada para realizar actividades administrativas, prestacionales y de fomento, gestionar servicios o producir bienes de interés público susceptibles o no de contraprestación y que quedará adscrita a la conselleria competente en materia de cultura.
+Se añade por el art. 137 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482

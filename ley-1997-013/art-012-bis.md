@@ -2,10 +2,11 @@ Artículo 12 bis. Bonificaciones en la cuota.
 1. Gozarán de las siguientes bonificaciones sobre la parte de la cuota tributaria del Impuesto sobre Sucesiones y Donaciones que proporcionalmente corresponda a los bienes y derechos declarados por el sujeto pasivo:
 a) Una bonificación del 75 por 100 las adquisiciones mortis causa por parientes del causante pertenecientes al grupo I del artículo 20.2.a de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
 b) Una bonificación del 50 por 100 las adquisiciones mortis causa por parientes del causante pertenecientes al grupo II del artículo 20.2.a de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
-c) Una bonificación del 75 por 100 las adquisiciones mortis causa por discapacitados físicos o sensoriales con un grado de minusvalía igual o superior al 65 por 100 o por discapacitados psíquicos con un grado de minusvalía igual o superior al 33 por 100.
+c) Una bonificación del 75 por ciento las adquisiciones mortis causa por personas con discapacidad física o sensorial con un grado de discapacidad igual o superior al 65 por ciento o por personas con discapacidad psíquica con un grado de discapacidad igual o superior al 33 por ciento.
 La aplicación de esta bonificación excluirá la de los apartados a o b.
 2. A los efectos de lo dispuesto en el apartado 1, se entenderá como bienes y derechos declarados por el sujeto pasivo los que se encuentren incluidos de forma completa en una autoliquidación presentada dentro del plazo voluntario o fuera de este sin que se haya efectuado un requerimiento previo de la Administración tributaria en los términos a los que se refiere el apartado 1 del artículo 27 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 Para determinar la proporción de la cuota tributaria que corresponde a los bienes declarados por el sujeto pasivo, se tendrá en cuenta la relación entre aquella base liquidable que correspondería a los bienes y derechos declarados por el sujeto pasivo y la base liquidable que corresponda a la totalidad de los adquiridos.
+Se modifica la letra c) del apartado 1 por el art. 21 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifica el apartado 1 por el art. 15 de la Ley 13/2016, de 29 de diciembre. Ref. BOE-A-2017-1291.
 Se modifica el apartado 1.a) y c) por el art. 48 de la Ley 7/2014, de 22 de diciembre. Ref. BOE-A-2015-1236.
 Se modifica por el art. 4 del Decreto-ley 4/2013, de 2 de agosto. Ref. DOCV-r-2013-90266.

@@ -10,8 +10,7 @@ d) C2-01. Cuerpo auxiliar.
 2. Cuerpos especiales del subgrupo A1
 a) A1-02. Cuerpo de la abogacía de la Generalitat.
 Requisito: Título de licenciatura en Derecho o grado en Derecho.
-b) A1-03. Cuerpo Superior de Intervención y Auditoría de la Generalitat
-Requisito: Título de licenciatura en derecho, economía, administración y dirección de empresas o grado en derecho, economía, administración y dirección de empresas o gestión y administración pública.
+b) A1-03. Cuerpo superior de Intervención y Auditoria de la Generalitat.
 c) A1-04. Cuerpo Superior Facultativo.
 Escalas:
 1.ª A1-04-01. Superior de traducción e interpretación lingüística.
@@ -164,6 +163,7 @@ Escalas:
 3.ª C2-03-03 Auxiliares de enfermería.
 7. Agrupación Profesional Funcionarial
 La agrupación profesional funcionarial de la Administración de la Generalitat, para cuyo acceso no se exige estar en posesión de ninguna de las titulaciones previstas en el sistema educativo.
+Se modifica el apartado 2.b) por el art. 132 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifican los apartados 2.b), 5.d) y 6.a) por los arts. 108 y 109 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 ANEXO II
 Tabla de correspondencia entre los cuerpos, escalas y la agrupación profesional funcionarial previstos en esta ley, con los vigentes a su entrada en vigor
@@ -343,9 +343,9 @@ Requisitos Licenciatura en Farmacia, o grado en farmacia.
 A1-S03: Cuerpo Superior de administración sanitaria y de salud pública de la administración de la Generalitat.
 Grupo/Subgrupo Profesional: A1.
 Escalas:
-– A1-S03-01. Médicos de administración sanitaria y de salud pública.
-Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel superior propias de la profesión relacionadas con las de la administración sanitaria, y aquellas otras básicas de salud pública necesarias para garantizar la salud de la población en el ámbito de la vigilancia, la protección, la prevención y la promoción de la salud, así como aquellas asignadas en exclusiva por el ordenamiento jurídico.
-Requisitos: Licenciatura en Medicina, o grado en Medicina.
+–A1-S03-01. Médicos de administración sanitaria y de salud pública.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel superior propias de la profesión relacionadas con las de la administración sanitaria, y aquellas otras básicas de salud pública necesarias para garantizar la salud de la población en el ámbito de la vigilancia, la protección, la prevención primaria y, en su caso, secundaria y terciaria de la enfermedad y la promoción de la salud, así como aquellas asignadas en exclusiva por el ordenamiento jurídico.
+Requisitos: Licenciatura/Grado en Medicina.
 – A1-S03-02. Farmacéuticos de administración sanitaria y de salud pública.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquéllas actividades de nivel superior propias de la profesión relacionadas con las de la administración sanitaria, y aquellas otras básicas de salud pública necesarias para garantizar a salud de la población en el ámbito de la vigilancia, la protección, la prevención y la promoción de la salud, especialmente en el campo de la sanidad ambiental y de la seguridad alimentaria, así como aquellas asignadas en exclusiva por el ordenamiento jurídico.
 Requisitos: Licenciatura en Farmacia, o grado en farmacia.
@@ -367,6 +367,12 @@ Requisitos: Licenciado en Veterinaria o grado en veterinaria.
 – A1-S03-08. Análisis epidemiológicos y estadísticas sanitarias.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar en todas aquellas actividades básicas de salud pública para garantizar la Salud de la población, en el ámbito de la estadística sanitaria y el análisis epidemiológico.
 Requisitos: Licenciado en Ciencias y Técnicas Estadísticas, Licenciado en Matemáticas o bien, título universitario oficial que, de acuerdo con los planes de estudio vigentes, habiliten para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+– A1-S03-09. Técnico/a en Comunicación de Administración Sanitaria y Salud Pública.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel superior propias de la profesión relacionadas con la comunicación en sus diversos soportes, necesarias para garantizar la difusión efectiva de información en el ámbito de la administración sanitaria y la salud pública en el ámbito de la vigilancia, la protección, la prevención y la promoción de la salud.
+Requisitos: Licenciatura/Grado en Comunicación Audiovisual, Licenciatura / Grado en Publicidad, Licenciatura/Grado en Periodismo.
+– A1-S03-10. Psicólogo/a de Administración Sanitaria y Salud Pública.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades básicas de la administración sanitaria y la salud pública para garantizar la protección de la salud, en el ámbito de la psicología.
+Requisitos: Licenciatura/Grado en Psicología.
 A1-S04: Cuerpo de farmacéuticos titulares al servicio de la sanidad local de la administración de la Generalitat (a extinguir).
 Requisitos: Licenciado en Farmacia o grado en farmacia.
 Grupo/Subgrupo Profesional: A1.
@@ -379,14 +385,20 @@ A2-S03: Cuerpo Gestión de administración sanitaria y de salud pública de la a
 Grupo/Subgrupo Profesional: A2.
 Escalas:
 – A2-S03-01, Enfermeros/as de gestión sanitaria y de salud pública.
-Funciones: Actividades de propuesta, gestión, ejecución control, tramitación, impulso, estudio e informe y, en general, aquellas propias de la profesión relacionadas con las de administración sanitaria; y aquellas otras de colaboración con el cuerpo superior de salud pública relativas al ámbito de la prevención de la enfermedad, la promoción de la salud y vigilancia e información en salud pública.
-Requisitos: Enfermería, o grado en enfermería.
+Funciones: Actividades de propuesta, gestión, ejecución control, inspección, tramitación, impulso, estudio e informe y, en general, aquellas propias de la profesión relacionadas con las de administración sanitaria; y aquellas otras de colaboración con el cuerpo superior de salud pública relativas al ámbito de la prevención primaria y, en su caso, secundaria y terciaria, de la enfermedad, la promoción de la salud y vigilancia e información en salud pública.
+Requisitos: Diplomatura/Grado en enfermería.
 – A2-S03-02. Seguridad alimentaria y laboratorio.
-Funciones: Actividades de propuesta, gestión, ejecución control, tramitación, impulso, estudio e informe y, en general, las de colaboración con el cuerpo superior relativas al ámbito de la seguridad alimentaria y laboratorio de salud pública.
-Requisitos: Enfermería, o bien, título universitario oficial de grado que de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Funciones: Actividades de propuesta, gestión, ejecución control, inspección, tramitación, impulso, estudio e informe y, en general, las de colaboración con el cuerpo superior relativas al ámbito de la seguridad alimentaria y laboratorio de salud pública.
+Requisitos: Enfermería, o bien, título universitario oficial de grado que, de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
 – A2-S03-03. Sanidad ambiental.
 Funciones: Actividades de propuesta, de gestión, ejecución, control, inspección, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias relativas al ámbito de la sanidad ambiental.
 Requisitos: Enfermería, ingenierías técnicas o bien, título universitario oficial que de acuerdo con los planes de estudio vigentes, habilite para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+– A2-S03-04. Trabajador/a Social de Administración Sanitaria y Salud Pública.
+Funciones: Actividades de propuesta, gestión, ejecución, control, inspección, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias relativas al ámbito del trabajo social de la administración sanitaria y la salud pública.
+Requisitos: Diplomatura/Grado en Trabajo Social.
+– A2-S03-05. Nutricionista/Dietista de Administración Sanitaria y Salud Pública.
+Funciones: Actividades de propuesta, gestión, ejecución, control, inspección, tramitación e impulso, estudio e informe y, en general, las de colaboración técnica con el cuerpo superior y las propias relativas al ámbito de la nutrición humana y dietética de la administración sanitaria y la salud pública.
+Requisitos: Diplomatura/Grado en Nutrición Humana y Dietética.
 B-S02 Cuerpo Técnico de gestión de salud pública de la administración de la Generalitat.
 Grupo/Subgrupo Profesional: B.
 Escalas:
@@ -409,6 +421,7 @@ Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
 APF-S01 Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.
 Funciones: Informar sobre la ubicación de locales y controlar los accesos a los mismos; custodiar, controlar y realizar el mantenimiento básico de material, mobiliario e instalaciones; transportar objetos no pesados; utilizar máquinas reproductoras y fotocopiadoras; clasificar y el repartir la correspondencia; trasladar documentos y material y entregar las notificaciones.
+Se modifica por los arts. 133 y 134 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifica por el art. 111 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 ANEXO V
 Tabla de correspondencia entre los cuerpos, las escalas y la agrupación profesional funcionarial gestionados por la conselleria con competencias en materia de sanidad y organismos o entidades dependientes previstos en esta Ley, con los vigentes a su entrada en vigor

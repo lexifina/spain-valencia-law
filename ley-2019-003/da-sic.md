@@ -1,0 +1,3 @@
+Disposición adicional [sic]. Apertura de nuevos centros de servicios sociales.
+A efectos de apertura y puesta en funcionamiento de nuevos centros de servicios sociales de atención primaria específica o secundaria, cuya competencia es de la Generalitat, de acuerdo con el artículo 36.5.d de la Ley 8/2021, de 30 de diciembre, de presupuestos de la Generalitat para el ejercicio 2022 o normativa presupuestaria vigente, no computarán para la tasa de reposición los puestos de trabajo necesarios para prestar los servicios asignados a estos centros.
+Se añade por el art. 62 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
