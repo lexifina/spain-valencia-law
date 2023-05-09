@@ -39,6 +39,13 @@ Las empresas o negocios profesionales deben cumplir los siguientes requisitos:
 1. Tener el domicilio social y fiscal en alguno de los municipios en riesgo de despoblamiento y mantenerlo durante los tres años siguientes a la adquisición.
 2. Ejercer una actividad económica durante los tres años siguientes a la adquisición. A tal efecto, no debe tener por actividad principal la gestión de un patrimonio mobiliario o inmobiliario, de acuerdo con lo dispuesto en el artículo 4.8.° Dos.a) de la Ley 19/1991, de 6 de junio, del impuesto sobre el patrimonio.
 3. Contar, como mínimo, con una persona ocupada con contrato laboral y a jornada completa, dada de alta en el régimen general de la Seguridad Social durante los tres años siguientes a la adquisición.
+Séptimo. Se establece una bonificación del 99 % del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, en lo sucesivo ITPAJD, sobre los siguientes hechos imponibles:
+a) La adquisición, construcción, adecuación o rehabilitación del suelo, edificio o instalaciones que constituyan una vivienda colaborativa de interés social.
+b) La declaración de obra nueva del edificio o el conjunto residencial de viviendas colaborativas de interés social.
+c) Los préstamos con garantía hipotecaria destinados a la financiación de la adquisición o construcción o rehabilitación del edificio por vivienda colaborativa de interés social.
+d) Los arrendamientos exentos del impuesto sobre el valor añadido derivados de la cesión de uso a los socios de viviendas colaborativas de interés social.
+Se añade el apartado 7 por la disposición final 3.1 de la Ley 3/2023, de 13 de abril. Ref. BOE-A-2023-10134#df-3
+Redactado conforme a la corrección de errores publicada en el DOGV núm. 9594, de 12 de mayo de 2023. Ref. BOE-A-2023-16067
 Se añaden los apartados 5 y 6 por los arts. 5 y 6 del Decreto-ley 19/2022, de 30 de diciembre. Ref. DOGV-r-2022-90447
 Se modifica el apartado 3 por el art. 28 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 Se añade el apartado 4 por la disposición adicional 4.2 de la Ley 14/2018, de 5 de junio. Ref. BOE-A-2018-8949
