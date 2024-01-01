@@ -83,28 +83,29 @@ i) A1-10. Cuerpo Superior Facultativo de Emergencias y Protección civil.
 3. Cuerpos especiales del Subgrupo A2
 a) A2-02. Cuerpo Técnico Facultativo.
 Escalas:
-1.ª A2-02-01. Técnica de Sistemas y tecnología de la información.
+1.ª A2-02-01. Técnica de Sistemas y Tecnología de la Información.
 2.ª A2-02-02. Ingeniería Técnica en Obras Públicas.
-Requisito: título de ingeniería técnica en Obras Públicas, o grado en ingeniería de Obras Públicas.
+Requisito: título de Ingeniería Técnica en Obras Públicas, o grado en Ingeniería de Obras Públicas.
 3.ª A2-02-03. Ingeniería Técnica Industrial.
-Requisito: título de ingeniería técnica Industrial, o grado en ingeniería técnica Industrial.
+Requisito: título de Ingeniería Técnica Industrial, o grado en Ingeniería Técnica Industrial.
 4.ª A2-02-04. Ingeniería Técnica de Minas.
-Requisito: título de ingeniería técnica de minas, o grado en ingeniería técnica de minas.
+Requisito: título de Ingeniería Técnica de minas, o grado en ingeniería técnica de minas.
 5.ª A2-02-05. Ingeniería Técnica Forestal.
 Requisito: título de Ingeniería Técnica Forestal, o grado en Ingeniería Técnica Forestal.
-6.ª A2-02-06. Ingeniería Técnica agrícola.
-Requisito: título de ingeniería Técnica Agrícola, o grado en Ingeniería Agrícola.
+6.ª A2-02-06. Ingeniería Técnica Agrícola.
+Requisito: título de Ingeniería Técnica Agrícola, o grado en Ingeniería Agrícola.
 7.ª A2-02-07. Arquitectura Técnica.
 Requisito: título de Arquitectura técnica o grado en Arquitectura técnica.
-8.ª A2-02-08. Técnica de medio ambiente.
-9.ª A2-02-09. Técnica Facultativa de promoción lingüística.
-Requisitos: Certificado de nivel C2 de conocimientos de valenciano de la JQCV, o cualquier otro que se considere equivalente de acuerdo con la normativa vigente.
-10.ª A2-02-10. Técnica archivística, biblioteconomía y documentación.
-11.ª A2-02-11. Técnica Facultativa de gestión estadística.
+8.ª A2-02-08. Técnica de Medio Ambiente.
+9.ª A2-02-09. Técnica facultativa de Promoción Lingüística.
+Requisitos: certificado de nivel C2 de conocimientos de valenciano de la JQCV, o cualquier otro que se considere equivalente de acuerdo con la normativa vigente.
+10.ª A2-02-10. Técnica Archivística, Biblioteconomía y Documentación.
+11.ª A2-02-11. Técnica facultativa de Gestión Estadística.
 12.ª A2-02-12. Ingeniería Técnica en Topografía.
 Requisito: título de Ingeniería Técnica en Topografía, o grado en Ingeniería Geomática y Topografía.
-13.ª A2-02-13. Técnica Facultativa en administración cultural.
-14.ª A2-02-14. Técnica Facultativa.
+13.ª A2-02-13. Técnica facultativa en Administración Cultural.
+14.ª A2-02-14. Técnica facultativa.
+15.ª A2-02-15. Técnica Agroalimentaria.
 b) A2-03. Cuerpo Técnico Facultativo de prevención de riesgos laborales, seguridad y salud en el trabajo.
 Requisito: Los previstos en el artículo 31.1.a) de la presente ley y técnico superior Prevención de Riesgos Laborales.
 c) A2-04. Cuerpo Técnico Facultativo de acción social, administración de servicios sociales y sociosanitarios.
@@ -163,6 +164,7 @@ Escalas:
 3.ª C2-03-03 Auxiliares de enfermería.
 7. Agrupación Profesional Funcionarial
 La agrupación profesional funcionarial de la Administración de la Generalitat, para cuyo acceso no se exige estar en posesión de ninguna de las titulaciones previstas en el sistema educativo.
+Se modifica el apartado 3.a) por el art. 78 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 Se modifica el apartado 2.b) por el art. 132 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifican los apartados 2.b), 5.d) y 6.a) por los arts. 108 y 109 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 ANEXO II
@@ -217,7 +219,7 @@ A2-02-02. Ingeniería Técnica en Obras Públicas. | A2-08 Cuerpo Superior de ge
 A2-02-03. Ingeniería Técnica Industrial. | A2-09 Cuerpo Superior de gestión en ingeniería técnica industrial de la Administración de la Generalitat. A2-25 Cuerpo Superior de gestión de seguridad pública de la administración de la Generalitat.
 A2-02-04. Ingeniería Técnica de Minas. | A2-10 Cuerpo Superior de gestión en ingeniería técnica de minas de la Administración de la Generalitat.
 A2-02-05. Ingeniería Técnica Forestal. | A2-13 Cuerpo Superior de gestión en ingeniería técnica forestal de la Administración de la Generalitat.
-A2-02-06. Ingeniería técnica agrícola. | A2-14 Cuerpo Superior de gestión en Ingeniería Técnica Agrícola de la Administración de la Generalitat. A2-31 Cuerpo Superior técnico de control analítico y seguridad agroalimentaria de la Administración de la Generalitat. A2-22 Cuerpo Superior de gestión en economía doméstica de la Administración de la Generalitat.
+A2-02-06. Ingeniería Técnica Agrícola. | A2-14 Cuerpo Superior de gestión en Ingeniería Técnica Agrícola de la Administración de la Generalitat. A2-22 Cuerpo Superior de gestión en economía doméstica de la Administración de la Generalitat.
 A2-02-07. Arquitectura Técnica. | A2-17 Cuerpo Superior de gestión en arquitectura de la Administración de la Generalitat.
 A2-02-08. Técnica de medio ambiente. | A2-23 Cuerpo Superior de gestión de la administración del medio ambiente de la Administración de la Generalitat.
 A2-02-09. Técnica Facultativa de promoción lingüística. | A2-03 Cuerpo Superior de gestión de promoción lingüística de la administración de la Generalitat.
@@ -225,6 +227,7 @@ A2-02-10. Técnica archivística, biblioteconomía y documentación. | A2-04 Cue
 A2-02-11. Técnica Facultativa de gestión estadística. | A2-27 Cuerpo Superior de gestión estadística de la Administración de la Generalitat.
 A2-02-12. Ingeniería Técnica en Topografía. | A2-12 Cuerpo Superior de gestión en geodesia y cartografía de la Administración de la Generalitat.
 A2-02-13. Técnica Facultativa de administración cultural. | A2-15 Cuerpo Superior de gestión en administración cultural de la Administración de la Generalitat.
+A2-02-15. Técnica Agroalimentaria. | A2-31 Cuerpo superior técnico de control analítico y seguridad agroalimentaria de la Administración de la Generalitat.
 A2-03. Cuerpo Técnico Facultativo de prevención de riesgos laborales, seguridad y salud en el trabajo. | A2-05 Cuerpo Superior de gestión en seguridad y salud en el trabajo de la Administración de la Generalitat. A2-21 Cuerpo Superior de gestión en prevención de riesgos laborales de la Administración de la Generalitat.
 A2-04. Cuerpo Técnico Facultativo de acción social, administración de servicios sociales y sociosanitarios. | 
 A2-04-01. Sociosanitaria. | A2-16-01. Acción social y administración de servicios sociales. A2-16-04. Logopedia.
@@ -264,6 +267,7 @@ C2-03-02 Auxiliar Cocina. | Escala C2-05-02. Auxiliares de cocina.
 C2-03-03 Auxiliares de enfermería. | EscalaC2-05-01. Auxiliares de enfermería.
 AGRUPACIÓN PROFESIONAL FUNCIONARIAL
 Agrupación profesional funcionarial. | Todas las Agrupaciones profesionales funcionariales existentes.
+Se modifica por el art. 79 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 Se modifica por el anexo.16 del Decreto-ley 12/2022, de 23 de septiembre. Ref. DOGV-r-2022-90294
 ANEXO III
 Agrupaciones de puestos de trabajo de la administración de la Generalitat
@@ -310,6 +314,7 @@ APT-APF-03, de Vigilante. Constituida por los puestos de trabajo que actualmente
 APT-APF-04, de Ayudante de residencia/servicios. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05, escalas APF-05-01, APF-05-03, APF-05-04 y APF-05-05.
 APT-APF-05, de Ayudante de cocina. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05-02. Ayudante de cocina.
 APT-APF-06, de mantenimiento. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-06 Servicios de apoyo del mantenimiento de la Administración de la Generalitat.
+Se modifica el punto 2.º del subgrupo A2 del apartado b) por el art. 80 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 ANEXO IV
 Cuerpos, escalas y agrupaciones profesionales funcionariales gestionados por la conselleria con competencias en materia de sanidad y organismos o entidades dependientes
 Administración general

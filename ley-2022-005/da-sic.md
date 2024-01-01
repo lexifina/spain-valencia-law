@@ -1,6 +1,4 @@
 Disposición adicional [sic].
-Hasta que una norma de ámbito estatal regule específicamente esta materia, en relación con las recogidas separadas en origen, los sistemas de colectivos de responsabilidad ampliada del productor y sistemas integrados de gestión deberán soportar a su cargo los costes de la parte proporcional de rechazo a vertedero del impuesto estatal al vertido y la incineración prevista en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, de entre los flujos de residuos adheridos a sus sistemas.
-Esta obligación no podrá descontar recursos económicos de los que los sistemas destinan a educación ambiental, fomento de las recogidas separadas y promoción del reciclaje.
-Esta previsión estará en vigor solo hasta que una norma de ámbito estatal lo regule de manera específica.
-En relación con el sistema de cálculo de los porcentajes de rechazo a vertedero, en la Comunitat Valenciana este será aprobado por cada uno de los consorcios de residuos y entes locales de gestión competentes de la valorización de residuos domésticos a través de sus órganos de gobierno antes de la finalización del primer trimestre de cada año natural para el ejercicio de que se trate.
+(Derogada).
+Se deroga por la disposición derogatoria única de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 Se añade por el art. 188 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
