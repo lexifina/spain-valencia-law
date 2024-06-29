@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Queda derogada la Ley 6/2016, de 15 de julio, de la Generalitat, del servicio público de radiodifusión y televisión de ámbito autonómico, de titularidad de la Generalitat, así como todas aquellas disposiciones, e instrucciones dictadas en desarrollo de la citada ley. Así mismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley.
