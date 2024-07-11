@@ -1,3 +1,4 @@
 Artículo 10 bis. Criterios generales de ordenación de la producción de energías renovables.
-A todos los efectos, en aquellos municipios en los cuales la generación de energía renovable no esté expresamente regulada en el planeamiento vigente, el uso de producción de energías renovables se considerará compatible en suelo no urbanizable común de moderada, baja o muy baja capacidad agrológica, que no correspondan a suelos incendiados hasta que hubieron pasado 30 años desde la extinción del incendio. Todo esto tomando como referencia las cartografías de la Institut Cartogràfic Valencià. En todo caso, su implantación requerirá la emisión de los informes pertinentes.
+(Suprimido)
+Se suprime por el art. 113.4 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
 Se añade por el art. 1.2 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a1

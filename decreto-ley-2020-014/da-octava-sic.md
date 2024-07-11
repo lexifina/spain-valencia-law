@@ -1,0 +1,4 @@
+Disposición adicional octava [sic]. Autorizaciones para torres de medición de viento
+Para el emplazamiento de torres de medición de viento no es necesario cumplir con el procedimiento regulado en este Decreto-ley. Para la implantación temporal de estas instalaciones en necesaria la autorización de la conselleria con competencia en materia de energía, previo informe del ayuntamiento correspondiente. Dicho informe deberá ser emitido en un plazo de un mes. De no emitirse el informe municipal en este plazo, el órgano autonómico podrá conceder automáticamente dicha autorización.
+La autorización otorgada tiene una vigencia máxima de dos años. En el supuesto de que la torre de medida deba permanecer situada en el propio parque eólico, habrá que incluirla dentro del proyecto correspondiente a aquél.
+Se añade por el art. 115.22 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
