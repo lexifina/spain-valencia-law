@@ -1,0 +1,4 @@
+Artículo 64 bis. Sometimiento a otras normativas.
+Las viviendas de uso turístico y demás alojamientos turísticos estarán sometidas a los requerimientos de la normativa turística, civil, mercantil, sanitaria, urbanística y ambiental, emanados de la Unión Europea, Administración del Estado, de la Comunidad Valenciana y de los entes locales en el marco de sus respectivas competencias.
+En particular, los Ayuntamientos, por razón imperiosa de interés general, y mediante el ejercicio de sus competencias de planeamiento urbanístico, podrán establecer limitaciones proporcionadas, en lo que respecta al número máximo de viviendas de uso turístico por edificio, sector, ámbito, área o zona. Dichas limitaciones deberán obedecer a criterios claros, inequívocos y objetivos, a los que se haya dado debida publicidad con anterioridad a su aplicación.
+Se añade por el art. 2.2 del Decreto-ley 9/2024, de 2 de agosto. Ref. DOGV-r-2024-90168
