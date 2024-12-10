@@ -1,0 +1,12 @@
+Disposición derogatoria única. Derogación normativa.
+Quedan derogadas en particular las siguientes disposiciones:
+1. Ley 2/1989, de 3 de marzo, de evaluación ambiental, incluido su anexo.
+2. Decreto 178/1988, de 15 de noviembre, del Consell de la Generalitat Valenciana, por el que se establece la composición y funciones de la Comisión Interdepartamental para la aplicación del uso del valenciano, según la Ley 4/1983, de 23 de noviembre, de Uso y Enseñanza del Valenciano.
+3. Decreto 162/1990, de 15 de octubre, del Consell de la Generalitat Valenciana, por el que se aprueba el reglamento de la ley 2/1898, de 3 de marzo, de impacto ambiental, el Decreto 32/2006, de 10 de marzo, de modificación del anterior, así como cualquier norma de modificación de los citados decretos.
+4. Decreto 201/2008, de 12 de diciembre, del Consell, por el que se regula la intervención ambiental en las instalaciones públicas de saneamiento de aguas residuales.
+5. Decreto 28/2012, de 3 de febrero, del Consell, por el que crea la Comisión Interdepartamental para el seguimiento e impulso de las políticas de racionalización y austeridad en el gasto en el ámbito de la Generalitat.
+6. Decreto 13/2019, de 8 de febrero, del Consell, de creación de la Red Pública de Servicios Lingüísticos Valencianos.
+7. Decreto 48/2021, de 1 de abril, del Consell, de regulación de la Comisión Delegada del Consell de Inclusión y Derechos Sociales.
+8. Decreto 19/2023, de 3 de marzo, del Consell, por el que se aprueba el Reglamento de organización y funcionamiento de la Escola Valenciana d'Administració Pública excepto lo relativo a las funciones de la Comisión Permanente de Selección que mantendrán su vigencia hasta que sean adaptadas las normas organizativas que determinen su adscripción orgánica y dichas funciones.
+9. Orden de 3 de enero de 2005, de la Conselleria de Territorio y Vivienda, por la que se establece el contenido mínimo de los estudios de impacto ambiental que se hayan de tramitar ante esta conselleria.
+10. Orden 8/2011, de 23 de febrero, de la Conselleria de Educación, por la que se establece el procedimiento de autorización provisional previsto en la disposición adicional segunda, apartado 1, del Decreto 2/2009, de 9 de enero, del Consell, por el que se establecen los requisitos mínimos que deben cumplir los centros que impartan el primer ciclo de la Educación Infantil en la Comunitat Valenciana.
