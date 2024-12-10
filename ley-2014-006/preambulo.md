@@ -83,5 +83,6 @@ El título VI, dedicado a la disciplina ambiental, recoge el régimen de control
 El régimen sancionador aplicable tiene como finalidad, aparte de garantizar la sanción de las infracciones que se puedan cometer y que los responsables reparen los daños realizados al medio, pretende actuar como mecanismo disuasorio para el posible infractor. De igual modo, es necesario señalar que se especifica la distribución de competencias entre las administraciones de la Comunitat Valenciana en cuanto a la potestad sancionadora.
 IX
 La ley se completa con ocho disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria, seis disposiciones finales y tres anexos. En el anexo I figuran las actividades e instalaciones sujetas a autorización ambiental integrada. En el anexo II las incluidas en el régimen de licencia ambiental. En el anexo III, las condiciones de cuyo total cumplimiento se hace depender la inclusión en el régimen de declaración responsable ambiental o de comunicación de actividades inocuas.
+Se modifican los apartados V y VII por el art. 109.1 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
 Se modifican los apartados V y VII por el art. 103.1 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
 Se modifica el apartado VII, párrafo tercero por el art. 86 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.

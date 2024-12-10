@@ -1,10 +1,11 @@
 Artículo 3 bis. Procedimiento para la implantación de instalaciones de producción de energía renovable fotovoltaica de autorización estatal.
 1. Las instalaciones de energía renovable fotovoltaica de autorización estatal quedarán eximidas de la tramitación de la Declaración de Interés Comunitario o de Plan Especial.
 2. La concesión de la licencia urbanística municipal comporta para el titular o propietario de las instalaciones la obligación del pago del canon por uso y aprovechamiento de suelo no urbanizable con destino municipal en los términos establecidos en el artículo 38 del presente Decreto Ley.
-3. Los criterios y reglas generales y específicos para la localización e implantación de centrales fotovoltaicas de autorización estatal serán los que se establecen en la Sección 1.ª del Capítulo I del título III de esta norma.
+3. Los criterios y reglas generales y específicos para la localización e implantación de centrales fotovoltaicas de autorización estatal serán los que se establecen en la sección 1.ª del capítulo I del título III de esta norma.
 El cumplimiento de estos criterios y reglas en el caso de centrales fotovoltaicas de autorización estatal se verificará, en el marco de la tramitación de la licencia urbanística municipal, mediante la emisión de informe preceptivo y vinculante por el órgano competente de la Generalitat en materia de ordenación del territorio y paisaje.
 El informe será emitido bien a instancia de la Corporación Local o del propio promotor de la instalación.
 El informe deberá emitirse en un plazo máximo de dos meses. Si transcurrido este plazo no hubiera sido emitido, se entenderá que no existe objeción alguna al cumplimiento de los criterios y reglas y podrá continuarse con la tramitación a la que se refiere el presente artículo.
 El informe será único para la totalidad de la central fotovoltaica y sus infraestructuras de evacuación, surtiendo efectos en los expedientes de licencia urbanística municipal que se incoen por cada uno de los Ayuntamientos en cuyo territorio se asiente la central fotovoltaica o por el que discurran las infraestructuras de evacuación.
+Se modifican los apartados 1 y 3 por el art. 122.3 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-34
 Se modifica el apartado 1 y se añade el 3 por el art. 115.3 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
 Se añade por el art. 10.2 del Decreto-ley 1/2022, de 22 de abril. Ref. DOGV-r-2022-90121#a1-2

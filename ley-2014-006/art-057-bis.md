@@ -3,5 +3,7 @@ Artículo 57 bis. Propuesta de dictamen ambiental.
 La propuesta de dictamen ambiental habrá de ser completado, con la actuación de la administración competente (municipal o autonómica), y se emitirá un informe realizado por un técnico de dicha administración mediante el cual se dará o no la conformidad a la aprobación de dicha propuesta de dictamen elaborada por un OCA. Los técnicos municipales podrán introducir las correcciones oportunas y con ello darle conformidad a la ratificación o denegar la conformidad.
 2. (Suprimido)
 3. (Suprimido)
+Se suprimen los apartados 2 y 3 por el art. 109.8 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
+Téngase en cuenta que estos apartados ya habían sido suprimidos por el Decreto-ley 7/2024, de 9 de julio.
 Se suprimen los apartados 2 y 3 por el art. 103.8 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
 Se añade por el art. 163 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018

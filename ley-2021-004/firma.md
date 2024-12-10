@@ -80,6 +80,7 @@ Escalas:
 2.ª A1-08-02. Superior técnica de laboratorio.
 h) A1-09 Cuerpo Superior Facultativo de Inspección de Tributos.
 i) A1-10. Cuerpo Superior Facultativo de Emergencias y Protección civil.
+j) A1-11. Cuerpo de comunicación y relaciones informativas.
 3. Cuerpos especiales del Subgrupo A2
 a) A2-02. Cuerpo Técnico Facultativo.
 Escalas:
@@ -164,6 +165,7 @@ Escalas:
 3.ª C2-03-03 Auxiliares de enfermería.
 7. Agrupación Profesional Funcionarial
 La agrupación profesional funcionarial de la Administración de la Generalitat, para cuyo acceso no se exige estar en posesión de ninguna de las titulaciones previstas en el sistema educativo.
+Se añade la letra j) al apartado 2 por el art. 96.21 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-8
 Se modifica el apartado 3.a) por el art. 78 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 Se modifica el apartado 2.b) por el art. 132 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifican los apartados 2.b), 5.d) y 6.a) por los arts. 108 y 109 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
@@ -272,11 +274,10 @@ Se modifica por el anexo.16 del Decreto-ley 12/2022, de 23 de septiembre. Ref. D
 ANEXO III
 Agrupaciones de puestos de trabajo de la administración de la Generalitat
 Sin perjuicio de la competencia que para su creación el artículo 8 de la presente ley atribuye a la persona titular de la conselleria con competencias en materia de función pública, se crean las siguientes agrupaciones de puestos de trabajo:
-a) Cuerpos Generales.
-1.º Subgrupo A1.
-APT-A1-01-01, de relaciones laborales. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A1-10. Superior técnico en relaciones laborales de la Administración de la Generalitat.
-APT-A1-01-02, de comunicación y relaciones informativas. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A1-05. Superior técnico de comunicación y relaciones informativas de la Administración de la Generalitat.
-APT-A1-01-03, de fondos europeos. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A1-01. Superior técnico de administración general de la administración de la Generalitat y adscritos orgánicamente a los departamentos con competencias en materia de fondos europeos de la Generalitat y que se encargan de la adecuada coordinación y gestión para la ejecución de los fondos estructurales y de inversión europeos (fondos EIE) en la Comunitat Valenciana.
+a) Cuerpos generales
+1.º Subgrupo A1
+APT-A1-01-01, de relaciones laborales. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A1-10. Superior técnico en relaciones laborales de la administración de la Generalitat.
+APT-A1-01-02, de fondos europeos. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A1-01, superior técnico de administración general de la administración de la Generalitat, y adscritos orgánicamente a los departamentos con competencias en materia de fondos europeos de la Generalitat y que se encargan de la adecuada coordinación y gestión para la ejecución de los fondos estructurales y de inversión europeos (fondos EIE) en la Comunitat Valenciana.
 2.º Subgrupo A2.
 APT-A2-01-01, de relaciones laborales y de Orientador Laboral para el Empleo. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A2-06. Superior de gestión en relaciones laborales de la Administración de la Generalitat y por la Escala A2-01-01, Orientador Laboral para el Empleo.
 APT-A2-01-02, de formación e inserción profesional. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el cuerpo A2-07. Superior de gestión en formación e inserción profesional de la Administración de la Generalitat.
@@ -314,6 +315,7 @@ APT-APF-03, de Vigilante. Constituida por los puestos de trabajo que actualmente
 APT-APF-04, de Ayudante de residencia/servicios. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05, escalas APF-05-01, APF-05-03, APF-05-04 y APF-05-05.
 APT-APF-05, de Ayudante de cocina. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05-02. Ayudante de cocina.
 APT-APF-06, de mantenimiento. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-06 Servicios de apoyo del mantenimiento de la Administración de la Generalitat.
+Se modifica el apartado a) 1º por el art. 96.22 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-8
 Se modifica el punto 2.º del subgrupo A2 del apartado b) por el art. 80 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 ANEXO IV
 Cuerpos, escalas y agrupaciones profesionales funcionariales gestionados por la conselleria con competencias en materia de sanidad y organismos o entidades dependientes

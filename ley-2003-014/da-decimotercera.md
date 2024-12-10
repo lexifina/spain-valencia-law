@@ -1,0 +1,5 @@
+Disposición adicional decimotercera. Modificaciones en materia de patrimonio de la Generalitat Valenciana.
+1. Bienes que conforman el recinto aeroportuario del Aeropuerto de Castellón:
+Todos los bienes que conforman el recinto aeroportuario del Aeropuerto de Castellón, a excepción de los que estén afectos a los servicios de navegación aérea, entendiendo por tales, el tránsito aéreo (ATS), los servicios de comunicación, navegación y vigilancia (CNS), los servicios de información aeronáutica (AIS), la gestión del espacio aéreo (ASM) y la gestión de afluencia de tránsito aéreo (ATFM) dejarán de tener naturaleza de bienes de dominio público, sin que por ello se entienda alterado el fin expropiatorio, por lo que no procederá su reversión.
+La consellería competente en materia de patrimonio llevará a cabo las actuaciones necesarias para proceder al cambio de naturaleza de los bienes referidos en el apartado anterior.
+Se añade por el art. 94.2 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-6

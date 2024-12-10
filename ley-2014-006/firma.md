@@ -146,13 +146,13 @@ b) Instalaciones de cogeneración, calderas, hornos, generadores de vapor o cual
 2. Producción y transformación de metales.
 2.1 Producción de fundición o de aceros brutos (fusión primaria o secundaria), incluidas las correspondientes instalaciones de fusión continua de una capacidad de hasta 2,5 toneladas por hora.
 2.2 Transformación de metales ferrosos:
-a) proceso de laminado en caliente con una capacidad de hasta 20 toneladas de acero en bruto por hora;
-b) proceso de forjado con martillos cuya energía de impacto sea hasta 50 kilojulios por martillo o cuando la potencia térmica utilizada sea hasta 20 MW;
+a) proceso de laminado en caliente con una capacidad de hasta 20 toneladas de acero en bruto por hora.
+b) proceso de forjado con martillos cuya energía de impacto sea hasta 50 kilojulios por martillo o cuando la potencia térmica utilizada sea hasta 20 MW.
 c) aplicación de capas de protección de metal fundido con una capacidad de tratamiento de hasta 2 toneladas de acero en bruto por hora.
 2.3 Proceso de fundición de metales ferrosos con una capacidad de producción superior a 2 toneladas por día y hasta 20 toneladas por día.
 2.4 Transformación de metales no ferrosos:
 Fusión de metales no ferrosos, inclusive la aleación, incluidos los productos de recuperación y otros procesos en las fundiciones de metales no ferrosos (refinado, moldeado en fundición) con una capacidad de fusión de hasta 4 toneladas diarias para el plomo y el cadmio, y superior a 2 toneladas y hasta 20 toneladas diarias para todos los demás metales.
-2.5 Tratamiento de superficie de metales y materiales plásticos por procesos electrolíticos o químicos, cuando el volumen de las cubetas utilizadas o de las líneas completas destinadas al tratamiento sea de hasta 30 m³.
+2.5 Tratamiento de superficie de metales y materiales plásticos por procesos electrolíticos o químicos, cuando el volumen de las cubetas utilizadas o de las líneas completas destinadas al tratamiento sea de hasta 30 m3.
 2.6 Tratamiento de escoria siderúrgica y de fundición, cuya actividad se realice con fines comerciales.
 2.7 Preparación, almacenaje a la intemperie, carga, descarga y transporte de minerales dentro de las plantas metalúrgicas.
 2.8 Electrólisis de zinc.
@@ -176,7 +176,7 @@ Fusión de metales no ferrosos, inclusive la aleación, incluidos los productos 
 3.3 Fundición de materiales minerales, incluida la fabricación de fibras minerales con una capacidad de fusión superior a 1 tonelada por día y hasta 20 toneladas por día.
 3.4 Fabricación de productos cerámicos mediante horneado, en particular de tejas, ladrillos, ladrillos refractarios, azulejos, gres cerámico o productos cerámicos ornamentales o de uso doméstico no incluidos en el anexo I.
 3.5 Explotaciones y frentes de una misma autorización o concesión a cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento está regulado por la Ley de Minas y normativa complementaria, cuando se dé alguna de las circunstancias siguientes:
-a) Explotaciones de sustancias que puedan sufrir alteraciones por oxidación, hidratación, etc., y que induzcan, en limites superiores a los incluidos en las legislaciones vigentes, a acidez, toxicidad u otros parámetros en concentraciones tales que supongan riesgo para la salud humana o el medio ambiente, como las menas con sulfuros, explotaciones de combustibles sólidos, explotaciones que requieran tratamiento por lixiviación «in situ» y minerales radiactivos.
+a) Explotaciones de sustancias que puedan sufrir alteraciones por oxidación, hidratación, etc., y que induzcan, en límites superiores a los incluidos en las legislaciones vigentes, a acidez, toxicidad u otros parámetros en concentraciones tales que supongan riesgo para la salud humana o el medio ambiente, como las menas con sulfuros, explotaciones de combustibles sólidos, explotaciones que requieran tratamiento por lixiviación in situ y minerales radiactivos.
 b) Explotaciones que se hallen ubicadas en terreno de dominio público hidráulico o en zona de policía de un cauce cuando se desarrollen en zonas especialmente sensibles, designadas en aplicación de las Directivas 79/409/CEE y 92/43/CEE, o en humedales incluidos en la lista del Convenio Ramsar.
 3.6 Actividades extractivas e instalaciones de los recursos explotados no incluidas en los epígrafes anteriores.
 3.7 Extracción de petróleo y gas natural con fines comerciales.
@@ -188,16 +188,16 @@ b) Explotaciones que se hallen ubicadas en terreno de dominio público hidráuli
 3.13 Plantas de aglomerado asfáltico.
 3.14 Plantas de preparación y ensacado de cementos especiales y/o morteros.
 3.15 Almacenaje de productos pulverulentos o granulados, con una capacidad superior a 1.000 toneladas.
-3.16 Corte, aserrado y pulido por medios mecánicos de rocas y piedras, con una capacidad de producción superiora 50 Toneladas por día.
+3.16 Corte, aserrado y pulido por medios mecánicos de rocas y piedras, con una capacidad de producción superior a 50 Toneladas por día.
 3.17 Fabricación de materiales abrasivos a base de alúmina, carburo de silicio y otros productos similares.
 3.18 Tratamientos superficiales de vidrio, por métodos químicos.
-3.19 Actividades de clasificación y tratamiento de áridos cuando la actividad se desarrolla fuera del recintominero.
+3.19 Actividades de clasificación y tratamiento de áridos cuando la actividad se desarrolla fuera del recinto minero.
 3.20 Fabricación de elementos para la construcción no incluidos en otro epígrafe específico.
 4. Industria química.
 4.1 Instalaciones químicas para la fabricación de biocombustibles, cuya actividad se realice con fines comerciales.
 4.2 Fabricación de pinturas, tintas, lacas, barnices y revestimientos similares a partir de productos químicos de base, cuya actividad se realice con fines comerciales.
 4.3 Fabricación de mezclas bituminosas a base de asfalto, betún, alquitranes y breas.
-4.4 Fabricación de jabones, detergentes y otros productos de limpieza y abrillantado, cuya actividad se realice confines comerciales.
+4.4 Fabricación de jabones, detergentes y otros productos de limpieza y abrillantado, cuya actividad se realice con fines comerciales.
 4.5 Fabricación de perfumes y productos de belleza e higiene, cuya actividad se realice con fines comerciales.
 4.6 Fabricación de material fotográfico virgen y preparados químicos para la fotografía.
 4.7 Fabricación de productos de materias plásticas termoestables.
@@ -206,19 +206,19 @@ b) Explotaciones que se hallen ubicadas en terreno de dominio público hidráuli
 5. Gestión de residuos.
 5.1 Instalaciones de valorización y/o eliminación de residuos peligrosos y/o no peligrosos no incluidos en el anexo I, excluyendo las incluidas en el Real Decreto ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.
 5.2 Instalaciones para el almacenamiento de residuos, peligrosos y/o no peligrosos, no incluidas en el anexo I, excluido el almacenamiento temporal en espera de recogida en el lugar en que el residuo es generado (almacenamiento en el ámbito de la producción).
-Se excepcionan de lo anterior las instalaciones denominadas «áreas de aportación» previstas en la normativa sectorial de residuos para el almacenamiento temporal de residuos no peligrosos en espera de recogida, con una capacidad máxima de almacenamiento de 60 m³, que se sujetan a declaración responsable ambiental.
+Se excepcionan de lo anterior las instalaciones denominadas «áreas de aportación» previstas en la normativa sectorial de residuos para el almacenamiento temporal de residuos no peligrosos en espera de recogida, con una capacidad máxima de almacenamiento de 60 m3, que se sujetan a declaración responsable ambiental.
 5.3 Instalaciones de tratamiento de deyecciones ganaderas líquidas (purines) por incineración o coincineración, compostaje, eliminación en vertedero o utilización en planta de biogás.
 5.4 Cualesquiera otras instalaciones de tratamiento de residuos no incluidas en los epígrafes anteriores ni en el anexo I.
 6. Industria del papel, cartón, corcho, madera y muebles.
 6.1 Fabricación, cuya actividad se realice con fines comerciales, de:
 a) Papel o cartón con una capacidad de producción superior a 5 y hasta 20 toneladas diarias.
-b) Tableros derivados de la madera: tableros de virutas de madera orientadas, tableros aglomerados o tableros de cartón comprimido, con una capacidad de producción de hasta 600 m³ diarios.
+b) Tableros derivados de la madera: tableros de virutas de madera orientadas, tableros aglomerados o tableros de cartón comprimido, con una capacidad de producción de hasta 600 m3 diarios.
 6.2 Producción y tratamiento de celulosa con una capacidad de producción de hasta 20 toneladas diarias, cuya actividad se realice con fines comerciales.
 6.3 Elaboración de productos de papel y cartón con una capacidad de producción de más de 20 toneladas al día.
 6.4 Fabricación de celofán y linóleos, cuya actividad se realice con fines comerciales.
 6.5 Aserrado, despiece y preparación industrial de la madera y del corcho.
 6.6 Impregnación o tratamiento de la madera con aceite de creosota o alquitrán u otros conservantes no incluidos en otros epígrafes.
-6.7 Fabricación de muebles en instalaciones con una superficie superior a 2.500 m².
+6.7 Fabricación de muebles en instalaciones con una superficie superior a 2.500 m2.
 6.8 Fabricación de chapas, tablones y demás elementos de madera, cuya actividad se realice con fines comerciales, no incluidos en otros epígrafes.
 6.9 Fabricación de artículos diversos de junco, caña, corcho, cestería, brochas, cepillos, etc., cuya actividad se realice con fines comerciales.
 6.10 Acabado de muebles y elementos de madera, junco, caña, corcho, cestería, brochas, cepillos, etc., (barnizado, tapizado, dorado, pintado, etc.), cuya actividad se realice con fines comerciales.
@@ -226,27 +226,28 @@ b) Tableros derivados de la madera: tableros de virutas de madera orientadas, ta
 7.1 Tratamiento previo (operaciones de lavado, blanqueo, mercerización) o para el tinte de fibras textiles o de productos textiles, cuando la capacidad de tratamiento sea superior a 2 y hasta 10 toneladas diarias.
 8. Industria del cuero.
 8.1 Curtido de cueros y pieles con capacidad de tratamiento de hasta 12 toneladas de productos acabados por día.
-8.2 Talleres de confección de artículos de cuero, piel y similares con una superficie superior a 1.000 m².
+8.2 Talleres de confección de artículos de cuero, piel y similares con una superficie superior a 1.000 m2.
 9. Industrias agroalimentarias y explotaciones ganaderas.
 9.1 Mataderos con una capacidad de producción de canales superior a 2 y hasta 50 toneladas por día.
 9.2 Tratamiento y transformación, distintos del mero envasado, de las siguientes materias primas, tratadas o no previamente, destinados a la producción de alimentos o piensos procedentes de:
-i. solo materia prima animal (que no sea exclusivamente la leche), con una capacidad de producción de productos acabados superior a 10 toneladas por día y hasta 75 toneladas por día,
-ii. solo materia prima vegetal, con una capacidad de producción de productos acabados superior a 5 toneladas por día y hasta 300 toneladas por día, o 600 toneladas por día en caso de que la instalación funcione durante un período no superior a 90 días consecutivos en un año cualquiera,
-iii. materias primas animales y vegetales, tanto en productos combinados como por separado, con una capacidad de producción de productos acabados en toneladas por día hasta:
+i) solo materia prima animal (que no sea exclusivamente la leche), con una capacidad de producción de productos acabados superior a 10 toneladas por día y hasta 75 toneladas por día,
+ii) solo materia prima vegetal, con una capacidad de producción de productos acabados superior a 5 toneladas por día y hasta 300 toneladas por día, o 600 toneladas por día en caso de que la instalación funcione durante un período no superior a 90 días consecutivos en un año cualquiera,
+iii) materias primas animales y vegetales, tanto en productos combinados como por separado, con una capacidad de producción de productos acabados en toneladas por día hasta:
 – 75 si A es igual o superior a 10, o
 – [300 – (22,5 × A)] en cualquier otro caso, donde A es la porción de materia animal (en porcentaje del peso) de la capacidad de producción de productos acabados.
 El envase no se incluirá en el peso final del producto.
 La presente subsección no será de aplicación cuando la materia prima sea solo leche.
+Materia prima animal (porcentaje de capacidad de producción de productos acabados)
 9.3 Tratamiento y transformación de leche solamente, cuando la cantidad de leche recibida sea superior a 2 y hasta 200 toneladas por día (valor medio anual).
 9.4 Eliminación o aprovechamiento de canales o desechos de animales con una capacidad de tratamiento igual o inferior a 10 toneladas por día.
 9.5 Instalaciones para la cría intensiva de aves de corral o de cerdos que dispongan:
-a) entre 2.000 y hasta 40.000 plazas para aves de corral si se trata de gallinas ponedoras o del número equivalente para otras orientaciones productivas de aves;
-b) de más de 800 y hasta 2.000 plazas para cerdos de cría de más de 30 kg;
-c) de más de 800 y hasta 2.500 plazas para cerdos de cría de más de 20 kg;
-d) de más de 280 y hasta 750 plazas para cerdas;
-e) de más de 200 y hasta 530 plazas para cerdas en ciclo cerrado (530 cerdas en ciclo cerrado equivalen a las 750 reproductoras);
+a) entre 2.000 y hasta 40.000 plazas para aves de corral si se trata de gallinas ponedoras o del número equivalente para otras orientaciones productivas de aves.
+b) de más de 800 y hasta 2.000 plazas para cerdos de cría de más de 30 kg.
+c) de más de 800 y hasta 2.500 plazas para cerdos de cría de más de 20 kg.
+d) de más de 280 y hasta 750 plazas para cerdas.
+e) de más de 200 y hasta 530 plazas para cerdas en ciclo cerrado (530 cerdas en ciclo cerrado equivalen a las 750 reproductoras).
 f) de más de 75 UGM (1 UGM = 1 plaza de vacuno de leche).
-En el caso de explotaciones mixtas, en las que coexistan animales de los apartados b) a e) de este epígrafe, el número de animales para considerar la inclusión de la instalación en este anexo se determinará de acuerdo con las equivalencias en Unidad Ganadera Mayor (UGM) de los distintos tipos de ganado porcino, recogidas en el anexo I del Real decreto 324/2000, de 3 de marzo, por el que se establecen normas básicas de ordenación de las explotaciones porcinas, o norma que le sustituya.
+En el caso de explotaciones mixtas, en las que coexistan animales de los apartados b a e de este epígrafe, el número de animales para considerar la inclusión de la instalación en este anexo se determinará de acuerdo con las equivalencias en Unidad Ganadera Mayor (UGM) de los distintos tipos de ganado porcino, recogidas en el anexo I del Real Decreto 324/2000, de 3 de marzo, por el que se establecen normas básicas de ordenación de las explotaciones porcinas, o norma que le sustituya.
 9.6 Instalaciones para la cría intensiva de otros animales que alberguen:
 – Plazas de lechones a partir de 1.500 plazas inclusive.
 – Plazas de vacuno de engorde por encima de 100 plazas.
@@ -256,11 +257,11 @@ En el caso de explotaciones mixtas, en las que coexistan animales de los apartad
 – Plazas de conejos por encima de 10.000 plazas.
 – Plazas de cualquier otra especie animal, incluso instalaciones mixtas de la misma o diferente especie, no especificadas en los anteriores epígrafes, a partir de 75 unidades ganaderas mayores (UGM) (1 UGM = 1 plaza de vacuno de leche).
 9.7 Instalaciones para la acuicultura intensiva (excluidas las instalaciones de mar abierto) que tenga una capacidad de producción superior a 25 toneladas año.
-9.8 Instalaciones para el almacenamiento o acondicionamiento de materias fecales y otras enmiendas orgánicas independientes de la actividad principal, con superficie superior a 100 m².
+9.8 Instalaciones para el almacenamiento o acondicionamiento de materias fecales y otras enmiendas orgánicas independientes de la actividad principal, con superficie superior a 100 m2.
 9.9 Tratamiento, manipulación y procesado de productos del tabaco, con una capacidad de producción superior a 1 tonelada por día.
 9.10 Desmontaje de algodón, cuya actividad se realice con fines comerciales.
 9.11 Tratamiento y transformación de materia prima animal y/o vegetal no incluidos en otros epígrafes con una capacidad de producción superior a 10 toneladas por día.
-9.12 Almazaras e instalaciones para elaborar grasas y aceites vegetales y/o animales, cuya actividad se realice confines comerciales.
+9.12 Almazaras e instalaciones para elaborar grasas y aceites vegetales y/o animales, cuya actividad se realice con fines comerciales.
 9.13 Instalaciones para la elaboración de vino, cuya actividad se realice con fines comerciales.
 9.14 Instalaciones para la elaboración de cerveza y/o malta cervecera, cuya actividad se realice con fines comerciales.
 9.15 Instalaciones para la obtención de féculas, harina o aceite de pescado, cuya actividad se realice con fines comerciales.
@@ -269,13 +270,13 @@ En el caso de explotaciones mixtas, en las que coexistan animales de los apartad
 10. Consumo de disolventes.
 10.1 Tratamiento de superficie de materiales, de objetos o productos con utilización de disolventes orgánicos, en particular para aprestarlos, estamparlos, revestirlos y desengrasarlos, impermeabilizarlos, pegarlos, laquearlos, limpiarlos o impregnarlos, con una capacidad de consumo de disolventes orgánicos igual o inferior al establecido en el anexo I.
 11. Conservación de maderas y productos derivados.
-11.1 Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción igual o inferior a 75 m³ diarios, distinta del tratamiento para combatir la albura exclusivamente.
+11.1 Conservación de la madera y de los productos derivados de la madera utilizando productos químicos, con una capacidad de producción igual o inferior a 75 m3 diarios, distinta del tratamiento para combatir la albura exclusivamente.
 12. Proyectos de gestión del agua.
 12.1 Instalaciones de desalación o desalobración de agua excluyendo las de interés comunitario.
 13. Otras actividades no incluidas en epígrafes anteriores.
 13.1 Aquellas actividades que requieran autorización sectorial, de cualquier otra administración, previa a la apertura, como las siguientes:
 13.1.1 Las actividades sujetas a previa evaluación de impacto ambiental de acuerdo con los dispuesto en la normativa estatal y autonómica, a excepción de las infraestructuras hidráulicas de interés comunitario.
-13.1.2 Actividades sujetas a la aplicación del Real decreto 840/2015, de 21 de septiembre, por el que se aprueban las medidas de control de riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas.
+13.1.2 Actividades sujetas a la aplicación del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban las medidas de control de riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas.
 13.1.3 Actividades e instalaciones que se pretendan implantar en la zona de servidumbre de protección que requieran autorización de acuerdo con la legislación estatal de costas.
 13.1.4 Las actividades que se pretendan implantar en edificios que estén catalogados o en trámite de catalogación como bien de interés cultural e impliquen cambio de uso.
 13.1.5 Actividades relacionadas en el Reglamento sobre Protección Sanitaria contra Radiaciones Ionizantes.
@@ -284,12 +285,12 @@ En el caso de explotaciones mixtas, en las que coexistan animales de los apartad
 13.1.8 Cualquier otra que por la legislación estatal o autonómica exigiese autorización sectorial previa.
 No obstante, las actividades relacionadas anteriormente podrán tramitarse mediante el procedimiento de declaración responsable ambiental si junto a dicha declaración y la documentación exigible la persona interesada aportase la correspondiente autorización o instrumento de intervención sectorial previa.
 13.2 Por implicar cierto grado de riesgo, estarán también sometidas a licencia ambiental las siguientes:
-13.2.1 Actividades con carga térmica ponderada superior a 200 Mcal/m² (800 MJ/m² según CTE DB-SI y RSIEI800 MJ/m²).
+13.2.1 Actividades con carga térmica ponderada superior a 200 Mcal/m² (800 MJ/m² según CTE DB-SI y RSIEI 800 MJ/m²).
 13.2.2 Comercios y grandes almacenes de superficie comercial superior a 2.500 m².
 13.2.3 Actividades de uso hospitalario (hospitales, clínicas, centros de asistencia primaria u otros establecimientos sanitarios) cuya altura de evacuación sea superior a 20 metros o la superficie total construida sea mayor de 2.000 m².
 13.2.4 Actividades de uso administrativo cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 5.000 m².
 13.2.5 Actividades de uso docente cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 5.000 m².
-13.2.6 Actividades de uso residencial público (residencias y centros de día) cuya altura de evacuación sea superiora 28 metros o la superficie total construida sea mayor de 1.500 m².
+13.2.6 Actividades de uso residencial público (residencias y centros de día) cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 1.500 m².
 13.2.7 Hoteles, establecimientos de alojamiento turístico rural, bloques y conjuntos de apartamentos turísticos, establecimientos de restauración y establecimientos de turismo, cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 1.500 m², salvo que se incluyan en normativa específica.
 13.2.8 Cualquier otra que por la legislación estatal o autonómica así se determine.
 13.3 [Suprimido].
@@ -301,15 +302,15 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.5 Talleres y/o instalaciones en las que se realicen operaciones de pintura y/o tratamiento de superficies.
 13.4.6 Venta al detalle de carburantes/estaciones de servicio.
 13.4.7 Industria de manufactura de caucho y similares.
-13.4.8 Laboratorios de análisis y de investigación con una superficie superior a 75 m² (excluyendo despachos, almacenes y otras áreas auxiliares).
+13.4.8 Laboratorios de análisis y de investigación con una superficie superior a 75 m2 (excluyendo despachos, almacenes y otras áreas auxiliares).
 13.4.9 Laboratorios industriales de fotografía.
-13.4.10 Hornos crematorios
+13.4.10 Hornos crematorios.
 13.4.11 Campings y similares.
 13.4.12 Lavanderías industriales.
 13.4.13 Instalaciones para la limpieza en seco, con una superficie superior a 500 m².
 13.4.14 Fabricación de circuitos integrados y circuitos impresos.
 13.4.15 Instalaciones y actividades para la limpieza de vehículos utilitarios.
-13.4.16 [Suprimido]
+13.4.16 [Suprimido].
 13.4.17 Depuración de gas natural.
 13.4.18 Depuradoras de aguas residuales no incluidas en el anexo I, excluidas las estaciones depuradoras de aguas residuales de interés comunitario.
 13.4.19 Fabricación de lámparas y material de alumbrado, cuya actividad se realice con fines comerciales.
@@ -317,6 +318,7 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.21 Impresión gráfica y/o edición, cuya actividad se realice con fines comerciales.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se modifica por el art. 109.17 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
 Se modifica por el art. 103.17 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
 Se modifican los epígrafes 5.1, 5.2, 9.5, 9.6, 12.1, 13.1.1 y 13.4.18 por el art. 89 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a8-11
 Se suprime el apartado 1.7 y se renumeran los siguientes por el art. 4.2 del Decreto-ley 14/2020, de 7 de agosto. Ref. DOGV-r-2020-90356#a4

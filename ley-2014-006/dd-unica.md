@@ -5,4 +5,5 @@ Disposición derogatoria única.
 – Los anexos del Decreto 40/2004, de 5 de marzo, del Consell, que desarrollaba el régimen de prevención y control integrados de la contaminación en la Comunitat Valenciana, que permanecían en vigor en virtud de la disposición transitoria segunda del Decreto 127/2006, de 15 de septiembre, del Consell, por el que se desarrolla la Ley 2/2006, de 5 de mayo, de la Generalitat, de prevención de la contaminación y calidad ambiental.
 – El Decreto 127/2006, de 15 de septiembre, del Consell, por el que se desarrolla la Ley 2/2006, de prevención de la contaminación y calidad ambiental.
 3. Quedan derogadas todas aquellas disposiciones, de igual o inferior rango, que contravengan o se opongan a lo establecido en esta ley.
+Se modifica el apartado 2 por el art. 109.16 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
 Se modifica el apartado 2 por el art. 103.15 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
