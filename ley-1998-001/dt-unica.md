@@ -1,2 +1,0 @@
-Disposición transitoria única.
-Los preceptos contenidos en la presente Ley no serán de aplicación a aquellas obras de edificación, urbanización o transporte que en la actualidad se hallen en construcción, así como a los proyectos que hayan obtenido ya la correspondiente autorización o licencia. En estos casos, será de aplicación la normativa que estuviera vigente con anterioridad a la aprobación de la presente Ley.
