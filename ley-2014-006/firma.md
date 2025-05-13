@@ -287,10 +287,10 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.2 Por implicar cierto grado de riesgo, estarán también sometidas a licencia ambiental las siguientes:
 13.2.1 Actividades con carga térmica ponderada superior a 200 Mcal/m² (800 MJ/m² según CTE DB-SI y RSIEI 800 MJ/m²).
 13.2.2 Comercios y grandes almacenes de superficie comercial superior a 2.500 m².
-13.2.3 Actividades de uso hospitalario (hospitales, clínicas, centros de asistencia primaria u otros establecimientos sanitarios) cuya altura de evacuación sea superior a 20 metros o la superficie total construida sea mayor de 2.000 m².
-13.2.4 Actividades de uso administrativo cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 5.000 m².
-13.2.5 Actividades de uso docente cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 5.000 m².
-13.2.6 Actividades de uso residencial público (residencias y centros de día) cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 1.500 m².
+13.2.3 (Suprimido)
+13.2.4 (Suprimido)
+13.2.5 (Suprimido)
+13.2.6 (Suprimido)
 13.2.7 Hoteles, establecimientos de alojamiento turístico rural, bloques y conjuntos de apartamentos turísticos, establecimientos de restauración y establecimientos de turismo, cuya altura de evacuación sea superior a 28 metros o la superficie total construida sea mayor de 1.500 m², salvo que se incluyan en normativa específica.
 13.2.8 Cualquier otra que por la legislación estatal o autonómica así se determine.
 13.3 [Suprimido].
@@ -318,6 +318,7 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.21 Impresión gráfica y/o edición, cuya actividad se realice con fines comerciales.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se suprimen los epígrafes 13.2.3 a 13.2.6 por el art. 1.2 del Decreto-ley 6/2025, de 7 de mayo. Ref. DOGV-r-2025-90101
 Se modifica por el art. 109.17 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
 Se modifica por el art. 103.17 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
 Se modifican los epígrafes 5.1, 5.2, 9.5, 9.6, 12.1, 13.1.1 y 13.4.18 por el art. 89 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a8-11
