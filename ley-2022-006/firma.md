@@ -5,7 +5,7 @@ Definiciones
 1. Absorción de CO2: el secuestro de dióxido de carbono, CO2, de la atmósfera por parte de sumideros biológicos.
 2. Adaptación al cambio climático: capacidad de ajuste de los sistemas naturales o humanos al cambio climático y a sus impactos para moderar los daños o aprovechar las oportunidades.
 3. Análisis de ciclo de vida (ACV): metodología de diseño que investiga el ciclo de vida de un producto o servicio evaluando los impactos ambientales durante todas las etapas de su existencia: extracción, producción, distribución, uso y fin de vida (reutilización, reciclaje, valorización y eliminación/disposición de los residuos/rechazo). El ACV se realiza mediante la cuantificación del uso de recursos («entradas» como energía, materias primas, agua) y emisiones ambientales («salidas» al aire, agua y suelo) asociados con el sistema que se está evaluando.
-4. Año base: año que, si no se especifica lo contrario, sirve de referencia para el cálculo de los objetivos de reducción de emisiones de gases de efecto invernadero en el contexto del Protocolo de Kioto, que entró en vigor en 2005. Se considera como año base 1990.
+4. Año base: año que, si no se especifica lo contrario, sirve de referencia para el cálculo de los objetivos de reducción de emisiones de gases de efecto invernadero en el contexto del Protocolo de kioto, que entró en vigor en 2005. Se considera año base el 1990.
 5. Balance de carbono neutro. Equilibrio que se produce cuando las emisiones de carbono igualan a las de fijación.
 6. Cambio climático: cambio en el clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables.
 7. Ciclo de vida de producto: progresión de un producto a través de las cuatro etapas de su tiempo en el mercado que son: introducción, crecimiento, madurez y declive.
@@ -50,22 +50,9 @@ Definiciones
 46. Vehículo eléctrico: vehículo de motor equipado de un grupo de propulsión con al menos un mecanismo eléctrico no periférico que funciona como convertidor de energía y está dotado de un sistema de almacenamiento de energía recargable, que puede recargarse desde el exterior.
 47. Vulnerabilidad: grado en que un sistema es susceptible o incapaz de afrontar los efectos adversos del cambio climático, incluyendo la variabilidad y los extremos climáticos. El grado de vulnerabilidad depende del carácter, la magnitud y la rapidez de las variaciones climáticas y de las fluctuaciones a las que está expuesto un sistema o sector, así como de su sensibilidad y capacidad de adaptación.
 48. Zona de baja emisión: Se entiende por zona de baja emisión el ámbito delimitado por una administración pública, en ejercicio de sus competencias, dentro de su territorio, de carácter continuo, y en el cual se aplican restricciones de acceso, circulación y estacionamiento de vehículos para mejorar la calidad del aire y mitigar las emisiones de gases de efecto invernadero, conforme a la clasificación de los vehículos por su nivel de emisiones de acuerdo con lo establecido en el Reglamento general de vehículos vigente.
+Se modifica el punto 4 por el art. 299 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
 Redactado conforme a la corrección de errores publicada en DOGV núm. 9525 de 2 de febrero de 2023. Ref. DOGV-r-2023-90026
 ANEXO II
 Porcentajes mínimos para incorporar en las renovaciones anuales de flota de acuerdo con el artículo 63.2 de esta ley
-Año de renovación | Porcentaje mínimo de adquisición o alquiler de unidades sobre los vehículos nuevos adquiridos en el año | Porcentaje mínimo sobre el número total de unidades de la flota
-2022 | 6 % | 1,8 %
-2023 | 9 % | 2,7 %
-2024 | 12 % | 3,6 %
-2025 | 17 % | 5,1 %
-2026 | 22 % | 6,6 %
-2027 | 28 % | 8,4 %
-2028 | 35 % | 10,5 %
-2029 | 42 % | 12,6 %
-2030 | 50 % | 15 %
-2031 | 58 % | 17,4 %
-2032 | 68 % | 20,4 %
-2033 | 78 % | 23,4 %
-2034 | 88 % | 26,4 %
-2035 | 100 % | 30 %
-Téngase en cuenta que este anexo podrá ser modificado por el Consell mediante decreto, publicado únicamente en el Diario Oficial de la Generalitat Valenciana, según se establece en su artículo 63.2.
+(Suprimido)
+Se suprime por el art. 300 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959

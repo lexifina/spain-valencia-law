@@ -12,5 +12,7 @@ En materia de personal, las normas están dirigidas a racionalizar la dotación 
 En materia de tasas, la Ley incluye un extenso artículo que actualiza el régimen de parte de las vigentes con el fin de facilitar la publicación, a lo largo del ejercicio de 1995, del texto refundido a que se refiere la disposición final primera de la Ley.
 5
 El capítulo V, que recoge la regulación básica de las infracciones y el procedimiento sancionador en materia de defensa de la calidad agroalimentaria, trata de solventar los problemas que el vacío legal en la materia provocaba en el momento de hacer efectivo el cumplimiento de las normas en la materia.
+Dicho capítulo también recoge la regulación del procedimiento sancionador en materia de contratación y prácticas comerciales en el ámbito de la cadena alimentaria.
 6
 Por último, se incluyen toda una serie de disposiciones adicionales de diferente alcance y contenido. Así, tenemos normas relativas a sanciones urbanísticas y en materia de caza, y otras destinadas a complementar, de manera puntual, la regulación sobre tasas y precios públicos.
+Se modifica el párrafo 5 por el art. 254 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959

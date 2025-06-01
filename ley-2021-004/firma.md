@@ -78,7 +78,7 @@ g) A1-08. Cuerpo Superior Facultativo de laboratorio y de tecnología agroalimen
 Escalas:
 1.ª A1-08-01. Tecnología agroalimentaria.
 2.ª A1-08-02. Superior técnica de laboratorio.
-h) A1-09 Cuerpo Superior Facultativo de Inspección de Tributos.
+h) A1-09. Cuerpo superior de inspección de tributos de la Generalitat.
 i) A1-10. Cuerpo Superior Facultativo de Emergencias y Protección civil.
 j) A1-11. Cuerpo de comunicación y relaciones informativas.
 3. Cuerpos especiales del Subgrupo A2
@@ -122,7 +122,7 @@ Requisito: título de diplomatura en Trabajo Social o grado en Trabajo Social.
 Requisitos: Título de diplomatura en Educación Social o grado universitario en Educación Social o habilitación profesional reconocida por el supuesto de la letra b de la disposición adicional única de la Ley 15/2003, de 24 de noviembre, de la Generalitat, de creación del Colegio Oficial de Educadoras y Educadores Sociales de la Comunitat Valenciana.
 6.ª A2-04-06. Terapia Ocupacional.
 Requisito. Título de diplomatura en Terapia Ocupacional o grado en terapia ocupacional.
-d) A2-05 Cuerpo Técnico Facultativo de Tributos.
+d) A2-05. Cuerpo técnico tributario de la Generalitat.
 e) A2-06 Cuerpo Técnico Facultativo de Emergencias y Protección civil.
 4. Cuerpos especiales del Grupo B
 a) B-01. Cuerpo Técnico de gestión de sistemas y tecnologías de la información de la administración.
@@ -155,6 +155,7 @@ Requisito. Título Técnico en Cuidados Auxiliares de Enfermería (Ciclo formati
 d) C1-05. Cuerpo Especialistas en la administración del medio ambiente
 Requisito. Permiso de conducir tipo B.
 e) C1-06 Cuerpo Especialistas de mantenimiento, mecánica y obras públicas.
+f) C1-07. Cuerpo de agentes tributarios de la Generalitat.
 6. Cuerpos especiales del Subgrupo C2
 a) C2-02. Cuerpo de Servicios auxiliares de conducción de vehículos.
 Requisitos: Los previstos en el artículo 31.3.b) de la presente ley y Permiso de conducir tipo B.
@@ -165,6 +166,7 @@ Escalas:
 3.ª C2-03-03 Auxiliares de enfermería.
 7. Agrupación Profesional Funcionarial
 La agrupación profesional funcionarial de la Administración de la Generalitat, para cuyo acceso no se exige estar en posesión de ninguna de las titulaciones previstas en el sistema educativo.
+Se modifican los apartados 2.h), 3.d) y se añade el 5.f) por los arts. 183 y 184 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
 Se añade la letra j) al apartado 2 por el art. 96.21 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-8
 Se modifica el apartado 3.a) por el art. 78 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 Se modifica el apartado 2.b) por el art. 132 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
@@ -308,13 +310,14 @@ APT-C2-03-01-05, de Servicios auxiliares de agricultura, pesca y medio ambiente.
 APT-C2-03-01-06, de Servicios auxiliares de seguridad y salud laborales. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el Cuerpo C2-08: Servicios auxiliares de seguridad y salud laborales de la Administración de la Generalitat.
 APT-C2-03-01-07, de Servicios auxiliares de la investigación científica. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el Cuerpo C2-09: Servicios auxiliares de la investigación científica de la Administración de la Generalitat.
 APT-C2-03-01-08, de Servicios auxiliares de la administración de justicia. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por el Cuerpo C2-10: Servicios auxiliares de la administración de justicia de la Administración de la Generalitat.
-5.º Agrupación profesional funcionarial.
-APT-APF-01, de Subalternos. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-01-01. Subalternos.
+c) Agrupación profesional funcionarial.
+APT-APF-01, de subalternos. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-01-01. Subalternos.
 APT-APF-02, de limpieza. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-01-02. Ayudante de limpieza.
-APT-APF-03, de Vigilante. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-01-03. Vigilante.
-APT-APF-04, de Ayudante de residencia/servicios. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05, escalas APF-05-01, APF-05-03, APF-05-04 y APF-05-05.
-APT-APF-05, de Ayudante de cocina. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05-02. Ayudante de cocina.
+APT-APF-03, de vigilante. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-01-03. Vigilante.
+APT-APF-04, de ayudante de residencia/servicios. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05, escalas APF-05-01, APF-05-03, APF-05-04 y APF-05-05.
+APT-APF-05, de ayudante de cocina. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-05-02. Ayudante de cocina.
 APT-APF-06, de mantenimiento. Constituida por los puestos de trabajo que actualmente están clasificados para su provisión por la APF-06 Servicios de apoyo del mantenimiento de la Administración de la Generalitat.
+Se reordena el apartado b) 5ª como apartado c) por el art. 185 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
 Se modifica el apartado a) 1º por el art. 96.22 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a9-8
 Se modifica el punto 2.º del subgrupo A2 del apartado b) por el art. 80 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 ANEXO IV
@@ -384,6 +387,25 @@ A1-S04: Cuerpo de farmacéuticos titulares al servicio de la sanidad local de la
 Requisitos: Licenciado en Farmacia o grado en farmacia.
 Grupo/Subgrupo Profesional: A1.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades básicas de salud pública para garantizar la protección de la salud, en el ámbito de la sanidad ambiental y la seguridad alimentaria.
+A1-S05: Cuerpo de tecnología sanitaria.
+Requisitos: Licenciatura en ciencia de datos, ingeniería en ciencia de datos, grado en ciencia de datos; ingeniería de organización industrial; biotecnología, ingeniería biomédica; ingeniería informática o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Grupo/subgrupo profesional: A1.
+Escalas:
+A1-S05-01 Científico y científica de datos.
+Requisitos: Licenciatura en ciencia de datos, ingeniería en ciencia de datos, grado en ciencia de datos o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de ciencia de datos en servicios sanitarios dependientes de la Conselleria con competencias en materia de sanidad.
+A1-S05-02 Ingeniero e ingeniera de organización.
+Requisitos: Grado en ingeniería de organización industrial o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con las funciones asignadas a la escala del cuerpo.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, controlar, inspeccionar, evaluar, asesorar y, en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de ingeniería de organización de los servicios sanitarios dependientes de la Conselleria con competencias en materia de sanidad.
+A1-S05-03 Biotecnólogo y biotecnóloga.
+Requisitos: Licenciatura en biotecnología, ingeniería en biotecnología, grado en biotecnología o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con la escala del cuerpo.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, coordinar, inspeccionar, evaluar, asesorar y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de biotecnología en servicios sanitarios dependientes de la Conselleria con competencias en sanidad.
+A1-S05-04 Ingeniero biomédico e ingeniería biomédica.
+Requisitos: Licenciatura en ingeniería biomédica, ingeniería biomédica, grado en ingeniería biomédica o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con la escala del cuerpo.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, coordinar, inspeccionar, evaluar, asesorar y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de ingeniería biomédica en servicios sanitarios dependientes de la Conselleria con competencias en sanidad.
+A1-S05-05 Ingeniero Informático e ingeniera informática.
+Requisitos: Licenciatura en ingeniería informática, ingeniería informática, grado en ingeniería informática o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con la escala del cuerpo.
+Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, coordinar, inspeccionar, evaluar, asesorar y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de ingeniería informática en servicios sanitarios dependientes de la Conselleria con competencias en sanidad.
 A2-S02: Cuerpo Enfermero inspector de servicios sanitarios.
 Requisitos Diplomatura en Enfermería, o grado en enfermería.
 Grupo/ Subgrupo Profesional A2.
@@ -428,6 +450,7 @@ Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
 APF-S01 Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.
 Funciones: Informar sobre la ubicación de locales y controlar los accesos a los mismos; custodiar, controlar y realizar el mantenimiento básico de material, mobiliario e instalaciones; transportar objetos no pesados; utilizar máquinas reproductoras y fotocopiadoras; clasificar y el repartir la correspondencia; trasladar documentos y material y entregar las notificaciones.
+Se modifica por el art. 186 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
 Se modifica por los arts. 133 y 134 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifica por el art. 111 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 ANEXO V

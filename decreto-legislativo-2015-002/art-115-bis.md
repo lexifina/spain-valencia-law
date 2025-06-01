@@ -1,0 +1,12 @@
+Artículo 115 bis. Declaración de cooperativa de iniciativa social.
+1. La Generalitat y las entidades locales favorecerán en su ámbito territorial la prestación de actividades y servicios de primera necesidad para sus ciudadanos mediante cooperativas que desarrollen servicios de interés económico general, y que hayan obtenido la declaración de cooperativa de iniciativa social.
+2. A los efectos de este artículo se considerarán actividades y servicios de primera necesidad los relativos a vivienda, salud, servicios sociales, atención a la dependencia, la protección e integración de grupos sociales vulnerables, los suministros básicos como el agua, la electricidad y las telecomunicaciones, la educación, la cultura, el deporte, la movilidad y el transporte.
+Las cooperativas reguladas en este artículo no tendrán ánimo de lucro en los términos que se señalan en esta ley, se considerarán entidades de iniciativa social a los efectos previstos en la legislación sobre servicios sociales inclusivos de la Comunitat Valenciana y podrán gozar, siempre que se trate de negocios jurídicos excluidos del ámbito de aplicación de la normativa básica sobre contratación, de los siguientes beneficios legales:
+a) Resultar adjudicatarias directas de concesiones demaniales o derechos de superficie sobre patrimonio de las entidades locales para desarrollar sus actividades.
+b) Ser beneficiarias directas de subvenciones y ayudas públicas que compensen sus obligaciones de servicio público, dentro del cumplimiento de la normativa estatal y europea en materia de ayudas de Estado.
+c) Acceder de forma preferente al crédito y la financiación de las entidades públicas en condiciones de mercado.
+d) Poder expresar en su denominación la indicación "iniciativa social".
+3. Las Administraciones públicas podrán hacer una reserva de contratos relacionados con las actividades y servicios de primera necesidad a la licitación a cooperativas y a otros operadores económicos, conforme a lo establecido en la legislación vigente sobre contratos del sector público.
+4. El reconocimiento de la declaración de cooperativa de iniciativa social se otorgará, previa petición razonada y acreditando el cumplimiento de los requisitos previstos en este artículo, mediante resolución dictada por el órgano competente de la conselleria competente en materia de cooperativas.
+5. A las cooperativas declaradas de iniciativa social se les aplicarán las normas relativas a la clase de cooperativa a la que pertenezca.
+Se añade por el art. 241 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
