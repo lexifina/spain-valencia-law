@@ -203,7 +203,7 @@ b) Explotaciones que se hallen ubicadas en terreno de dominio público hidráuli
 4.7 Fabricación de productos de materias plásticas termoestables.
 4.8 Tratamiento químico de aceites y grasas.
 4.9 Fabricación, extracción y/o preparación de otros productos químicos no incluidos en otros epígrafes de este anexo ni en el anexo I.
-5. Gestión de residuos.
+5. Gestión de residuos, excluyendo las actividades e instalaciones de agrocompostaje de proximidad y de compostaje comunitario.
 5.1 Instalaciones de valorización y/o eliminación de residuos peligrosos y/o no peligrosos no incluidos en el anexo I, excluyendo las incluidas en el Real Decreto ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.
 5.2 Instalaciones para el almacenamiento de residuos, peligrosos y/o no peligrosos, no incluidas en el anexo I, excluido el almacenamiento temporal en espera de recogida en el lugar en que el residuo es generado (almacenamiento en el ámbito de la producción).
 Se excepcionan de lo anterior las instalaciones denominadas «áreas de aportación» previstas en la normativa sectorial de residuos para el almacenamiento temporal de residuos no peligrosos en espera de recogida, con una capacidad máxima de almacenamiento de 60 m3, que se sujetan a declaración responsable ambiental.
@@ -318,6 +318,7 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.21 Impresión gráfica y/o edición, cuya actividad se realice con fines comerciales.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se modifica el epígrafe 5 por el art. 97.15 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
 Se suprimen los epígrafes 13.2.3 a 13.2.6 por el art. 1.2 del Decreto-ley 6/2025, de 7 de mayo. Ref. DOGV-r-2025-90101
 Se modifica por el art. 109.17 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
 Se modifica por el art. 103.17 del Decreto-ley 7/2024, de 9 de julio. Ref. DOGV-r-2024-90142
@@ -353,7 +354,8 @@ b) Comunicación de actividades inocuas: cuando cumplan todas las condiciones qu
 6.1 Con carácter general, todas aquellas actividades cuya carga térmica ponderada sea inferior a 100 Mcal/m2
 7. Por manipulación de sustancias peligrosas o generación de residuos peligrosos.
 7.1 Aquellas actividades que no utilicen, manipulen, ni generen sustancias o residuos considerados como peligrosos de acuerdo con lo dispuesto en el anexo III de la Ley 22/2011, de 28 de julio, de Residuos y Suelos Contaminados o el anexo I del Reglamento (CE) 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, y por el se modifican y derogan las directivas 67/548/CEE y 1999/45/CE y se modifica el Reglamento (CE) 1907/2006.
-8. Explosión por sobre presión y /o deflagración.
+8. Explosión por sobrepresión y /o deflagración.
+8.1 Aquellas que no tengan riesgo de explosión por sobrepresión y/o deflagración.
 9. Riesgo de legionelosis.
 9.1 Aquellas actividades que no dispongan de actividades industriales sujetas a programas de mantenimiento incluidas en el artículo 2.2.1.º del Real Decreto 865/2003, de 4 de julio, por el que se establecen criterios higiénico-sanitarios para la prevención y control de la legionelosis.
 c) También es de aplicación lo dispuesto en los apartados a y b de este anexo a aquellos establecimientos agroalimentarios que se encuentren en territorio Leader según el Programa de desarrollo rural de la Comunitat Valenciana, sean microempresa según lo establecido en el Reglamento (UE) 651/2014, de la Comisión, de 17 de junio de 2014, y que según el Registro de Establecimientos Agroalimentarios de la Comunitat Valenciana estén clasificadas como actividades de transformación dentro de uno de los epígrafes siguientes:
@@ -366,5 +368,6 @@ División 15. Productos alimenticios y bebidas
 15.82 Bizcochos y galletas; pasteles y productos de pastelería de larga duración
 15.84 Cacao, chocolate y artículos de confitería preparados con azúcar
 15.9 Bebidas.
+Se añade el apartado 8.1 por el art. 97.16 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
 Se añade la letra c) por el art. 162 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 Se modifica el apartado 9.1 por el art. 100 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.
