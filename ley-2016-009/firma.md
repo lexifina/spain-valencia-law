@@ -24,6 +24,7 @@ Punto 3.
 Ayudas económicas a la dependencia, respetando los plazos y en los términos de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
 Punto 4.
 Procedimientos que tengan como objeto la tramitación de licencias para la construcción de nuevas viviendas. Los plazos de urgencia se aplicarán únicamente a aquellos cuyos plazos de tramitación sean de seis meses o mayores, de acuerdo con lo dispuesto en las normas que los regulan.
+Se modifica el punto 4 por el art. 65.único de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se añade el punto 4 por el art. 52 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
 Se suprime el punto 4 por el art. 46 de la Ley 7/2023, de 26 de diciembre. Ref. BOE-A-2024-2666
 Se añade el punto 4 por el art. 65 de la Ley 3/2020, de 30 de diciembre. Ref. BOE-A-2021-1859#a6-7

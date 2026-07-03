@@ -1,5 +1,5 @@
 Disposición derogatoria única. Derogación normativa.
-1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente ley, y con carácter expreso las siguientes:
+1. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en la presente ley, y con carácter expreso la siguiente:
 a) Ley 1/1994, de 28 de marzo, de la Generalitat, de Salud Escolar.
 b) Ley 1/2003, de 28 de enero, de la Generalitat, de Derechos e Información al Paciente de la Comunitat Valenciana.
 c) Ley 3/2003, de 6 de febrero, de la Generalitat, de Ordenación Sanitaria de la Comunitat Valenciana.
@@ -14,4 +14,5 @@ k) Decreto 136/2001, de 26 de julio, del Consell, de modificación del Decreto 2
 l) Decreto 186/2005, de 2 de diciembre, del Consell, de modificación del Decreto 238/1997, de 9 de septiembre, por el que se constituyeron los órganos consultivos y de asesoramiento en materia de drogodependencias y otros trastornos adictivos, modificado parcialmente por el Decreto 136/2001, de 26 de julio.
 m) La Orden de 6 de junio de 2002, de la Conselleria de Sanitat, por la que se actualiza la tramitación de expedientes sancionadores a farmacéuticos titulares de oficina de farmacia según el procedimiento establecido en el Real decreto 1410/1977, de 17 de junio, de acuerdo con las competencias de los actuales órganos de esta conselleria de Sanidad.
 2. Sin perjuicio de lo previsto en el apartado anterior, se mantienen vigentes, hasta que no se proceda a su desarrollo reglamentario, los artículos 19 a 21, 31, 32 y 33 de la Ley 3/2003, de 6 de febrero, de la Generalitat, de Ordenación Sanitaria de la Comunitat Valenciana, y el artículo 22.1 de la Ley 1/2003, de 28 de enero, de la Generalitat, de Derechos e Información al Paciente de la Comunitat Valenciana. Asimismo, se mantienen vigentes el resto de las disposiciones dictadas en desarrollo de la Ley 1/1994, de 28 de marzo; la Ley 1/2003, de 28 de enero; la Ley 3/2003, de 6 de febrero; el Decreto Legislativo 1/2003, de 1 de abril; la Ley 4/2005, de 17 de junio; la Ley 6/2008, de 2 de junio, y la Ley 8/2008, de 20 de junio, salvo aquellos preceptos que se opongan a lo establecido en la presente ley.
+Se modifica por el art. 92 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se añade la letra m) al apartado 1 por el art. 75.2 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320

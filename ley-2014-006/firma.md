@@ -318,6 +318,7 @@ No obstante, las actividades relacionadas anteriormente podrán tramitarse media
 13.4.21 Impresión gráfica y/o edición, cuya actividad se realice con fines comerciales.
 13.4.22 Instalaciones para el lavado y engrase de camiones, vehículos pesados y maquinaria industrial.
 13.4.23 Actividad de explotación para el estacionamiento de camiones, vehículos pesados y maquinaria industrial.
+Se modifica el epígrafe 5 por el art. 115.15 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se modifica el epígrafe 5 por el art. 97.15 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
 Se suprimen los epígrafes 13.2.3 a 13.2.6 por el art. 1.2 del Decreto-ley 6/2025, de 7 de mayo. Ref. DOGV-r-2025-90101
 Se modifica por el art. 109.17 de la Ley 6/2024, de 5 de diciembre. Ref. BOE-A-2025-1#a1-21
@@ -354,7 +355,7 @@ b) Comunicación de actividades inocuas: cuando cumplan todas las condiciones qu
 6.1 Con carácter general, todas aquellas actividades cuya carga térmica ponderada sea inferior a 100 Mcal/m2
 7. Por manipulación de sustancias peligrosas o generación de residuos peligrosos.
 7.1 Aquellas actividades que no utilicen, manipulen, ni generen sustancias o residuos considerados como peligrosos de acuerdo con lo dispuesto en el anexo III de la Ley 22/2011, de 28 de julio, de Residuos y Suelos Contaminados o el anexo I del Reglamento (CE) 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, y por el se modifican y derogan las directivas 67/548/CEE y 1999/45/CE y se modifica el Reglamento (CE) 1907/2006.
-8. Explosión por sobrepresión y /o deflagración.
+8. Explosión por sobrepresión y/o deflagración.
 8.1 Aquellas que no tengan riesgo de explosión por sobrepresión y/o deflagración.
 9. Riesgo de legionelosis.
 9.1 Aquellas actividades que no dispongan de actividades industriales sujetas a programas de mantenimiento incluidas en el artículo 2.2.1.º del Real Decreto 865/2003, de 4 de julio, por el que se establecen criterios higiénico-sanitarios para la prevención y control de la legionelosis.
@@ -368,6 +369,7 @@ División 15. Productos alimenticios y bebidas
 15.82 Bizcochos y galletas; pasteles y productos de pastelería de larga duración
 15.84 Cacao, chocolate y artículos de confitería preparados con azúcar
 15.9 Bebidas.
+Se modifica el apartado 8.1 por el art. 115.16 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se añade el apartado 8.1 por el art. 97.16 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
 Se añade la letra c) por el art. 162 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 Se modifica el apartado 9.1 por el art. 100 de la Ley 10/2015, de 29 de diciembre. Ref. BOE-A-2016-1205.

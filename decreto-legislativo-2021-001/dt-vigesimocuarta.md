@@ -13,6 +13,7 @@ c) Acreditar la necesidad de implantar la actividad en el suelo no urbanizable q
 5. Las industrias y actividades que se encuentren situadas en unidades de ejecución en suelo urbano o en sectores de suelo urbanizable, podrán regularizarse:
 a) Bien ejecutando las previsiones del planeamiento, pudiendo efectuar, si fuera necesario, modificaciones de la ordenación pormenorizada para subdividir la unidad o unidades de ejecución inicialmente previstas.
 b) Bien clasificando el suelo de como no urbanizable y seguir el proceso de los párrafos anteriores. La desclasificación del suelo será en todo caso una decisión administrativa adoptada en función de los intereses generales que deberá estar aprobada en el plazo de tres años desde la publicación de esta disposición. Con la aprobación de la desclasificación del suelo comenzará un plazo de 2 años para llevar a cabo la regularización, contado desde la propia fecha de la desclasificación.
+Se modifica el apartado 4 por el art. 101.16 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se modifica el apartado 4 por el art. 83.15 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320
 Se modifica el título y el apartado 2.b) por la disposición adicional 5 de la Ley 2/2025, de 15 de abril. Ref. BOE-A-2025-9743#da-5
 Se modifica por el art. 8 del Decreto-ley 14/2023, de 19 de diciembre. Ref. DOGV-r-2023-90342

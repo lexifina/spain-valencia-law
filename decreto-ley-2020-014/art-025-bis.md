@@ -2,4 +2,5 @@ Artículo 25 bis. Coordinación entre los órganos que intervienen en el trámit
 1. Con el objetivo de agilizar el procedimiento, los informes técnicos emitidos por los órganos o entidades competentes se trasladarán de manera coordinada y simultánea al órgano sustantivo, con el fin de que el promotor pueda gestionar una única modificación de la instalación que integre todos los condicionados requeridos.
 2. Para evitar incompatibilidades entre los informes que realicen las diferentes unidades y órganos administrativos de una determinada conselleria, deberán supervisarse por el órgano superior común (dirección general o secretaría autonómica) antes de su envío al órgano sustantivo.
 3. Los informes emitidos por los distintos órganos y entidades consultados deberán indicar de manera clara y precisa los condicionados establecidos de manera que el órgano sustantivo pueda comprobar con facilidad su incorporación al proyecto por parte del promotor.
+Se modifica por el art. 125.10 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se añade por el art. 103.8 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320

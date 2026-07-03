@@ -84,6 +84,7 @@ A efectos de este catálogo son actividades de hostelería y restauración las q
 2.8.4 Cafeterías. Establecimientos destinados para que el público pueda consumir bebidas o comidas indistintamente en barra o en mesas.
 2.8.5 Establecimientos públicos ubicados en zona marítimo-terrestre. Establecimientos en los que, previa licencia o autorización administrativa concedida por el ayuntamiento de acuerdo con la normativa de costas y demás regulación sectorial, se realicen las actividades propias de los mismos como servicio de comidas o bebidas.
 2.8.6 Salón-lounge. Establecimientos destinados al servicio de bebidas y, en su caso, comidas para ser consumidos en barra o en mesas. Podrán contar con sistema de reproducción para amenización musical y con servicio de cocina en relación con su objeto.
+2.8.7 Horchaterías. Establecimientos dedicados principalmente a la elaboración y/o venta de horchata, así como de otros productos tales como fartons, zumos granizados, helados, leche merengada y equivalentes, para ser consumidos en mesas bien en el interior del local, bien en terrazas.
 3. Exhibición de animales.
 Los establecimientos donde se exhiben animales se clasificarán en.
 3.1 Parques zoológicos. Recintos acotados en los que se guardan o exhiben animales en estado de libertad o en instalaciones cerradas.
@@ -93,6 +94,7 @@ Los establecimientos donde se exhiben animales se clasificarán en.
 4.1 Bous al carrer. Festejos taurinos tradicionales consistentes, en general, en la suelta en establecimientos cerrados o en la vía pública de reses para fomento o recreo de la afición sin que lleven aparejada su lidia. Se regularán por su normativa específica.
 4.2 Recintos taurinos. Instalación cerrada de carácter preferentemente eventual, con la adecuada solidez y seguridad, destinada de manera exclusiva a la realización de festejos taurinos tradicionales (bous al carrer). Se regularán por su normativa específica.
 4.3 Fiestas populares. Actividades que se celebran, generalmente, al aire libre, con motivo de las fiestas patronales o celebraciones populares, con actuaciones musicales, bailes, tenderetes, fuegos artificiales, hostelería y restauración.
+Se añade el epígrafe 2.8.7 por el art. 44.3 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se modifican los epígrafes 1.2.5 y 2.7.4 por el art. 207 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
 Se añade el epígrafe 1.2.7 y se modifica el epígrafe 2.7 por los arts. 116 y 117 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018
 Se modifica por el art. 48 de la Ley 6/2018, de 12 de marzo. Ref. BOE-A-2018-5395

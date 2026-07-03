@@ -11,4 +11,5 @@ d) Informe técnico que justifique el carácter extraordinario de la circunstanc
 6. Para la resolución de las solicitudes de horarios comerciales excepcionales se podrá recabar aquellos informes que se estimen convenientes para la resolución del expediente.
 7. El servicio territorial competente resolverá sobre la solicitud en el plazo máximo de dos meses desde su presentación.
 8. La resolución a que se refiere el apartado anterior será notificada al interesado conforme a lo establecido en los artículos 21 y 40 de la Ley 39/2015, de 1 de octubre. El ayuntamiento difundirá su contenido entre los interesados, además, deberá publicarla, al menos, en el tablón de edictos del ayuntamiento, así como en la página web municipal.
+Se modifica por el art. 123.8 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se añade por el art. 101.8 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320

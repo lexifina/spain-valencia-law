@@ -1,6 +1,7 @@
-Disposición final segunda bis. Centros de Reproducción Humana Asistida (RHA) en centros con autorización sanitaria.
-1. Se permite la instalación y funcionamiento de los centros de tipo C.2.5.2 (Centros de reproducción humana asistida) en cualquier centro sanitario que cuente con autorización sanitaria vigente. Tales centros RHA podrán establecerse en las instalaciones de los centros autorizados siempre que se cumplan las previsiones del presente artículo y, en todo caso deberán contar con un número de registro sanitario propio.
+Disposición final segunda bis. Centros de reproducción humana asistida (RHA) en centros con autorización sanitaria.
+1. Se permite la instalación y funcionamiento de los centros de tipo C.2.5.2 (centros de reproducción humana asistida) en cualquier centro sanitario que cuente con autorización sanitaria vigente. Tales centros RHA podrán establecerse en las instalaciones de los centros autorizados siempre que se cumplan las previsiones del presente artículo y, en todo caso deberán contar con un número de registro sanitario propio.
 2. Será responsabilidad de la persona titular del centro de reproducción humana asistida (RHA) garantizar que cualquier acuerdo suscrito con terceros para la prestación de servicios se realice exclusivamente con entidades o centros debidamente autorizados.
 3. Los centros en funcionamiento dispondrán de un plazo máximo de cuatro años para adecuarse y cumplir con la presente disposición.
 4. El procedimiento de autorización de estos centros será el establecido en la normativa reglamentaria por la que se establecen las autorizaciones sanitarias y los registros de ordenación sanitaria de la Conselleria de Sanidad.
+Se modifica por el art. 92 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
 Se añade por el art. 75.3 del Decreto-ley 14/2025, de 26 de diciembre. Ref. DOGV-r-2025-90320

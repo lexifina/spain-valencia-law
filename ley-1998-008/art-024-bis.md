@@ -1,0 +1,5 @@
+Artículo 24 bis. Escisión.
+1. La escisión o creación de otra u otras fundaciones mediante la segregación de una parte o de varias partes de su patrimonio, que se transmite a otra u otras fundaciones, exige que no conste la voluntad contraria del fundador y que se justifique el mejor cumplimiento de los fines fundacionales de la escindida.
+2. La escisión con creación de una nueva fundación requerirá el acuerdo motivado del patronato, lo que se comunicará al Protectorado, y el cumplimiento de lo previsto en la presente ley para constituir una fundación.
+3. En cualquier caso de escisión, el Protectorado podrá oponerse por razones de legalidad y mediante un acuerdo motivado en el plazo máximo de tres meses, que comenzará a contar desde que se le haya notificado el acuerdo de escisión. Transcurrido dicho plazo, se entenderá autorizada la escisión. El Protectorado podrá comunicar en cualquier momento, dentro de dicho plazo y de forma expresa, su conformidad con el acuerdo de escisión.
+Se añade por el art. 45.4 de la Ley 3/2026, de 29 de junio. Ref. BOE-A-2026-15683
