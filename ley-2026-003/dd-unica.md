@@ -1,0 +1,22 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas las siguientes normas con rango de ley:
+a) Decreto-ley 20/2024, de 30 de diciembre, del Consell, de medidas urbanísticas urgentes para favorecer las tareas de reconstrucción tras los daños producidos por la dana.
+b) Decreto-ley 7/2024, de 9 de julio, del Consell, de simplificación administrativa de la Generalitat.
+c) Decreto-ley 14/2025, de 26 de diciembre, del Consell, de medidas frente a la hiperregulación, la agilización de procedimientos y la garantía de la unidad de mercado.
+2. Quedan derogadas las siguientes normas con rango inferior a la ley:
+a) Decreto 77/1984 de 30 de julio, del Consell de la Generalitat Valenciana, sobre regulación de transporte escolar.
+b) Decreto 90/1995, de 16 de mayo, del Gobierno Valenciano, por el que se regula la composición, competencias y funcionamiento del Consejo de la formación de personas adultas en la Comunitat Valenciana.
+c) Orden de 15 de noviembre de 1988, del conseller de Obras Públicas, Urbanismo y Transportes, sobre autorización provisional para la prestación de servicios públicos de transporte escolar.
+d) Orden de 10 de noviembre de 1999, de la Conselleria de Economía y Hacienda, sobre la distribución del excedente y el presupuesto anual del Fondo de formación y promoción cooperativa, en las cooperativas de crédito de la Comunitat Valenciana.
+e) Orden de 2 de mayo de 2000, de la Conselleria de Cultura, Educación y Ciencia, de la Conselleria de Empleo y de la Conselleria de Bienestar Social, por la que se aprueba el Reglamento de funcionamiento del Consejo de la formación de personas adultas en la Comunitat Valenciana.
+f) Orden de 31 de julio de 2009, de la Conselleria de Infraestructuras y Transporte, relativa a la prestación de servicios de transporte intermodal de acceso a los recintos aeroportuarios de la Comunitat Valenciana.
+g) Orden 46/2016, de 5 de agosto, de la Conselleria de Educación, Investigación Cultura y Deporte, por la que se aprueban las bases reguladoras para la concesión de subvenciones para el fomento del deporte federado y los programas de tecnificación deportiva en la Comunitat Valenciana.
+h) Orden 56/2016, de 21 de septiembre, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas a las federaciones deportivas para la adquisición de material inmovilizado.
+i) Orden 62/2016, de 28 de septiembre, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas a las federaciones deportivas con participación como selecciones de la Comunitat Valenciana en los campeonatos de España.
+j) Orden 31/2017, de 17 de julio, de la Conselleria de Educación, Investigación, Cultura y Deporte, por la que se aprueban las bases reguladoras para la concesión de subvenciones a federaciones deportivas para el desarrollo del programa Esport a l'Escola.
+k) Orden 2/2021, de 30 de abril, de la Conselleria de Economía Sostenible, Sectores Productivos, Comercio y Trabajo, por la que se regula el Observatorio de Distribuidores de Seguros y Reaseguros de la Comunitat Valenciana.
+l) Orden 32/2022, de 13 de mayo, de la Conselleria de Educación, Cultura y Deporte por la cual se aprueban las bases reguladoras y la convocatoria para el año 2022 de las subvenciones destinadas a los clubes y secciones deportivas de entidades sin ánimo de lucro de la Comunitat Valenciana con participación en competiciones oficiales internacionales y competiciones de máxima categoría estatal de deporte no profesional.
+m) Orden 15/2023, de 26 de mayo, de la Conselleria de Educación, Cultura y Deporte, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas al desarrollo de los planes de especialización deportiva.
+n) Decreto 110/1989, de 17 de julio, del Consell de la Generalitat Valenciana, por el que se regula la prestación de los servicios públicos interurbanos de grúa de arrastre y autocargante de vehículos averiados.
+o) Decreto 47/1991, de 20 de marzo, del Consell de la Generalitat Valenciana, por el que se modifica el cuaderno de servicio para los servicios públicos interurbanos de grúa de arrastre y autocargante de vehículos averiados.
+3. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este decreto-ley.
