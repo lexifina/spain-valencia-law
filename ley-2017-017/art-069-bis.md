@@ -1,0 +1,7 @@
+Artículo 69 bis.
+Los municipios de gran población regulados en el título X de la Ley 7/1985, de 2 de abril, reguladora de las Bases del régimen local, siempre que tengan más de 500.000 habitantes, podrán optar por el sistema previsto en los capítulos I y II de este título o bien acogerse al siguiente sistema de selección y provisión de puestos:
+1. El acceso por turno libre a la categoría de comisario y comisario principal se podrá realizar por concurso oposición, garantizando en todo caso que al menos un 70 % de las plazas de cada categoría sean convocadas por el turno de promoción interna y un 15 % de las plazas de cada categoría sean convocadas por el turno de movilidad.
+2. En los casos previstos en el apartado 1, los accesos por los turnos de promoción interadministrativa con movilidad y turno libre serán potestativos para la corporación convocante.
+3. Las plazas no cubiertas en los turnos de promoción interadministrativa con movilidad, movilidad y turno libre pasarán a promoción interna. Las plazas no cubiertas en el turno de promoción interna pasarán, por este orden, a turno libre, movilidad o promoción interadministrativa con movilidad.
+4. El acceso a la categoría de oficial se podrá realizar por concurso oposición, exclusivamente por los turnos de promoción interna y de movilidad, garantizando en todo caso que al menos un 70 % de las plazas sean convocadas por el turno de promoción interna y un 15 % de las plazas sean convocadas por el turno de movilidad.
+Se añade por el art. 186 de la Ley 5/2026, de 31 de julio. Ref. BOE-A-2026-19331

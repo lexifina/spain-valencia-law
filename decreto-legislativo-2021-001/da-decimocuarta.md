@@ -1,0 +1,9 @@
+Disposición adicional decimocuarta. Evaluación de impacto ambiental de los proyectos de urbanización de aprobación municipal.
+1. Se realizará por el órgano ambiental municipal la evaluación de impacto ambiental de los proyectos de urbanización que se limiten a la ejecución material de las determinaciones de un instrumento de planeamiento urbanístico vigente en el caso en que, de conformidad con la legislación básica estatal, estén sometidos a evaluación de impacto ambiental simplificada.
+2. En estos casos, la evaluación de impacto ambiental del proyecto se integrará en el procedimiento sustantivo de que se trate, sin perjuicio de lo previsto en la legislación básica estatal. A tal efecto, la entidad local aplicará una adecuada separación de las funciones del órgano municipal que ostenta las competencias para adoptar o aprobar o autorizar el proyecto y el órgano ambiental municipal.
+3. Cuando el planeamiento que ejecute haya sido evaluado ambiental y territorialmente con carácter previo, la integración de los aspectos medioambientales en la elaboración y en la adopción, aprobación o autorización del proyecto podrá justificarse mediante la comprobación de:
+a) La plena adecuación del proyecto de urbanización al planeamiento urbanístico evaluado ambientalmente.
+b) La ausencia de modificaciones sustanciales respecto de las determinaciones ambientales ya analizadas en la evaluación ambiental estratégica del plan.
+c) El cumplimiento de las medidas, condicionantes y prescripciones ambientales impuestas en la declaración ambiental y territorial estratégica o informe ambiental y territorial estratégico correspondiente.
+4. El órgano municipal emitirá el informe de impacto ambiental en los términos previstos en la legislación básica en materia. El informe de impacto ambiental perderá su vigencia si no se aprueba el proyecto en el plazo de 4 años desde su emisión.
+Se añade por el art. 76.3 de la Ley 5/2026, de 31 de julio. Ref. BOE-A-2026-19331

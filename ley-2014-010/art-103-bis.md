@@ -1,0 +1,4 @@
+Artículo 103 bis. Medidas accesorias y de reparación.
+1. La autoridad competente para resolver el expediente podrá acordar, asimismo, como medidas accesorias, en los supuestos de infracción grave o muy grave, una nueva asignación de profesional a la persona infractora y/o su adscripción a un centro sanitario distinto.
+2. Asimismo, y atendiendo a la gravedad de la infracción cometida, podrán imponerse como medidas accesorias, la reposición por parte de la persona responsable, de la situación alterada a su estado originario y la reparación de los daños y perjuicios ocasionados por su conducta infractora en el mobiliario, instalaciones o equipamiento del centro sanitario, así como el abono, en su caso, de los gastos de asistencia sanitaria de la víctima, y de las indemnizaciones que, de acuerdo con la legislación vigente, deba satisfacer la persona responsable.
+Se añade por el art. 128 de la Ley 5/2026, de 31 de julio. Ref. BOE-A-2026-19331

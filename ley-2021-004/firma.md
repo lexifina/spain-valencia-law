@@ -406,6 +406,21 @@ Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecuta
 A1-S05-05 Ingeniero Informático e ingeniera informática.
 Requisitos: Licenciatura en ingeniería informática, ingeniería informática, grado en ingeniería informática o título universitario oficial que, de acuerdo con los planes de estudio vigentes, habilitan para ejercer las actividades de carácter profesional relacionadas con la escala del cuerpo.
 Funciones: Dirigir, programar, estudiar, proponer, coordinar, gestionar, ejecutar, coordinar, inspeccionar, evaluar, asesorar y en general, aquellas de nivel superior propias de la profesión relacionadas con las actividades de ingeniería informática en servicios sanitarios dependientes de la Conselleria con competencias en sanidad.
+A1-S06. Cuerpo superior facultativo de salud pública.
+Grupo/Subgrupo Profesional: A1.
+Escalas:
+– A1-S06-01. Medicina preventiva y salud pública.
+Funciones: Analizar, planificar, coordinar, implementar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel especializado en el ámbito de la salud pública.
+Requisitos: Licenciatura/grado en Medicina más especialidad en Medicina Preventiva y Salud Pública.
+– A1-S06-02. Medicina Familiar y Comunitaria.
+Funciones: Analizar, planificar, coordinar, implementar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel especializado en el ámbito de la salud pública.
+Requisitos: Licenciatura/grado en Medicina más especialidad en Medicina Familiar y Comunitaria.
+– A1-S06-03. Microbiología.
+Funciones: Analizar, planificar, coordinar, implementar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel especializado en el ámbito de la salud pública.
+Requisitos: Licenciatura/grado en Medicina, Farmacia, Biología o Biotecnología más especialidad en Microbiología y Parasitología.
+– A1-S06-04. Medicina del Trabajo.
+Funciones: Analizar, planificar, coordinar, implementar, evaluar y asesorar, en el perfil correspondiente a su titulación, en todas aquellas actividades de nivel especializado en el ámbito de la salud pública.
+Requisitos: Licenciatura/grado en Medicina más especialidad en Medicina del Trabajo.
 A2-S02: Cuerpo Enfermero inspector de servicios sanitarios.
 Requisitos Diplomatura en Enfermería, o grado en enfermería.
 Grupo/ Subgrupo Profesional A2.
@@ -444,12 +459,14 @@ C1-S02: Cuerpo Especialistas en salud pública de la administración de la Gener
 Requisitos: Bachiller o ciclo formativo de grado medio de Formación Profesional.
 Grupo/Subgrupo Profesional: C1.
 Funciones: Actividades de colaboración, preparación, gestión de la información, inspección de actividades, actualización y tramitación de documentos, elaboración de datos inventariados y mantenimiento de equipos y aplicaciones y, en general, las propias de la profesión relacionadas con las actividades necesarias para garantizar la salud de la población especialmente en el ámbito de la seguridad alimentaria, sanidad ambiental y laboratorio de salud pública.
+C1-S02: Cuerpo de técnicos de apoyo en salud pública de la Administración de la Generalitat.
 C2-S02 Cuerpo Auxiliares de salud pública de la administración de la Generalitat.
 Requisitos: Título de graduado en ESO.
 Grupo/Subgrupo Profesional: C2.
 Funciones: Colaboración, de acuerdo con su nivel de titulación, con los grupos superiores en todas aquellas actividades necesarias para garantizar la salud de la población, en el ámbito de las competencias de salud pública.
 APF-S01 Cuerpo Subalterno de gestión sanitaria de la administración de la Generalitat.
 Funciones: Informar sobre la ubicación de locales y controlar los accesos a los mismos; custodiar, controlar y realizar el mantenimiento básico de material, mobiliario e instalaciones; transportar objetos no pesados; utilizar máquinas reproductoras y fotocopiadoras; clasificar y el repartir la correspondencia; trasladar documentos y material y entregar las notificaciones.
+Se modifica por el art. 106 de la Ley 5/2026, de 31 de julio. Ref. BOE-A-2026-19331
 Se modifica por el art. 186 de la Ley 5/2025, de 30 de mayo. Ref. BOE-A-2025-11959
 Se modifica por los arts. 133 y 134 de la Ley 8/2022, de 29 de diciembre. Ref. BOE-A-2023-5482
 Se modifica por el art. 111 de la Ley 7/2021, de 29 de diciembre. Ref. BOE-A-2022-1018

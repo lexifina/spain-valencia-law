@@ -1,0 +1,6 @@
+Artículo 36 bis. Prestación puntual de servicios ante situaciones de emergencia.
+1. Los municipios que, por situaciones de emergencia, tengan sobrecarga de servicios policiales, podrán recibir colaboración de otros cuerpos de policía local de cualquier municipio, previa autorización de los titulares de las alcaldías correspondientes.
+En todo caso, deberán remitir comunicación escrita a la dirección general competente en materia de seguridad pública a meros efectos informativos.
+2. En caso de declaración de emergencia de nivel 1 o 2 de cualquier plan de emergencias de ámbito autonómico y cuando la situación operativa y los criterios técnicos lo requieran, la persona que ostente la dirección del plan activado podrá acordar mediante orden la movilización de los efectivos necesarios de los distintos cuerpos de policía local de cualquier municipio de la Comunitat Valenciana, en el marco de la normativa de protección civil y con respeto a la autonomía local reconocida constitucionalmente, siempre que su actuación sea necesaria para evitar un peligro grave y directo para la seguridad de las personas o de los bienes.
+Estas actuaciones se realizarán a través de sus mandos naturales, bajo la dependencia de la autoridad requirente.
+Se añade por el art. 183.5 de la Ley 5/2026, de 31 de julio. Ref. BOE-A-2026-19331
