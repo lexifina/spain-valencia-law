@@ -297,6 +297,20 @@
     "ley-2023-001"
    ],
    "sha256": "070320d6cff36b9b2bcea18821275a4dc0161ec9b496c9f6ec48ec9a895a91bb"
+  },
+  "90-date-sanity-a6-q801-01.json": {
+   "acts": [
+    "ley-1984-002",
+    "ley-1997-013"
+   ],
+   "sha256": "c8b9bf9b5bd6613becbad572fe60e0e918e2b69a02b4a1a7386b8f87aa9ade7e"
+  },
+  "91-date-sanity-a6-q801-02.json": {
+   "acts": [
+    "ley-2005-004",
+    "ley-2017-019"
+   ],
+   "sha256": "464f3bf78e545fb0a19933a05e502672fd892d12304623093157f31420cac23a"
   }
  },
  "schema": 1

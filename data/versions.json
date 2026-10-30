@@ -181,6 +181,12 @@
    "versions": [
     {
      "from": "1984-05-03",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-12725",
+     "sha256": "86a0aa8e54e9726de0a2cf1d8b20cf15105e8b3fe2a06c6674f38dbdf3b2c600"
+    },
+    {
+     "from": "1984-05-18",
      "units": 10,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-12725",
      "sha256": "86a0aa8e54e9726de0a2cf1d8b20cf15105e8b3fe2a06c6674f38dbdf3b2c600"

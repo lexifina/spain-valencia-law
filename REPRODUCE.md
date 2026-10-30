@@ -19,7 +19,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-1983-004` | Ley 4/1983, de 23 de noviembre, de uso y enseñanza del Valenciano. | 1 | 1983-12-02 to 1983-12-02 |
 | `ley-1983-005` | Ley 5/1983, de 30 de diciembre, de Gobierno Valenciano. | 9 | 1983-12-30 to 2013-01-01 |
 | `ley-1984-001` | Ley 1/1984, de 18 de abril, de ordenación de la Artesanía. | 1 | 1984-05-02 to 1984-05-02 |
-| `ley-1984-002` | Ley 2/1984, de 10 de mayo, del Instituto de la Pequeña y Mediana Industria de la Generalidad Valenciana. | 1 | 1984-05-03 to 1984-05-03 |
+| `ley-1984-002` | Ley 2/1984, de 10 de mayo, del Instituto de la Pequeña y Mediana Industria de la Generalidad Valenciana. | 2 | 1984-05-03 to 1984-05-18 |
 | `ley-1984-003` | Ley 3/1984, de 6 de junio, de creación y regulación del Consejo Asesor de RTVE en la Comunidad Valenciana. | 1 | 1984-06-12 to 1984-06-12 |
 | `ley-1984-008` | Ley 8/1984, de 4 de diciembre, por la que se regulan los símbolos de la Comunidad Valenciana y su utilización. | 1 | 1984-12-13 to 1984-12-13 |
 | `ley-1985-001` | Ley 1/1985, de 23 de febrero, de Tributación sobre Juegos de Azar. | 1 | 1985-02-24 to 1985-02-24 |
@@ -278,19 +278,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `decreto-ley-2020-006` | Decreto-ley 6/2020, de 5 de junio, para la ampliación de vivienda pública en la Comunitat Valenciana mediante los derechos de tanteo y retracto. | 6 | 2020-06-12 to 2025-06-01 |
 | `ley-2023-001` | Ley 1/2023, de 8 de marzo, de creación de la Agencia Valenciana de Cambio Climático. | 2 | 2023-03-11 to 2025-06-01 |
 
-The build made 591 commits:
+The build made 599 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 263 | first version of an act |
-| 326 | one law on its in-force day |
+| 327 | one law on its in-force day |
 | 2 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 497 laws in the record.
-- 1911 tags.
+- 1912 tags.
 
 ## Dates
 
@@ -302,13 +302,13 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9c8d7784de36ff489059000990362c28a8093ffaadbf4478ebc1f398084ca1cd` (49721034 bytes).
+- Corpus: sha256 `663a600ba9aececf16f3caee36bb64742f96a70d41f4c701f083770700427fa1` (53087953 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1454 versions of 263 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -322,6 +322,10 @@ No second build of this corpus has been compared yet.
 - Included: the Estatuto de Autonomía (an Estatal Ley Orgánica), then the unit's Autonómico norms the BOE consolidates and marks as not exhausted (vigencia_agotada N), oldest first.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
+- Ley 2/1984: DOGV disposition 2706 records publication on 17 May 1984 and commencement on 18 May 1984. The earlier BOE date is withdrawn as a corpus assertion; legal words at the corrected date are unchanged.
+- Ley 13/1997 on 2014-01-01: Ley 7/2014 final disposition fourth(b) expressly makes article 45 effective on that date. Only its two credited provisions have this retroactivity; other credits on the day retain their own dates.
+- Ley 4/2005 on 2012-10-23: Ley 1/2013 sole repealing disposition refers the listed repeals to Decreto ley 7/2012. DOGV identifies that decree as published 22 October 2012, in force 23 October 2012; the date is retained with provenance.
+- Ley 19/2017 on 2020-07-01: article 9 is attributed to Decreto-ley 7/2020 article 10 in the source amendment note, not Decreto-ley 9/2020. Its legal text and in-force date are retained.
 
 ## What AI did and did not do
 
@@ -333,3 +337,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the BOE consolidated texts.
+- A model identified official commencement clauses and attribution discrepancies; all legal text is retained byte for byte from the published corpus, without OCR or model rewriting.
+- A model identified official commencement clauses and attribution discrepancies; all legal text is retained byte for byte from the published corpus, without OCR or model rewriting.
