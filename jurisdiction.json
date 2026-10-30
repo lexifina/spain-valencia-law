@@ -1,0 +1,11 @@
+{
+  "path": "es-vc",
+  "code": "ES-VC",
+  "name": "Valencian Community",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-valencia-law",
+  "build": "built: statute of autonomy and laws (263 norms, 1454 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
