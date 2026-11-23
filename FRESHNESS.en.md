@@ -4,11 +4,11 @@
 
 [Español](FRESHNESS.md)
 
-How global-law measures how current every country is: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). For Spain:
+How global-law measures how current every country is: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). For Valencian Community:
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/valencia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 01:08 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-23 14:04 UTC**.
 - Acts held here: 263; current at the source: 256; changed at the source since the version held here: 7; no longer at the source: 0.
 - Not published: 12 (changed at the source since the version held here: 7, outside this repository's scope: 5); with no reason: 0.
 
