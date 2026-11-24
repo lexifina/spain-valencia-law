@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T14:06:40Z",
+ "generated": "2026-11-24T15:21:54Z",
  "latest": {
   "boe-autonomico|spain/valencia/acts": {
-   "attempt": 2,
+   "attempt": 8,
    "audit": null,
    "census": {
     "awaiting_text": 0,
@@ -17,36 +17,36 @@
     "repo": 263,
     "source_in_scope": 268
    },
-   "check_id": "es-boe-autonomico-20261123T140408Z",
+   "check_id": "es-boe-autonomico-20261124T152044Z",
    "commits": null,
    "corpus": "spain/valencia/acts",
-   "error": null,
-   "finished": "2026-11-23T14:04:10Z",
+   "error": "KeyError: 'backfill'",
+   "finished": "2026-11-24T15:21:21Z",
    "flags": [
     {
-     "detail": "4 norms new or updated at the BOE over 7 days ago are not here in that form",
+     "detail": "7 norms new or updated at the BOE over 7 days ago are not here in that form",
      "flag": "publish-lag"
     }
    ],
    "gap": 12,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30; 5 norms whose force ran out at the BOE are not held: outside this repository's scope",
-   "outcome": "no-change",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 15:09 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261124T150940Z); this repository's data run to 2026-10-30; 5 norms whose force ran out at the BOE are not held: outside this repository's scope",
+   "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 24,
-   "runner": "lawwatch spain (f13b561b4f)",
+   "requests": 25,
+   "runner": "lawwatch spain (e9c9e7e229)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-23T13:21:37Z",
+   "snapshot": "2026-11-24T12:36:43Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T14:04:08Z",
+   "started": "2026-11-24T15:20:44Z",
    "unexplained": 0,
    "verify": null
   }
