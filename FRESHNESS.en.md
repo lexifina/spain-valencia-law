@@ -9,7 +9,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/valencia/acts`
 
 - The official source last read and every act held here checked against it: **2026-11-23 14:04 UTC**.
-- Acts held here: 263; current at the source: 256; changed at the source since the version held here: 7; no longer at the source: 0.
-- Not published: 12 (changed at the source since the version held here: 7, outside this repository's scope: 5); with no reason: 0.
+- Acts held here: 263; current at the source: 254; changed at the source since the version held here: 9; no longer at the source: 0.
+- Not published: 14 (changed at the source since the version held here: 9, outside this repository's scope: 5); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
